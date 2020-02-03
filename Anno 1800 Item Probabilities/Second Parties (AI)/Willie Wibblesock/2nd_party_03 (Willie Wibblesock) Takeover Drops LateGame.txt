@@ -1,0 +1,20 @@
+GUID: 191878, Type: VehicleItem, Rarity: Epic, Name: White Flag, Probability: 2,5 
+GUID: 191991, Type: VehicleItem, Rarity: Legendary, Name: Great White Flag, Probability: 5 
+GUID: 191696, Type: TownhallItem, Rarity: Uncommon, Name: One-Man-Band Billboard, Probability: 3,3333333333333335 
+GUID: 191697, Type: TownhallItem, Rarity: Rare, Name: Piano Concerto Billboard, Probability: 2,5 
+GUID: 191698, Type: TownhallItem, Rarity: Epic, Name: La Condesa Del Amor's Majestic Dance Billboard, Probability: 2,5 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 3,3333333333333335 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 3,3333333333333335 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 2,5 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 2,5 
+GUID: 190910, Type: GuildhouseItem, Rarity: Epic, Name: Harker's Electric Treadle Lathe, Probability: 2,5 
+GUID: 190852, Type: GuildhouseItem, Rarity: Epic, Name: Vincent Drag Saw, Probability: 2,5 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 5 
+GUID: 190522, Type: CultureItem, Rarity: Common, Name: Quartz Crystals, Probability: 5 
+GUID: 190467, Type: CultureItem, Rarity: Common, Name: Rats, Probability: 5 
+GUID: 190529, Type: CultureItem, Rarity: Uncommon, Name: Iron Helm, Probability: 3,3333333333333335 
+GUID: 190533, Type: CultureItem, Rarity: Uncommon, Name: Iron Shield, Probability: 3,3333333333333335 
+GUID: 190535, Type: CultureItem, Rarity: Uncommon, Name: Iron Sword, Probability: 3,3333333333333335 
+GUID: 190487, Type: CultureItem, Rarity: Uncommon, Name: Pyrite Crystals, Probability: 3,3333333333333335 
+GUID: 190489, Type: CultureItem, Rarity: Rare, Name: Jade Pearl, Probability: 2,5 
+GUID: 190547, Type: CultureItem, Rarity: Epic, Name: Diamond, Probability: 5 

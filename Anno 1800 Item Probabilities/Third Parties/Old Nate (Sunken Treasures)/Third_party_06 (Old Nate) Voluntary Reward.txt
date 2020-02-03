@@ -1,0 +1,37 @@
+GUID: 112554, Type: VehicleItem, Rarity: Rare, Name: Ballast Cable, Probability: 0,11904761904761904 
+GUID: 112548, Type: VehicleItem, Rarity: Rare, Name: Ballasted Diving Bell, Probability: 0,11904761904761904 
+GUID: 113359, Type: VehicleItem, Rarity: Rare, Name: Hobby Diver, Probability: 0,11904761904761904 
+GUID: 112368, Type: VehicleItem, Rarity: Rare, Name: IndiscrimiN8r, Probability: 0,11904761904761904 
+GUID: 112377, Type: VehicleItem, Rarity: Rare, Name: Jet Propeller — "Squall", Probability: 0,11904761904761904 
+GUID: 113356, Type: VehicleItem, Rarity: Rare, Name: Marine Biologist, Probability: 0,11904761904761904 
+GUID: 113353, Type: VehicleItem, Rarity: Rare, Name: Renowned Excavator, Probability: 0,11904761904761904 
+GUID: 113362, Type: VehicleItem, Rarity: Rare, Name: Treasure Seeker, Probability: 0,11904761904761904 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,08928571428571429 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,08928571428571429 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,08928571428571429 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,08928571428571429 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,08928571428571429 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,08928571428571429 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,08928571428571429 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,08928571428571429 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,08928571428571429 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,08928571428571429 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,08928571428571429 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,08928571428571429 
+GUID: 112551, Type: ActiveItem, Rarity: Rare, Name: Echo Sounder, Probability: 0,11904761904761904 
+GUID: 112386, Type: HarborOfficeItem, Rarity: Rare, Name: TrepanN8r, Probability: 0,11904761904761904 
+GUID: 112389, Type: TownhallItem, Rarity: Rare, Name: Mystery Vending Box, Probability: 0,11904761904761904 
+GUID: 112392, Type: TownhallItem, Rarity: Rare, Name: Nate's Experimental Illuminations, Probability: 0,11904761904761904 
+GUID: 112374, Type: GuildhouseItem, Rarity: Rare, Name: AlterN8 Current Generator, Probability: 0,11904761904761904 
+GUID: 116159, Type: GuildhouseItem, Rarity: Rare, Name: Aspirin Machine, Probability: 0,11904761904761904 
+GUID: 112365, Type: GuildhouseItem, Rarity: Rare, Name: ForkTuN8 Mk.1, Probability: 0,11904761904761904 
+GUID: 112380, Type: GuildhouseItem, Rarity: Rare, Name: Grubby Hands, Probability: 0,11904761904761904 
+GUID: 112383, Type: GuildhouseItem, Rarity: Rare, Name: Hydroelectric Wheel, Probability: 0,11904761904761904 
+GUID: 116180, Type: GuildhouseItem, Rarity: Rare, Name: Ice Maker, Probability: 0,11904761904761904 
+GUID: 112371, Type: GuildhouseItem, Rarity: Rare, Name: ImpersoN8r Nr. 531, Probability: 0,11904761904761904 
+GUID: 116179, Type: GuildhouseItem, Rarity: Rare, Name: Jukebox, Probability: 0,11904761904761904 
+GUID: 116160, Type: GuildhouseItem, Rarity: Rare, Name: Music Box, Probability: 0,11904761904761904 
+GUID: 116158, Type: GuildhouseItem, Rarity: Rare, Name: Radiator, Probability: 0,11904761904761904 
+GUID: 116178, Type: GuildhouseItem, Rarity: Rare, Name: RefridgerN8r, Probability: 0,11904761904761904 
+GUID: 116177, Type: GuildhouseItem, Rarity: Rare, Name: Smoke Detector, Probability: 0,11904761904761904 
+GUID: 116176, Type: GuildhouseItem, Rarity: Rare, Name: Water Cooler, Probability: 0,11904761904761904 

@@ -1,0 +1,125 @@
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,19230769230769232 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,19230769230769232 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,19230769230769232 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,19230769230769232 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,19230769230769232 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,19230769230769232 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,19230769230769232 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,19230769230769232 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,19230769230769232 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,19230769230769232 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,19230769230769232 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,19230769230769232 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,11029411764705882 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,11029411764705882 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,11029411764705882 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,11029411764705882 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,11029411764705882 
+GUID: 113202, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken La Corona Clipper, Probability: 0,11029411764705882 
+GUID: 113201, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Rebel Supply Ship, Probability: 0,11029411764705882 
+GUID: 113200, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Royal Clipper, Probability: 0,11029411764705882 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,11029411764705882 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,11029411764705882 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,11029411764705882 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,11029411764705882 
+GUID: 113194, Type: ItemWithUI, Rarity: Legendary, Name: Jörmungandr's Lair, Probability: 0,26785714285714285 
+GUID: 113204, Type: ItemWithUI, Rarity: Legendary, Name: Map of Isabel Sarmento's Emergency Vault, Probability: 0,26785714285714285 
+GUID: 115483, Type: ItemWithUI, Rarity: Legendary, Name: Map of Old Nate's Prototype Airship Crash Site, Probability: 0,26785714285714285 
+GUID: 113205, Type: ItemWithUI, Rarity: Legendary, Name: Map of Vicente Silva's Sunken Ship-of-the-Line, Probability: 0,26785714285714285 
+GUID: 113203, Type: ItemWithUI, Rarity: Legendary, Name: Map of Willie Wibblesock's Wondrous Stash, Probability: 0,26785714285714285 
+GUID: 115480, Type: ItemWithUI, Rarity: Legendary, Name: Megalodon's Abyss, Probability: 0,26785714285714285 
+GUID: 112940, Type: ItemWithUI, Rarity: Legendary, Name: The Gates to Paititi, Probability: 0,26785714285714285 
+GUID: 112941, Type: ItemWithUI, Rarity: Legendary, Name: The Herdsman's Journal, Probability: 0,26785714285714285 
+GUID: 113196, Type: ItemWithUI, Rarity: Legendary, Name: The Kraken's Pit, Probability: 0,26785714285714285 
+GUID: 113195, Type: ItemWithUI, Rarity: Legendary, Name: The Nest of Gukulmatz, Probability: 0,26785714285714285 
+GUID: 112935, Type: ItemWithUI, Rarity: Legendary, Name: The Palaces of Baiea, Probability: 0,26785714285714285 
+GUID: 115477, Type: ItemWithUI, Rarity: Legendary, Name: The Portal to Hyperborea, Probability: 0,26785714285714285 
+GUID: 191821, Type: TownhallItem, Rarity: Uncommon, Name: A Study For Men, Probability: 0,42857142857142855 
+GUID: 191771, Type: TownhallItem, Rarity: Uncommon, Name: Censored Books Act, Probability: 0,42857142857142855 
+GUID: 191723, Type: TownhallItem, Rarity: Uncommon, Name: Collegiate Bill, Probability: 0,42857142857142855 
+GUID: 191791, Type: TownhallItem, Rarity: Uncommon, Name: Evangeliser's Tracts, Probability: 0,42857142857142855 
+GUID: 191753, Type: TownhallItem, Rarity: Uncommon, Name: Historical Preservation Act, Probability: 0,42857142857142855 
+GUID: 191717, Type: TownhallItem, Rarity: Uncommon, Name: Midnight Curfew, Probability: 0,42857142857142855 
+GUID: 191762, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Working Age 8 Act, Probability: 0,42857142857142855 
+GUID: 191794, Type: TownhallItem, Rarity: Uncommon, Name: Minor Income Tax Amendment, Probability: 0,42857142857142855 
+GUID: 191693, Type: TownhallItem, Rarity: Uncommon, Name: Noon Closure Act, Probability: 0,42857142857142855 
+GUID: 191741, Type: TownhallItem, Rarity: Uncommon, Name: Parish Tax Law, Probability: 0,42857142857142855 
+GUID: 191759, Type: TownhallItem, Rarity: Uncommon, Name: Political Club Dissolution Order, Probability: 0,42857142857142855 
+GUID: 191729, Type: TownhallItem, Rarity: Uncommon, Name: Religious Schooling Charter, Probability: 0,42857142857142855 
+GUID: 191747, Type: TownhallItem, Rarity: Uncommon, Name: Saponification Tax, Probability: 0,42857142857142855 
+GUID: 191783, Type: TownhallItem, Rarity: Uncommon, Name: Small Alcohol Tax, Probability: 0,42857142857142855 
+GUID: 191803, Type: TownhallItem, Rarity: Uncommon, Name: Statutory Night Work Act, Probability: 0,42857142857142855 
+GUID: 191777, Type: TownhallItem, Rarity: Uncommon, Name: Teetotalers Manifesto, Probability: 0,42857142857142855 
+GUID: 191815, Type: TownhallItem, Rarity: Uncommon, Name: The Withdrawal Amendment, Probability: 0,42857142857142855 
+GUID: 191735, Type: TownhallItem, Rarity: Uncommon, Name: Toll and Loan Rates Increase, Probability: 0,42857142857142855 
+GUID: 191742, Type: TownhallItem, Rarity: Rare, Name: Church Tax Law, Probability: 0,25641025641025644 
+GUID: 191754, Type: TownhallItem, Rarity: Rare, Name: Coal Burner Advertisement, Probability: 0,25641025641025644 
+GUID: 191816, Type: TownhallItem, Rarity: Rare, Name: Contraception Regulation, Probability: 0,25641025641025644 
+GUID: 191760, Type: TownhallItem, Rarity: Rare, Name: Demonstration Ban, Probability: 0,25641025641025644 
+GUID: 191694, Type: TownhallItem, Rarity: Rare, Name: Early Closure Act, Probability: 0,25641025641025644 
+GUID: 191718, Type: TownhallItem, Rarity: Rare, Name: Evening Curfew, Probability: 0,25641025641025644 
+GUID: 191736, Type: TownhallItem, Rarity: Rare, Name: Exchange Rate Increase, Probability: 0,25641025641025644 
+GUID: 191792, Type: TownhallItem, Rarity: Rare, Name: Excommunication Act, Probability: 0,25641025641025644 
+GUID: 191724, Type: TownhallItem, Rarity: Rare, Name: High Fees Law, Probability: 0,25641025641025644 
+GUID: 191748, Type: TownhallItem, Rarity: Rare, Name: Lax Water Treatment Law, Probability: 0,25641025641025644 
+GUID: 191795, Type: TownhallItem, Rarity: Rare, Name: Major Income Tax Amendment, Probability: 0,25641025641025644 
+GUID: 191763, Type: TownhallItem, Rarity: Rare, Name: Minimum Working Age 6 Act, Probability: 0,25641025641025644 
+GUID: 191784, Type: TownhallItem, Rarity: Rare, Name: Moderate Alcohol Tax, Probability: 0,25641025641025644 
+GUID: 191778, Type: TownhallItem, Rarity: Rare, Name: Moderation Act, Probability: 0,25641025641025644 
+GUID: 191822, Type: TownhallItem, Rarity: Rare, Name: On the Inferior Nature of Women, Probability: 0,25641025641025644 
+GUID: 191730, Type: TownhallItem, Rarity: Rare, Name: Spartan Schooling Charter, Probability: 0,25641025641025644 
+GUID: 191804, Type: TownhallItem, Rarity: Rare, Name: Statutory Twelve Hour Day Act, Probability: 0,25641025641025644 
+GUID: 191772, Type: TownhallItem, Rarity: Rare, Name: Taboo Books Act, Probability: 0,25641025641025644 
+GUID: 191761, Type: TownhallItem, Rarity: Epic, Name: A Mighty Martial Law Declaration, Probability: 0,14705882352941177 
+GUID: 191719, Type: TownhallItem, Rarity: Epic, Name: Archbishop Stipwick's Stiff-Lipped Curfew, Probability: 0,14705882352941177 
+GUID: 191725, Type: TownhallItem, Rarity: Epic, Name: Bertie Pinkie-Toff's Edict of Elitism, Probability: 0,14705882352941177 
+GUID: 191755, Type: TownhallItem, Rarity: Epic, Name: Caprice Ltd, The Monopoly On Local Construction, Probability: 0,14705882352941177 
+GUID: 191695, Type: TownhallItem, Rarity: Epic, Name: Eagerly's Every-Fifth-Day-a-Half-Day Act, Probability: 0,14705882352941177 
+GUID: 191743, Type: TownhallItem, Rarity: Epic, Name: Hieromonk Bede's Cheeky Little Tithe Law, Probability: 0,14705882352941177 
+GUID: 191731, Type: TownhallItem, Rarity: Epic, Name: Lady Cerebellum's Ickle Bickle Classrooms Charter, Probability: 0,14705882352941177 
+GUID: 191823, Type: TownhallItem, Rarity: Epic, Name: Lady Hunt's Advice on Being A Patient Spouse, Probability: 0,14705882352941177 
+GUID: 191773, Type: TownhallItem, Rarity: Epic, Name: Lady Hunt's Order of Silence, Probability: 0,14705882352941177 
+GUID: 191737, Type: TownhallItem, Rarity: Epic, Name: Lord Stringer's Stringent Usury Laws, Probability: 0,14705882352941177 
+GUID: 191785, Type: TownhallItem, Rarity: Epic, Name: Lord Wainthrop's Booze Taxationations Most Severe!, Probability: 0,14705882352941177 
+GUID: 191793, Type: TownhallItem, Rarity: Epic, Name: Lucius' Long-Lost Doctrine of the Faith, Probability: 0,14705882352941177 
+GUID: 191805, Type: TownhallItem, Rarity: Epic, Name: Malching's Back-to-Back Itinerary for Serfs, Probability: 0,14705882352941177 
+GUID: 191796, Type: TownhallItem, Rarity: Epic, Name: Miserable Max's Brutal Tax Legislation, Probability: 0,14705882352941177 
+GUID: 191749, Type: TownhallItem, Rarity: Epic, Name: Mrs. Beetle's Repulsive Law on Pestilence, Probability: 0,14705882352941177 
+GUID: 191779, Type: TownhallItem, Rarity: Epic, Name: Ms. Amelia's Essential Prohibition Measures, Probability: 0,14705882352941177 
+GUID: 191817, Type: TownhallItem, Rarity: Epic, Name: Papal Paper of Prenatal Preservation, Probability: 0,14705882352941177 
+GUID: 191764, Type: TownhallItem, Rarity: Epic, Name: Von Malching's Minimum Working Age 4 Proposal, Probability: 0,14705882352941177 
+GUID: 191675, Type: GuildhouseItem, Rarity: Uncommon, Name: Certificate of Inspection, Probability: 0,42857142857142855 
+GUID: 191684, Type: GuildhouseItem, Rarity: Uncommon, Name: Coal Permit, Probability: 0,42857142857142855 
+GUID: 190847, Type: GuildhouseItem, Rarity: Uncommon, Name: Mercury Thermometer, Probability: 0,4285714285714286 
+GUID: 190866, Type: GuildhouseItem, Rarity: Uncommon, Name: Vitamin Supplements, Probability: 0,4285714285714286 
+GUID: 190862, Type: GuildhouseItem, Rarity: Uncommon, Name: Wood Ash, Probability: 0,4285714285714286 
+GUID: 191676, Type: GuildhouseItem, Rarity: Rare, Name: Certificate of Industrial Standard, Probability: 0,25641025641025644 
+GUID: 190863, Type: GuildhouseItem, Rarity: Rare, Name: Chemical Fertiliser, Probability: 0,25641025641025644 
+GUID: 191685, Type: GuildhouseItem, Rarity: Rare, Name: Heavy Coal Permit, Probability: 0,25641025641025644 
+GUID: 190848, Type: GuildhouseItem, Rarity: Rare, Name: Melting Point Apparatus, Probability: 0,25641025641025644 
+GUID: 190867, Type: GuildhouseItem, Rarity: Rare, Name: Veterinary Antibiotics, Probability: 0,25641025641025644 
+GUID: 190868, Type: GuildhouseItem, Rarity: Epic, Name: Angelic Anthrax Vaccine, Probability: 0,14705882352941177 
+GUID: 191686, Type: GuildhouseItem, Rarity: Epic, Name: Lord Footprint's Gargantuan Smokestack Act, Probability: 0,14705882352941177 
+GUID: 190864, Type: GuildhouseItem, Rarity: Epic, Name: Superphosphate Fertiliser, Probability: 0,14705882352941177 
+GUID: 190849, Type: GuildhouseItem, Rarity: Epic, Name: Thielemann's Tube, Probability: 0,14705882352941177 
+GUID: 191677, Type: GuildhouseItem, Rarity: Epic, Name: Von Malching's Labour Law Proposal, Probability: 0,14705882352941177 
+GUID: 114540, Type: CultureItem, Rarity: Common, Name: Bilberry, Probability: 1 
+GUID: 114539, Type: CultureItem, Rarity: Common, Name: Dandelion, Probability: 1 
+GUID: 114541, Type: CultureItem, Rarity: Common, Name: Elderberry, Probability: 1 
+GUID: 114538, Type: CultureItem, Rarity: Common, Name: Foxglove, Probability: 1 
+GUID: 114543, Type: CultureItem, Rarity: Common, Name: Hemp, Probability: 1 
+GUID: 114542, Type: CultureItem, Rarity: Common, Name: Peppermint, Probability: 1 
+GUID: 114661, Type: CultureItem, Rarity: Common, Name: Poppy, Probability: 1 
+GUID: 114662, Type: CultureItem, Rarity: Uncommon, Name: Meadow Sage, Probability: 0,4285714285714286 
+GUID: 111116, Type: CultureItem, Rarity: Uncommon, Name: Purple Saxifrage, Probability: 0,4285714285714286 
+GUID: 114670, Type: CultureItem, Rarity: Uncommon, Name: Sea Thrift, Probability: 0,4285714285714286 
+GUID: 114656, Type: CultureItem, Rarity: Uncommon, Name: Sea-lavender, Probability: 0,4285714285714286 
+GUID: 114389, Type: CultureItem, Rarity: Uncommon, Name: Tulsi, Probability: 0,4285714285714286 
+GUID: 111111, Type: CultureItem, Rarity: Uncommon, Name: Water Lily, Probability: 0,4285714285714286 
+GUID: 114669, Type: CultureItem, Rarity: Rare, Name: Jerusalem Sage, Probability: 0,2564102564102564 
+GUID: 114665, Type: CultureItem, Rarity: Rare, Name: Moon Orchid, Probability: 0,2564102564102564 
+GUID: 114381, Type: CultureItem, Rarity: Rare, Name: Purple Pitcher Plant, Probability: 0,2564102564102564 
+GUID: 111110, Type: CultureItem, Rarity: Rare, Name: Yellow Lotus, Probability: 0,2564102564102564 
+GUID: 112611, Type: CultureItem, Rarity: Epic, Name: Perry's Giant Sunburst, Probability: 0,14705882352941177 
+GUID: 114679, Type: CultureItem, Rarity: Legendary, Name: The Hades Asphodel, Probability: 0,35714285714285715 
+GUID: 111117, Type: CultureItem, Rarity: Legendary, Name: The Jujube Lotus, Probability: 0,35714285714285715 

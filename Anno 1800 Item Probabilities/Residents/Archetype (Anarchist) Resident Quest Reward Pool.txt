@@ -1,0 +1,112 @@
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 0,42857142857142855 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,6097560975609756 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 0,6097560975609756 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 0,9677419354838709 
+GUID: 192153, Type: ActiveItem, Rarity: Epic, Name: Ship Tool Trolley, Probability: 0,6666666666666666 
+GUID: 192155, Type: ActiveItem, Rarity: Legendary, Name: Poppinjay's Pulleyed Patcher-Upper, Probability: 0,625 
+GUID: 190664, Type: HarborOfficeItem, Rarity: Common, Name: Bruiser, Probability: 0,42857142857142855 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 0,6097560975609756 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 0,6097560975609756 
+GUID: 190695, Type: HarborOfficeItem, Rarity: Uncommon, Name: Ship Builder, Probability: 0,6097560975609756 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 0,9677419354838709 
+GUID: 190696, Type: HarborOfficeItem, Rarity: Rare, Name: Naval Architect, Probability: 0,967741935483871 
+GUID: 191881, Type: HarborOfficeItem, Rarity: Epic, Name: Dockyard Tool System, Probability: 0,6666666666666666 
+GUID: 191882, Type: HarborOfficeItem, Rarity: Legendary, Name: Deke's Indispensible Dockyard Crate, Probability: 0,625 
+GUID: 111175, Type: TownhallItem, Rarity: Common, Name: Affiliated Anarchist, Probability: 0,42857142857142855 
+GUID: 191564, Type: TownhallItem, Rarity: Common, Name: Governess, Probability: 0,42857142857142855 
+GUID: 191006, Type: TownhallItem, Rarity: Common, Name: Sergeant, Probability: 0,42857142857142855 
+GUID: 111018, Type: TownhallItem, Rarity: Uncommon, Name: "Freedom For All" Poster, Probability: 0,6097560975609756 
+GUID: 111176, Type: TownhallItem, Rarity: Uncommon, Name: Anti-Clerical Lecturer, Probability: 0,6097560975609756 
+GUID: 111032, Type: TownhallItem, Rarity: Uncommon, Name: Essays on the Freedom to Love, Probability: 0,6097560975609756 
+GUID: 111002, Type: TownhallItem, Rarity: Uncommon, Name: Le Tocsin, Probability: 0,6097560975609756 
+GUID: 111038, Type: TownhallItem, Rarity: Uncommon, Name: On Civil Disobedience, Probability: 0,6097560975609756 
+GUID: 110948, Type: TownhallItem, Rarity: Uncommon, Name: People's Jury Hall, Probability: 0,6097560975609756 
+GUID: 111039, Type: TownhallItem, Rarity: Rare, Name: An Anarchist: A Self-Portrait, Probability: 0,967741935483871 
+GUID: 111033, Type: TownhallItem, Rarity: Rare, Name: An Essay on Birth Control, Probability: 0,967741935483871 
+GUID: 111177, Type: TownhallItem, Rarity: Rare, Name: Democratically Elected Minister, Probability: 0,967741935483871 
+GUID: 190672, Type: TownhallItem, Rarity: Rare, Name: Generous Innkeeper, Probability: 0,967741935483871 
+GUID: 111019, Type: TownhallItem, Rarity: Rare, Name: Iconography of the Human Mind, Probability: 0,967741935483871 
+GUID: 111003, Type: TownhallItem, Rarity: Rare, Name: La Tribune Libre, Probability: 0,967741935483871 
+GUID: 111044, Type: TownhallItem, Rarity: Rare, Name: Minor Cyclideon Exhibition: Agriculture, Probability: 0,967741935483871 
+GUID: 111045, Type: TownhallItem, Rarity: Rare, Name: Minor Cyclideon Exhibition: Industry, Probability: 0,967741935483871 
+GUID: 110949, Type: TownhallItem, Rarity: Rare, Name: Popular People's Court, Probability: 0,967741935483871 
+GUID: 110950, Type: TownhallItem, Rarity: Epic, Name: Assembly Hall of Blissful Joy and Tireless Labour, Probability: 0,6666666666666666 
+GUID: 111020, Type: TownhallItem, Rarity: Epic, Name: Dr. Mercier's Anarchy Poster, Probability: 0,6666666666666666 
+GUID: 111178, Type: TownhallItem, Rarity: Epic, Name: Krapotkin, Evolutionist of Kindness, Probability: 0,6666666666666666 
+GUID: 111047, Type: TownhallItem, Rarity: Epic, Name: Major Cyclideon Exhibition: Literature, Probability: 0,6666666666666666 
+GUID: 111046, Type: TownhallItem, Rarity: Epic, Name: Major Cyclideon Exhibition: Science, Probability: 0,6666666666666666 
+GUID: 111034, Type: TownhallItem, Rarity: Epic, Name: Patriarchy, the Root of Class Struggle, Probability: 0,6666666666666666 
+GUID: 111004, Type: TownhallItem, Rarity: Epic, Name: The Firebrand and the Free, Probability: 0,6666666666666666 
+GUID: 111040, Type: TownhallItem, Rarity: Epic, Name: The Historical Sophisms of the Doctrinaire School of Communism, Probability: 0,6666666666666666 
+GUID: 111180, Type: TownhallItem, Rarity: Legendary, Name: Pietro Jonah Proud, The Philosopher of the Public Good, Probability: 0,625 
+GUID: 111048, Type: TownhallItem, Rarity: Legendary, Name: The International Liberal Forum on Art and Craft, Probability: 0,625 
+GUID: 190628, Type: GuildhouseItem, Rarity: Common, Name: Baker, Probability: 0,42857142857142855 
+GUID: 190699, Type: GuildhouseItem, Rarity: Common, Name: Boilermaker, Probability: 0,42857142857142855 
+GUID: 190740, Type: GuildhouseItem, Rarity: Common, Name: Burner, Probability: 0,42857142857142855 
+GUID: 191384, Type: GuildhouseItem, Rarity: Common, Name: Butcher, Probability: 0,42857142857142855 
+GUID: 191315, Type: GuildhouseItem, Rarity: Common, Name: Chandler, Probability: 0,42857142857142855 
+GUID: 191586, Type: GuildhouseItem, Rarity: Common, Name: Digger, Probability: 0,42857142857142855 
+GUID: 191426, Type: GuildhouseItem, Rarity: Common, Name: Glassblower, Probability: 0,42857142857142855 
+GUID: 191460, Type: GuildhouseItem, Rarity: Common, Name: Mason, Probability: 0,42857142857142855 
+GUID: 190755, Type: GuildhouseItem, Rarity: Common, Name: Miner, Probability: 0,42857142857142855 
+GUID: 190756, Type: GuildhouseItem, Rarity: Common, Name: Prospector, Probability: 0,42857142857142855 
+GUID: 191336, Type: GuildhouseItem, Rarity: Common, Name: Tanner, Probability: 0,42857142857142855 
+GUID: 190651, Type: GuildhouseItem, Rarity: Common, Name: Water-Carrier, Probability: 0,42857142857142855 
+GUID: 190700, Type: GuildhouseItem, Rarity: Common, Name: Welder, Probability: 0,42857142857142855 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 0,6097560975609756 
+GUID: 191462, Type: GuildhouseItem, Rarity: Uncommon, Name: Cementer, Probability: 0,6097560975609756 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 0,6097560975609756 
+GUID: 191397, Type: GuildhouseItem, Rarity: Uncommon, Name: Delicatesseur, Probability: 0,6097560975609756 
+GUID: 191380, Type: GuildhouseItem, Rarity: Uncommon, Name: Distiller, Probability: 0,6097560975609756 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 0,6097560975609756 
+GUID: 191428, Type: GuildhouseItem, Rarity: Uncommon, Name: Glass Maker, Probability: 0,6097560975609756 
+GUID: 110942, Type: GuildhouseItem, Rarity: Uncommon, Name: Hall of Collective Property, Probability: 0,6097560975609756 
+GUID: 190701, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Founder, Probability: 0,6097560975609756 
+GUID: 190741, Type: GuildhouseItem, Rarity: Uncommon, Name: Kiln Keeper, Probability: 0,6097560975609756 
+GUID: 190843, Type: GuildhouseItem, Rarity: Uncommon, Name: Millstone, Probability: 0,6097560975609756 
+GUID: 190824, Type: GuildhouseItem, Rarity: Uncommon, Name: Old Factory Bell, Probability: 0,6097560975609756 
+GUID: 190629, Type: GuildhouseItem, Rarity: Uncommon, Name: Pastry Chef, Probability: 0,6097560975609756 
+GUID: 190839, Type: GuildhouseItem, Rarity: Uncommon, Name: Planer, Probability: 0,6097560975609756 
+GUID: 191588, Type: GuildhouseItem, Rarity: Uncommon, Name: Quarryman, Probability: 0,6097560975609756 
+GUID: 190758, Type: GuildhouseItem, Rarity: Uncommon, Name: Refiner, Probability: 0,6097560975609756 
+GUID: 191316, Type: GuildhouseItem, Rarity: Uncommon, Name: Soap Maker, Probability: 0,6097560975609756 
+GUID: 190757, Type: GuildhouseItem, Rarity: Uncommon, Name: Ventilator, Probability: 0,6097560975609756 
+GUID: 190652, Type: GuildhouseItem, Rarity: Uncommon, Name: Volunteer Fireman, Probability: 0,6097560975609756 
+GUID: 190911, Type: GuildhouseItem, Rarity: Uncommon, Name: Wooden Moulds, Probability: 0,6097560975609756 
+GUID: 110936, Type: GuildhouseItem, Rarity: Uncommon, Name: Writing Machine, Probability: 0,6097560975609756 
+GUID: 190702, Type: GuildhouseItem, Rarity: Uncommon, Name: Wrought Ironsmith, Probability: 0,6097560975609756 
+GUID: 110943, Type: GuildhouseItem, Rarity: Rare, Name: Bureau of Worker-Owned Cooperatives, Probability: 0,967741935483871 
+GUID: 190844, Type: GuildhouseItem, Rarity: Rare, Name: Burrstone, Probability: 0,9677419354838709 
+GUID: 191403, Type: GuildhouseItem, Rarity: Rare, Name: Charcutier, Probability: 0,967741935483871 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 0,9677419354838709 
+GUID: 110937, Type: GuildhouseItem, Rarity: Rare, Name: Copperplate Printer, Probability: 0,967741935483871 
+GUID: 190840, Type: GuildhouseItem, Rarity: Rare, Name: Helical Planer, Probability: 0,9677419354838709 
+GUID: 190884, Type: GuildhouseItem, Rarity: Rare, Name: Power Loom, Probability: 0,9677419354838709 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 0,9677419354838709 
+GUID: 190703, Type: GuildhouseItem, Rarity: Rare, Name: Steely-Eyed Steelsmith, Probability: 0,967741935483871 
+GUID: 190841, Type: GuildhouseItem, Rarity: Epic, Name: "The Cutting Edge", Probability: 0,6666666666666666 
+GUID: 190832, Type: GuildhouseItem, Rarity: Epic, Name: Bechamel Converter, Probability: 0,6666666666666666 
+GUID: 111179, Type: GuildhouseItem, Rarity: Epic, Name: Bekonin, Spirit of Liberty, Probability: 0,6666666666666666 
+GUID: 191401, Type: GuildhouseItem, Rarity: Epic, Name: Chantelle the Charcutier, Probability: 0,6666666666666666 
+GUID: 192305, Type: GuildhouseItem, Rarity: Epic, Name: Extremely Loud Bell, Probability: 0,6666666666666666 
+GUID: 190881, Type: GuildhouseItem, Rarity: Epic, Name: Fine Handheld Power Auger, Probability: 0,9677419354838709 
+GUID: 110944, Type: GuildhouseItem, Rarity: Epic, Name: Hall of Mutualist Ideologies, Probability: 0,6666666666666666 
+GUID: 190910, Type: GuildhouseItem, Rarity: Epic, Name: Harker's Electric Treadle Lathe, Probability: 0,6666666666666666 
+GUID: 190845, Type: GuildhouseItem, Rarity: Epic, Name: Lovelyman's Grinding Machine, Probability: 0,6666666666666666 
+GUID: 190760, Type: GuildhouseItem, Rarity: Epic, Name: Micaela the Mining Engineer, Probability: 0,6666666666666666 
+GUID: 190913, Type: GuildhouseItem, Rarity: Epic, Name: Mickleton's Hydraulic Compacting Press, Probability: 1,6344086021505375 
+GUID: 110938, Type: GuildhouseItem, Rarity: Epic, Name: Printing Press, Probability: 0,6666666666666666 
+GUID: 190885, Type: GuildhouseItem, Rarity: Epic, Name: The Hopedale Loom, Probability: 0,6666666666666666 
+GUID: 190852, Type: GuildhouseItem, Rarity: Epic, Name: Vincent Drag Saw, Probability: 0,6666666666666666 
+GUID: 190761, Type: GuildhouseItem, Rarity: Legendary, Name: Jörg von Malching, Augur of the Auric, Probability: 0,625 
+GUID: 191431, Type: GuildhouseItem, Rarity: Legendary, Name: Seraphim Papadikas, The Window Dresser, Probability: 0,625 
+GUID: 191591, Type: GuildhouseItem, Rarity: Legendary, Name: Steven MacLeod, Geological Surveyor, Probability: 0,625 
+GUID: 191596, Type: ShipSpecialist, Rarity: Common, Name: Ensign, Probability: 0,42857142857142855 
+GUID: 111126, Type: ShipSpecialist, Rarity: Common, Name: Incendiary, Probability: 0,42857142857142855 
+GUID: 111127, Type: ShipSpecialist, Rarity: Uncommon, Name: Arsonist, Probability: 0,6097560975609756 
+GUID: 191446, Type: ShipSpecialist, Rarity: Uncommon, Name: Midshipman, Probability: 0,6097560975609756 
+GUID: 111128, Type: ShipSpecialist, Rarity: Rare, Name: Jittery Pyromaniac, Probability: 0,967741935483871 
+GUID: 191449, Type: ShipSpecialist, Rarity: Rare, Name: Pilot, Probability: 0,967741935483871 
+GUID: 111131, Type: ShipSpecialist, Rarity: Epic, Name: Wild Anarchist Sacchetti, Probability: 0,6666666666666666 
+GUID: 111129, Type: ShipSpecialist, Rarity: Epic, Name: Wild Anarchist Vacco, Probability: 0,6666666666666666 
+GUID: 111130, Type: ShipSpecialist, Rarity: Legendary, Name: Ella Golden, The Anarchist Luminary, Probability: 0,625 

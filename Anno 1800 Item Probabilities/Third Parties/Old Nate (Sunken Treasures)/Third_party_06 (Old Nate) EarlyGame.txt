@@ -1,0 +1,11 @@
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 2,5 
+GUID: 191838, Type: VehicleItem, Rarity: Uncommon, Name: Fine Spyglass, Probability: 2,5 
+GUID: 191848, Type: VehicleItem, Rarity: Uncommon, Name: Fine Wooden Hull, Probability: 2,5 
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 2,5 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 2,5 
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 2,5 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,5 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 2,5 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 2,5 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 2,5 
+GUID: 191883, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Repair Crane, Probability: 2,5 

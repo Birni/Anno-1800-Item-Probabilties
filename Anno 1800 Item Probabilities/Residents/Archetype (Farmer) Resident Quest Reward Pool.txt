@@ -1,0 +1,98 @@
+GUID: 190669, Type: TownhallItem, Rarity: Common, Name: Bartender, Probability: 0,8974358974358975 
+GUID: 191569, Type: TownhallItem, Rarity: Common, Name: Housemaid, Probability: 0,8974358974358975 
+GUID: 190671, Type: TownhallItem, Rarity: Uncommon, Name: Publican, Probability: 0,8823529411764707 
+GUID: 190615, Type: GuildhouseItem, Rarity: Common, Name: Angler, Probability: 0,8974358974358975 
+GUID: 190745, Type: GuildhouseItem, Rarity: Common, Name: Cropper, Probability: 0,8974358974358975 
+GUID: 190733, Type: GuildhouseItem, Rarity: Common, Name: Lumberjack, Probability: 0,8974358974358975 
+GUID: 191379, Type: GuildhouseItem, Rarity: Common, Name: Moonshiner, Probability: 0,8974358974358975 
+GUID: 190744, Type: GuildhouseItem, Rarity: Common, Name: Ploughman, Probability: 0,8974358974358975 
+GUID: 190734, Type: GuildhouseItem, Rarity: Common, Name: Poacher, Probability: 0,8974358974358975 
+GUID: 191580, Type: GuildhouseItem, Rarity: Common, Name: Shepherd, Probability: 0,8974358974358975 
+GUID: 190753, Type: GuildhouseItem, Rarity: Common, Name: Vintner, Probability: 0,8974358974358975 
+GUID: 191325, Type: GuildhouseItem, Rarity: Common, Name: Weaver, Probability: 0,8974358974358975 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 0,8823529411764706 
+GUID: 190869, Type: GuildhouseItem, Rarity: Uncommon, Name: Feed Yard, Probability: 0,8823529411764706 
+GUID: 190902, Type: GuildhouseItem, Rarity: Uncommon, Name: Fine Fishing Net, Probability: 0,8823529411764706 
+GUID: 190735, Type: GuildhouseItem, Rarity: Uncommon, Name: Forester, Probability: 0,8823529411764707 
+GUID: 190859, Type: GuildhouseItem, Rarity: Uncommon, Name: Furrow Plough, Probability: 1,8823529411764706 
+GUID: 190915, Type: GuildhouseItem, Rarity: Uncommon, Name: Grain Seeds, Probability: 0,8823529411764707 
+GUID: 190925, Type: GuildhouseItem, Rarity: Uncommon, Name: Grape Vines, Probability: 0,8823529411764707 
+GUID: 190746, Type: GuildhouseItem, Rarity: Uncommon, Name: Grower, Probability: 0,8823529411764707 
+GUID: 190919, Type: GuildhouseItem, Rarity: Uncommon, Name: Hop Seeds, Probability: 0,8823529411764707 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 0,8823529411764706 
+GUID: 191427, Type: GuildhouseItem, Rarity: Uncommon, Name: Joiner, Probability: 0,8823529411764707 
+GUID: 190617, Type: GuildhouseItem, Rarity: Uncommon, Name: Line Fisherman, Probability: 0,8823529411764707 
+GUID: 190883, Type: GuildhouseItem, Rarity: Uncommon, Name: Mechanical Loom, Probability: 0,8823529411764706 
+GUID: 190922, Type: GuildhouseItem, Rarity: Uncommon, Name: Potato Sprouts, Probability: 0,8823529411764707 
+GUID: 190928, Type: GuildhouseItem, Rarity: Uncommon, Name: Red Pepper Seeds, Probability: 0,8823529411764707 
+GUID: 190873, Type: GuildhouseItem, Rarity: Uncommon, Name: Slurry Tank, Probability: 0,8823529411764706 
+GUID: 191326, Type: GuildhouseItem, Rarity: Uncommon, Name: Tailor, Probability: 0,8823529411764707 
+GUID: 190736, Type: GuildhouseItem, Rarity: Uncommon, Name: Trapper, Probability: 0,8823529411764707 
+GUID: 190747, Type: GuildhouseItem, Rarity: Uncommon, Name: Vegetable Grower, Probability: 0,8823529411764707 
+GUID: 190862, Type: GuildhouseItem, Rarity: Uncommon, Name: Wood Ash, Probability: 0,8823529411764706 
+GUID: 190863, Type: GuildhouseItem, Rarity: Rare, Name: Chemical Fertiliser, Probability: 1 
+GUID: 190903, Type: GuildhouseItem, Rarity: Rare, Name: Drift Net, Probability: 1 
+GUID: 190857, Type: GuildhouseItem, Rarity: Rare, Name: Druid's Sickle, Probability: 1 
+GUID: 190749, Type: GuildhouseItem, Rarity: Rare, Name: Expert Planter, Probability: 1 
+GUID: 190870, Type: GuildhouseItem, Rarity: Rare, Name: Fine Feed Yard, Probability: 1 
+GUID: 190748, Type: GuildhouseItem, Rarity: Rare, Name: Happy Homesteader, Probability: 1,8823529411764706 
+GUID: 191582, Type: GuildhouseItem, Rarity: Rare, Name: Livestock Farmer, Probability: 1 
+GUID: 190916, Type: GuildhouseItem, Rarity: Rare, Name: Quality Grain Seeds, Probability: 1 
+GUID: 190926, Type: GuildhouseItem, Rarity: Rare, Name: Quality Grape Vines, Probability: 1 
+GUID: 190920, Type: GuildhouseItem, Rarity: Rare, Name: Quality Hop Seeds, Probability: 1 
+GUID: 190923, Type: GuildhouseItem, Rarity: Rare, Name: Quality Potato Sprouts, Probability: 1 
+GUID: 190929, Type: GuildhouseItem, Rarity: Rare, Name: Quality Red Pepper Seeds, Probability: 1 
+GUID: 190874, Type: GuildhouseItem, Rarity: Rare, Name: Slurry Pit, Probability: 1 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 1 
+GUID: 190619, Type: GuildhouseItem, Rarity: Rare, Name: Veteran Whaler, Probability: 1 
+GUID: 193187, Type: GuildhouseItem, Rarity: Epic, Name: Alexander Hancock, Probability: 0,5882352941176471 
+GUID: 190871, Type: GuildhouseItem, Rarity: Epic, Name: Fabulous Feed Yard, Probability: 0,5882352941176471 
+GUID: 190917, Type: GuildhouseItem, Rarity: Epic, Name: Hybrid Grain Seeds, Probability: 0,5882352941176471 
+GUID: 190927, Type: GuildhouseItem, Rarity: Epic, Name: Hybrid Grape Vines, Probability: 0,5882352941176471 
+GUID: 190921, Type: GuildhouseItem, Rarity: Epic, Name: Hybrid Hop Seeds, Probability: 0,5882352941176471 
+GUID: 190924, Type: GuildhouseItem, Rarity: Epic, Name: Hybrid Potato Sprouts, Probability: 0,5882352941176471 
+GUID: 190930, Type: GuildhouseItem, Rarity: Epic, Name: Hybrid Red Pepper Seeds, Probability: 0,5882352941176471 
+GUID: 190904, Type: GuildhouseItem, Rarity: Epic, Name: Long Range Bottom Trawl, Probability: 0,5882352941176471 
+GUID: 190751, Type: GuildhouseItem, Rarity: Epic, Name: Medal-Winning Producer, Probability: 0,5882352941176471 
+GUID: 192299, Type: GuildhouseItem, Rarity: Epic, Name: Miraculous Steel Plough, Probability: 0,5882352941176471 
+GUID: 190621, Type: GuildhouseItem, Rarity: Epic, Name: Mother of Pearls, Probability: 0,5882352941176471 
+GUID: 190861, Type: GuildhouseItem, Rarity: Epic, Name: Patent Steel Seed Drill, Probability: 0,5882352941176471 
+GUID: 190875, Type: GuildhouseItem, Rarity: Epic, Name: Sophisticated Slurry Lagoon, Probability: 0,5882352941176471 
+GUID: 190858, Type: GuildhouseItem, Rarity: Epic, Name: Teutonic Technical Secateurs, Probability: 0,5882352941176471 
+GUID: 190750, Type: GuildhouseItem, Rarity: Epic, Name: Yvonne the Yeowoman, Probability: 0,5882352941176471 
+GUID: 190622, Type: GuildhouseItem, Rarity: Legendary, Name: Captain Moby, Old Dog of the Sea, Probability: 0,625 
+GUID: 190752, Type: GuildhouseItem, Rarity: Legendary, Name: Cosmo Castelli, Agronomic Trailblazer, Probability: 0,625 
+GUID: 114540, Type: CultureItem, Rarity: Common, Name: Bilberry, Probability: 0,8974358974358975 
+GUID: 191058, Type: CultureItem, Rarity: Common, Name: Cattle, Probability: 0,8974358974358974 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 0,8974358974358974 
+GUID: 114539, Type: CultureItem, Rarity: Common, Name: Dandelion, Probability: 0,8974358974358975 
+GUID: 191057, Type: CultureItem, Rarity: Common, Name: Domestic Cat, Probability: 0,8974358974358974 
+GUID: 191065, Type: CultureItem, Rarity: Common, Name: Domestic Pig, Probability: 0,8974358974358974 
+GUID: 191061, Type: CultureItem, Rarity: Common, Name: Donkey, Probability: 0,8974358974358974 
+GUID: 114541, Type: CultureItem, Rarity: Common, Name: Elderberry, Probability: 0,8974358974358975 
+GUID: 114538, Type: CultureItem, Rarity: Common, Name: Foxglove, Probability: 0,8974358974358975 
+GUID: 191062, Type: CultureItem, Rarity: Common, Name: Goat, Probability: 0,8974358974358974 
+GUID: 191063, Type: CultureItem, Rarity: Common, Name: Horse, Probability: 0,8974358974358974 
+GUID: 114542, Type: CultureItem, Rarity: Common, Name: Peppermint, Probability: 0,8974358974358975 
+GUID: 191054, Type: CultureItem, Rarity: Common, Name: Pigeon, Probability: 0,8974358974358974 
+GUID: 114661, Type: CultureItem, Rarity: Common, Name: Poppy, Probability: 0,8974358974358975 
+GUID: 191068, Type: CultureItem, Rarity: Common, Name: Red Fox, Probability: 0,8974358974358974 
+GUID: 191066, Type: CultureItem, Rarity: Common, Name: Sheep, Probability: 0,8974358974358974 
+GUID: 191056, Type: CultureItem, Rarity: Common, Name: Stork, Probability: 0,8974358974358974 
+GUID: 111118, Type: CultureItem, Rarity: Common, Name: Subalpine Fir, Probability: 0,8974358974358975 
+GUID: 191067, Type: CultureItem, Rarity: Common, Name: Swan, Probability: 0,8974358974358974 
+GUID: 191055, Type: CultureItem, Rarity: Common, Name: Swift, Probability: 0,8974358974358974 
+GUID: 191113, Type: CultureItem, Rarity: Uncommon, Name: Alpaca, Probability: 0,8823529411764706 
+GUID: 193190, Type: CultureItem, Rarity: Uncommon, Name: Eastern Water Buffalo, Probability: 0,8823529411764706 
+GUID: 111116, Type: CultureItem, Rarity: Uncommon, Name: Purple Saxifrage, Probability: 0,8823529411764706 
+GUID: 114670, Type: CultureItem, Rarity: Uncommon, Name: Sea Thrift, Probability: 0,8823529411764706 
+GUID: 114656, Type: CultureItem, Rarity: Uncommon, Name: Sea-lavender, Probability: 0,8823529411764706 
+GUID: 111111, Type: CultureItem, Rarity: Uncommon, Name: Water Lily, Probability: 0,8823529411764706 
+GUID: 114669, Type: CultureItem, Rarity: Rare, Name: Jerusalem Sage, Probability: 1 
+GUID: 114665, Type: CultureItem, Rarity: Rare, Name: Moon Orchid, Probability: 1 
+GUID: 114666, Type: CultureItem, Rarity: Rare, Name: Oriental Tassel Fern, Probability: 1 
+GUID: 114678, Type: CultureItem, Rarity: Legendary, Name: Holy Moly, Probability: 0,625 
+GUID: 114677, Type: CultureItem, Rarity: Legendary, Name: The Elusive Fern Flower, Probability: 0,625 
+GUID: 114679, Type: CultureItem, Rarity: Legendary, Name: The Hades Asphodel, Probability: 0,625 
+GUID: 191445, Type: ShipSpecialist, Rarity: Common, Name: Mate, Probability: 0,8974358974358975 
+GUID: 191447, Type: ShipSpecialist, Rarity: Uncommon, Name: Bosun, Probability: 0,8823529411764707 

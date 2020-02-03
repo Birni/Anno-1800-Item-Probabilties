@@ -1,0 +1,26 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 1,8421052631578947 
+GUID: 191853, Type: VehicleItem, Rarity: Rare, Name: 18-Pounder Long Gun, Probability: 1,5625 
+GUID: 191854, Type: VehicleItem, Rarity: Epic, Name: Hans Gun, Probability: 0,7692307692307693 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 1,8421052631578947 
+GUID: 191889, Type: HarborOfficeItem, Rarity: Rare, Name: Auxetophone, Probability: 1,5625 
+GUID: 191890, Type: HarborOfficeItem, Rarity: Epic, Name: Dynamic Loudspeaker, Probability: 0,7692307692307693 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 1,8421052631578947 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 1,8421052631578947 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 1,8421052631578947 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 1,8421052631578947 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 1,8421052631578947 
+GUID: 190853, Type: GuildhouseItem, Rarity: Uncommon, Name: Trap, Probability: 1,8421052631578947 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 1,5625 
+GUID: 190857, Type: GuildhouseItem, Rarity: Rare, Name: Druid's Sickle, Probability: 1,5625 
+GUID: 190854, Type: GuildhouseItem, Rarity: Rare, Name: Leghold Trap, Probability: 1,5625 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 1,5625 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 1,5625 
+GUID: 190832, Type: GuildhouseItem, Rarity: Epic, Name: Bechamel Converter, Probability: 0,7692307692307693 
+GUID: 190910, Type: GuildhouseItem, Rarity: Epic, Name: Harker's Electric Treadle Lathe, Probability: 0,7692307692307693 
+GUID: 190855, Type: GuildhouseItem, Rarity: Epic, Name: Maimer of Mustelids, Probability: 0,7692307692307693 
+GUID: 190858, Type: GuildhouseItem, Rarity: Epic, Name: Teutonic Technical Secateurs, Probability: 0,7692307692307693 
+GUID: 191058, Type: CultureItem, Rarity: Common, Name: Cattle, Probability: 2,142857142857143 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 2,142857142857143 
+GUID: 191065, Type: CultureItem, Rarity: Common, Name: Domestic Pig, Probability: 2,142857142857143 
+GUID: 191062, Type: CultureItem, Rarity: Common, Name: Goat, Probability: 2,142857142857143 
+GUID: 190467, Type: CultureItem, Rarity: Common, Name: Rats, Probability: 2,142857142857143 

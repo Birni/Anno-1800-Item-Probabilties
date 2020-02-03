@@ -1,0 +1,88 @@
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 1,25 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,20833333333333334 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 0,20833333333333334 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 0,10638297872340426 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 0,20833333333333334 
+GUID: 191894, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Crane, Probability: 0,20833333333333334 
+GUID: 191883, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Repair Crane, Probability: 0,20833333333333334 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 0,10638297872340426 
+GUID: 191895, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Crane, Probability: 0,10638297872340424 
+GUID: 191884, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Repair Crane, Probability: 0,10638297872340426 
+GUID: 191788, Type: TownhallItem, Rarity: Uncommon, Name: Amnesty on Religious Symbology, Probability: 0,20833333333333334 
+GUID: 191800, Type: TownhallItem, Rarity: Uncommon, Name: Bank Holiday Decree, Probability: 0,20833333333333334 
+GUID: 191780, Type: TownhallItem, Rarity: Uncommon, Name: Decreased Alcohol Tax Bylaws, Probability: 0,20833333333333334 
+GUID: 191756, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Association Act, Probability: 0,20833333333333334 
+GUID: 191768, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Faith Act, Probability: 0,20833333333333334 
+GUID: 191744, Type: TownhallItem, Rarity: Uncommon, Name: Graveyard Relocation Measures, Probability: 0,20833333333333334 
+GUID: 191732, Type: TownhallItem, Rarity: Uncommon, Name: Import Tax Reduction Act, Probability: 0,20833333333333334 
+GUID: 191720, Type: TownhallItem, Rarity: Uncommon, Name: Journal of Common Thought, Probability: 0,20833333333333334 
+GUID: 191765, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Schooling Act, Probability: 0,20833333333333334 
+GUID: 191690, Type: TownhallItem, Rarity: Uncommon, Name: Potholes Decree, Probability: 0,20833333333333334 
+GUID: 191809, Type: TownhallItem, Rarity: Uncommon, Name: Rioter Amesty Law, Probability: 0,20833333333333334 
+GUID: 191750, Type: TownhallItem, Rarity: Uncommon, Name: Safer Roofs Fund, Probability: 0,20833333333333334 
+GUID: 191726, Type: TownhallItem, Rarity: Uncommon, Name: School Discipline Charter, Probability: 0,20833333333333334 
+GUID: 191738, Type: TownhallItem, Rarity: Uncommon, Name: Sunday Best Law, Probability: 0,20833333333333334 
+GUID: 191797, Type: TownhallItem, Rarity: Uncommon, Name: Tax Rebates, Probability: 0,20833333333333334 
+GUID: 191714, Type: TownhallItem, Rarity: Uncommon, Name: The Lord's Blessing, Probability: 0,20833333333333334 
+GUID: 192482, Type: TownhallItem, Rarity: Uncommon, Name: The Subjection of Women, Probability: 0,20833333333333334 
+GUID: 192483, Type: TownhallItem, Rarity: Rare, Name: A Vindication of Women's Rights, Probability: 0,10638297872340426 
+GUID: 191751, Type: TownhallItem, Rarity: Rare, Name: Chimney Sweep Charter, Probability: 0,10638297872340426 
+GUID: 191691, Type: TownhallItem, Rarity: Rare, Name: City Map Act, Probability: 0,10638297872340426 
+GUID: 191781, Type: TownhallItem, Rarity: Rare, Name: Decreased Alcohol Tax Act, Probability: 0,10638297872340426 
+GUID: 191766, Type: TownhallItem, Rarity: Rare, Name: Extended Schooling Act, Probability: 0,10638297872340426 
+GUID: 191769, Type: TownhallItem, Rarity: Rare, Name: Free Press Act, Probability: 0,10638297872340426 
+GUID: 191733, Type: TownhallItem, Rarity: Rare, Name: Goods Duties Reduction Act, Probability: 0,10638297872340426 
+GUID: 191727, Type: TownhallItem, Rarity: Rare, Name: Headteacher's Charter, Probability: 0,10638297872340426 
+GUID: 191721, Type: TownhallItem, Rarity: Rare, Name: Journal of Popular Thought, Probability: 0,10638297872340426 
+GUID: 191739, Type: TownhallItem, Rarity: Rare, Name: Mandatory Mass Law, Probability: 0,10638297872340426 
+GUID: 191801, Type: TownhallItem, Rarity: Rare, Name: Queen's Birthday Decree, Probability: 0,10638297872340426 
+GUID: 191757, Type: TownhallItem, Rarity: Rare, Name: Right of Protest Act, Probability: 0,10638297872340426 
+GUID: 191810, Type: TownhallItem, Rarity: Rare, Name: Rioter Immunity Act, Probability: 0,10638297872340426 
+GUID: 191715, Type: TownhallItem, Rarity: Rare, Name: Sabbath Repeal Law, Probability: 0,10638297872340426 
+GUID: 191789, Type: TownhallItem, Rarity: Rare, Name: Secularised Bylaws, Probability: 0,10638297872340426 
+GUID: 191798, Type: TownhallItem, Rarity: Rare, Name: Tax Reduction Legislation, Probability: 0,10638297872340426 
+GUID: 191745, Type: TownhallItem, Rarity: Rare, Name: Waste Treatment Act, Probability: 0,10638297872340426 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 0,20833333333333334 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 0,20833333333333334 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 0,20833333333333334 
+GUID: 190887, Type: GuildhouseItem, Rarity: Uncommon, Name: Conveyor, Probability: 0,20833333333333334 
+GUID: 190894, Type: GuildhouseItem, Rarity: Uncommon, Name: Copper Distiller, Probability: 0,20833333333333334 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 0,20833333333333334 
+GUID: 190827, Type: GuildhouseItem, Rarity: Uncommon, Name: Dynamo, Probability: 0,20833333333333334 
+GUID: 191681, Type: GuildhouseItem, Rarity: Uncommon, Name: Fire Safety Poster, Probability: 0,20833333333333334 
+GUID: 190876, Type: GuildhouseItem, Rarity: Uncommon, Name: Freight Elevator, Probability: 0,20833333333333334 
+GUID: 190859, Type: GuildhouseItem, Rarity: Uncommon, Name: Furrow Plough, Probability: 0,20833333333333334 
+GUID: 190905, Type: GuildhouseItem, Rarity: Uncommon, Name: Glass Blower, Probability: 0,20833333333333334 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 0,20833333333333334 
+GUID: 190818, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Grillwork, Probability: 0,20833333333333334 
+GUID: 190891, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Oven, Probability: 0,20833333333333334 
+GUID: 190898, Type: GuildhouseItem, Rarity: Uncommon, Name: Magnifying Glasses, Probability: 0,20833333333333334 
+GUID: 190883, Type: GuildhouseItem, Rarity: Uncommon, Name: Mechanical Loom, Probability: 0,20833333333333334 
+GUID: 190847, Type: GuildhouseItem, Rarity: Uncommon, Name: Mercury Thermometer, Probability: 0,20833333333333334 
+GUID: 190843, Type: GuildhouseItem, Rarity: Uncommon, Name: Millstone, Probability: 0,20833333333333334 
+GUID: 191687, Type: GuildhouseItem, Rarity: Uncommon, Name: Night Pollution By-Law, Probability: 0,20833333333333334 
+GUID: 190839, Type: GuildhouseItem, Rarity: Uncommon, Name: Planer, Probability: 0,20833333333333334 
+GUID: 190873, Type: GuildhouseItem, Rarity: Uncommon, Name: Slurry Tank, Probability: 0,20833333333333334 
+GUID: 190911, Type: GuildhouseItem, Rarity: Uncommon, Name: Wooden Moulds, Probability: 0,20833333333333334 
+GUID: 190888, Type: GuildhouseItem, Rarity: Rare, Name: Assembly Line, Probability: 0,10638297872340424 
+GUID: 190860, Type: GuildhouseItem, Rarity: Rare, Name: Balance Plough, Probability: 0,10638297872340424 
+GUID: 190844, Type: GuildhouseItem, Rarity: Rare, Name: Burrstone, Probability: 0,10638297872340424 
+GUID: 190892, Type: GuildhouseItem, Rarity: Rare, Name: Cast Iron Stove, Probability: 0,10638297872340424 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 0,10638297872340424 
+GUID: 190819, Type: GuildhouseItem, Rarity: Rare, Name: Double Iron Grillwork, Probability: 0,10638297872340424 
+GUID: 190857, Type: GuildhouseItem, Rarity: Rare, Name: Druid's Sickle, Probability: 0,10638297872340424 
+GUID: 191682, Type: GuildhouseItem, Rarity: Rare, Name: Fire Prevention Directive, Probability: 0,10638297872340426 
+GUID: 190840, Type: GuildhouseItem, Rarity: Rare, Name: Helical Planer, Probability: 0,10638297872340424 
+GUID: 190899, Type: GuildhouseItem, Rarity: Rare, Name: Magnifying Glass, Probability: 0,10638297872340424 
+GUID: 190880, Type: GuildhouseItem, Rarity: Rare, Name: Mechanical Drill, Probability: 0,10638297872340424 
+GUID: 190906, Type: GuildhouseItem, Rarity: Rare, Name: Mechanised Glass Blower, Probability: 0,10638297872340424 
+GUID: 190848, Type: GuildhouseItem, Rarity: Rare, Name: Melting Point Apparatus, Probability: 0,10638297872340424 
+GUID: 191688, Type: GuildhouseItem, Rarity: Rare, Name: Night and Day Pollution By-Law, Probability: 0,10638297872340426 
+GUID: 190884, Type: GuildhouseItem, Rarity: Rare, Name: Power Loom, Probability: 0,10638297872340424 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 0,10638297872340424 
+GUID: 190877, Type: GuildhouseItem, Rarity: Rare, Name: Safety Elevator, Probability: 0,10638297872340424 
+GUID: 190874, Type: GuildhouseItem, Rarity: Rare, Name: Slurry Pit, Probability: 0,10638297872340424 
+GUID: 190895, Type: GuildhouseItem, Rarity: Rare, Name: Steam Powered Brewing Machine, Probability: 0,10638297872340424 
+GUID: 190828, Type: GuildhouseItem, Rarity: Rare, Name: Steam Turbine, Probability: 0,10638297872340424 
+GUID: 190912, Type: GuildhouseItem, Rarity: Rare, Name: Steel Moulds, Probability: 0,10638297872340424 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 0,10638297872340424 

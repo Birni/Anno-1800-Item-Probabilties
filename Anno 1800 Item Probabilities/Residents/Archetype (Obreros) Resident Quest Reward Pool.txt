@@ -1,0 +1,153 @@
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 0,7317073170731708 
+GUID: 191013, Type: VehicleItem, Rarity: Rare, Name: Lateen Style Sails, Probability: 0,46511627906976744 
+GUID: 191825, Type: VehicleItem, Rarity: Epic, Name: Fore-and-Aft Rig Sails, Probability: 0,22727272727272727 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,3488372093023256 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,3488372093023256 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,3488372093023256 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,3488372093023256 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,3488372093023256 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,3488372093023256 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,3488372093023256 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,3488372093023256 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,3488372093023256 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,3488372093023256 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,3488372093023256 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,3488372093023256 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,17045454545454544 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,17045454545454544 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,17045454545454544 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,17045454545454544 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,17045454545454544 
+GUID: 113202, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken La Corona Clipper, Probability: 0,17045454545454544 
+GUID: 113201, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Rebel Supply Ship, Probability: 0,17045454545454544 
+GUID: 113200, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Royal Clipper, Probability: 0,17045454545454544 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,17045454545454544 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,17045454545454544 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,17045454545454544 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,17045454545454544 
+GUID: 113194, Type: ItemWithUI, Rarity: Legendary, Name: Jörmungandr's Lair, Probability: 0,19736842105263158 
+GUID: 113204, Type: ItemWithUI, Rarity: Legendary, Name: Map of Isabel Sarmento's Emergency Vault, Probability: 0,19736842105263158 
+GUID: 115483, Type: ItemWithUI, Rarity: Legendary, Name: Map of Old Nate's Prototype Airship Crash Site, Probability: 0,19736842105263158 
+GUID: 113205, Type: ItemWithUI, Rarity: Legendary, Name: Map of Vicente Silva's Sunken Ship-of-the-Line, Probability: 0,19736842105263158 
+GUID: 113203, Type: ItemWithUI, Rarity: Legendary, Name: Map of Willie Wibblesock's Wondrous Stash, Probability: 0,19736842105263158 
+GUID: 115480, Type: ItemWithUI, Rarity: Legendary, Name: Megalodon's Abyss, Probability: 0,19736842105263158 
+GUID: 112940, Type: ItemWithUI, Rarity: Legendary, Name: The Gates to Paititi, Probability: 0,19736842105263158 
+GUID: 112941, Type: ItemWithUI, Rarity: Legendary, Name: The Herdsman's Journal, Probability: 0,19736842105263158 
+GUID: 113196, Type: ItemWithUI, Rarity: Legendary, Name: The Kraken's Pit, Probability: 0,19736842105263158 
+GUID: 113195, Type: ItemWithUI, Rarity: Legendary, Name: The Nest of Gukulmatz, Probability: 0,19736842105263158 
+GUID: 112935, Type: ItemWithUI, Rarity: Legendary, Name: The Palaces of Baiea, Probability: 0,19736842105263158 
+GUID: 115477, Type: ItemWithUI, Rarity: Legendary, Name: The Portal to Hyperborea, Probability: 0,19736842105263158 
+GUID: 191432, Type: HarborOfficeItem, Rarity: Common, Name: Gunner, Probability: 2,058823529411765 
+GUID: 190682, Type: HarborOfficeItem, Rarity: Rare, Name: Travel Agent, Probability: 0,46511627906976744 
+GUID: 190698, Type: HarborOfficeItem, Rarity: Legendary, Name: Rohit Bhargava, the Naval Architect, Probability: 0,2631578947368421 
+GUID: 190675, Type: TownhallItem, Rarity: Common, Name: Fellow, Probability: 2,058823529411765 
+GUID: 191788, Type: TownhallItem, Rarity: Uncommon, Name: Amnesty on Religious Symbology, Probability: 0,7317073170731707 
+GUID: 191800, Type: TownhallItem, Rarity: Uncommon, Name: Bank Holiday Decree, Probability: 0,7317073170731707 
+GUID: 191780, Type: TownhallItem, Rarity: Uncommon, Name: Decreased Alcohol Tax Bylaws, Probability: 0,7317073170731707 
+GUID: 191756, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Association Act, Probability: 0,7317073170731707 
+GUID: 191768, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Faith Act, Probability: 0,7317073170731707 
+GUID: 191744, Type: TownhallItem, Rarity: Uncommon, Name: Graveyard Relocation Measures, Probability: 0,7317073170731707 
+GUID: 191732, Type: TownhallItem, Rarity: Uncommon, Name: Import Tax Reduction Act, Probability: 0,7317073170731707 
+GUID: 191720, Type: TownhallItem, Rarity: Uncommon, Name: Journal of Common Thought, Probability: 0,7317073170731707 
+GUID: 191765, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Schooling Act, Probability: 0,7317073170731707 
+GUID: 191467, Type: TownhallItem, Rarity: Uncommon, Name: Peddler, Probability: 0,7317073170731708 
+GUID: 191690, Type: TownhallItem, Rarity: Uncommon, Name: Potholes Decree, Probability: 0,7317073170731707 
+GUID: 191809, Type: TownhallItem, Rarity: Uncommon, Name: Rioter Amesty Law, Probability: 0,7317073170731707 
+GUID: 191750, Type: TownhallItem, Rarity: Uncommon, Name: Safer Roofs Fund, Probability: 0,7317073170731707 
+GUID: 191726, Type: TownhallItem, Rarity: Uncommon, Name: School Discipline Charter, Probability: 0,7317073170731707 
+GUID: 191738, Type: TownhallItem, Rarity: Uncommon, Name: Sunday Best Law, Probability: 0,7317073170731707 
+GUID: 191797, Type: TownhallItem, Rarity: Uncommon, Name: Tax Rebates, Probability: 0,7317073170731707 
+GUID: 191714, Type: TownhallItem, Rarity: Uncommon, Name: The Lord's Blessing, Probability: 0,7317073170731707 
+GUID: 192482, Type: TownhallItem, Rarity: Uncommon, Name: The Subjection of Women, Probability: 0,7317073170731707 
+GUID: 192483, Type: TownhallItem, Rarity: Rare, Name: A Vindication of Women's Rights, Probability: 0,46511627906976744 
+GUID: 191751, Type: TownhallItem, Rarity: Rare, Name: Chimney Sweep Charter, Probability: 0,46511627906976744 
+GUID: 191691, Type: TownhallItem, Rarity: Rare, Name: City Map Act, Probability: 0,46511627906976744 
+GUID: 191781, Type: TownhallItem, Rarity: Rare, Name: Decreased Alcohol Tax Act, Probability: 0,46511627906976744 
+GUID: 191766, Type: TownhallItem, Rarity: Rare, Name: Extended Schooling Act, Probability: 0,46511627906976744 
+GUID: 191769, Type: TownhallItem, Rarity: Rare, Name: Free Press Act, Probability: 0,46511627906976744 
+GUID: 191733, Type: TownhallItem, Rarity: Rare, Name: Goods Duties Reduction Act, Probability: 0,46511627906976744 
+GUID: 191727, Type: TownhallItem, Rarity: Rare, Name: Headteacher's Charter, Probability: 0,46511627906976744 
+GUID: 191721, Type: TownhallItem, Rarity: Rare, Name: Journal of Popular Thought, Probability: 0,46511627906976744 
+GUID: 191739, Type: TownhallItem, Rarity: Rare, Name: Mandatory Mass Law, Probability: 0,46511627906976744 
+GUID: 191801, Type: TownhallItem, Rarity: Rare, Name: Queen's Birthday Decree, Probability: 0,46511627906976744 
+GUID: 191757, Type: TownhallItem, Rarity: Rare, Name: Right of Protest Act, Probability: 0,46511627906976744 
+GUID: 191810, Type: TownhallItem, Rarity: Rare, Name: Rioter Immunity Act, Probability: 0,46511627906976744 
+GUID: 191715, Type: TownhallItem, Rarity: Rare, Name: Sabbath Repeal Law, Probability: 0,46511627906976744 
+GUID: 191789, Type: TownhallItem, Rarity: Rare, Name: Secularised Bylaws, Probability: 0,46511627906976744 
+GUID: 191798, Type: TownhallItem, Rarity: Rare, Name: Tax Reduction Legislation, Probability: 0,46511627906976744 
+GUID: 191745, Type: TownhallItem, Rarity: Rare, Name: Waste Treatment Act, Probability: 0,46511627906976744 
+GUID: 191752, Type: TownhallItem, Rarity: Epic, Name: Arthur Ramshackle's Grand Reservoir Plans, Probability: 0,2272727272727273 
+GUID: 191802, Type: TownhallItem, Rarity: Epic, Name: Bente Jorgensen's Perfectly Paid Vacations Act, Probability: 0,2272727272727273 
+GUID: 191811, Type: TownhallItem, Rarity: Epic, Name: George Smith's Statute of Universal Collaboration, Probability: 0,2272727272727273 
+GUID: 191728, Type: TownhallItem, Rarity: Epic, Name: Lady Dumbedown's Colossal Class Size Charter, Probability: 0,2272727272727273 
+GUID: 191782, Type: TownhallItem, Rarity: Epic, Name: Lord Farquahar's Alcohol Tax Amendment, Probability: 0,2272727272727273 
+GUID: 191790, Type: TownhallItem, Rarity: Epic, Name: Mercier's Separate Church and State Clause, Probability: 0,2272727272727273 
+GUID: 192484, Type: TownhallItem, Rarity: Epic, Name: Millicent's Manifesto of the Suffragette, Probability: 0,2272727272727273 
+GUID: 191767, Type: TownhallItem, Rarity: Epic, Name: Miss Jorgensen's Exemplary "School-to-16" Proposal, Probability: 0,2272727272727273 
+GUID: 191746, Type: TownhallItem, Rarity: Epic, Name: Mr. Slippery's Splendiferous Sewage Proposal, Probability: 0,2272727272727273 
+GUID: 191799, Type: TownhallItem, Rarity: Epic, Name: Mrs. O'Mara's Marvellous Tax Relief Regulations, Probability: 0,2272727272727273 
+GUID: 191692, Type: TownhallItem, Rarity: Epic, Name: Mssr. Fontaine's Street Signage Solution, Probability: 0,2272727272727273 
+GUID: 191740, Type: TownhallItem, Rarity: Epic, Name: Patriarch Grigor's Calendar of Holy Days, Probability: 0,2272727272727273 
+GUID: 191734, Type: TownhallItem, Rarity: Epic, Name: Sir Archie's Royal Minty Printy Thingy, Probability: 0,2272727272727273 
+GUID: 191722, Type: TownhallItem, Rarity: Epic, Name: The Kaleidoscopeum Quarterly Review, Probability: 0,2272727272727273 
+GUID: 191758, Type: TownhallItem, Rarity: Epic, Name: The Pulltoddle Freedom of Assembly Act, Probability: 0,2272727272727273 
+GUID: 191716, Type: TownhallItem, Rarity: Epic, Name: Timothy's Blurry Law of Utter Depravity, Probability: 0,2272727272727273 
+GUID: 191770, Type: TownhallItem, Rarity: Epic, Name: Treatise on Freedom of Speech, Probability: 0,2272727272727273 
+GUID: 191330, Type: GuildhouseItem, Rarity: Common, Name: Confectioner, Probability: 2,058823529411765 
+GUID: 190639, Type: GuildhouseItem, Rarity: Common, Name: Lector, Probability: 2,058823529411765 
+GUID: 190720, Type: GuildhouseItem, Rarity: Common, Name: Nurse, Probability: 2,058823529411765 
+GUID: 190894, Type: GuildhouseItem, Rarity: Uncommon, Name: Copper Distiller, Probability: 0,7317073170731708 
+GUID: 191681, Type: GuildhouseItem, Rarity: Uncommon, Name: Fire Safety Poster, Probability: 0,7317073170731707 
+GUID: 191344, Type: GuildhouseItem, Rarity: Uncommon, Name: Hatter, Probability: 0,7317073170731708 
+GUID: 190891, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Oven, Probability: 0,7317073170731708 
+GUID: 190883, Type: GuildhouseItem, Rarity: Uncommon, Name: Mechanical Loom, Probability: 0,7317073170731708 
+GUID: 190843, Type: GuildhouseItem, Rarity: Uncommon, Name: Millstone, Probability: 0,7317073170731708 
+GUID: 191687, Type: GuildhouseItem, Rarity: Uncommon, Name: Night Pollution By-Law, Probability: 0,7317073170731707 
+GUID: 190618, Type: GuildhouseItem, Rarity: Uncommon, Name: Pearl Diver, Probability: 0,7317073170731708 
+GUID: 190712, Type: GuildhouseItem, Rarity: Uncommon, Name: Priest, Probability: 0,7317073170731708 
+GUID: 190640, Type: GuildhouseItem, Rarity: Uncommon, Name: Tobacco Blender, Probability: 0,7317073170731708 
+GUID: 191385, Type: GuildhouseItem, Rarity: Uncommon, Name: Tortillera, Probability: 0,7317073170731708 
+GUID: 190911, Type: GuildhouseItem, Rarity: Uncommon, Name: Wooden Moulds, Probability: 0,7317073170731708 
+GUID: 190844, Type: GuildhouseItem, Rarity: Rare, Name: Burrstone, Probability: 0,46511627906976744 
+GUID: 190892, Type: GuildhouseItem, Rarity: Rare, Name: Cast Iron Stove, Probability: 0,46511627906976744 
+GUID: 190641, Type: GuildhouseItem, Rarity: Rare, Name: Cigar Afficionado, Probability: 0,46511627906976744 
+GUID: 191369, Type: GuildhouseItem, Rarity: Rare, Name: Coffee Sommelier, Probability: 0,46511627906976744 
+GUID: 190620, Type: GuildhouseItem, Rarity: Rare, Name: Daring Scuba Diver, Probability: 0,46511627906976744 
+GUID: 191682, Type: GuildhouseItem, Rarity: Rare, Name: Fire Prevention Directive, Probability: 0,46511627906976744 
+GUID: 191349, Type: GuildhouseItem, Rarity: Rare, Name: Milliner, Probability: 0,46511627906976744 
+GUID: 191386, Type: GuildhouseItem, Rarity: Rare, Name: Mole Master, Probability: 0,46511627906976744 
+GUID: 191688, Type: GuildhouseItem, Rarity: Rare, Name: Night and Day Pollution By-Law, Probability: 0,46511627906976744 
+GUID: 190884, Type: GuildhouseItem, Rarity: Rare, Name: Power Loom, Probability: 0,46511627906976744 
+GUID: 191332, Type: GuildhouseItem, Rarity: Rare, Name: Quality Chocolatier, Probability: 0,46511627906976744 
+GUID: 190895, Type: GuildhouseItem, Rarity: Rare, Name: Steam Powered Brewing Machine, Probability: 0,46511627906976744 
+GUID: 190912, Type: GuildhouseItem, Rarity: Rare, Name: Steel Moulds, Probability: 0,46511627906976744 
+GUID: 190717, Type: GuildhouseItem, Rarity: Epic, Name: Arch-Archbishop Archibald, Probability: 0,22727272727272727 
+GUID: 191370, Type: GuildhouseItem, Rarity: Epic, Name: Cecilia the Coffeessieur, Probability: 0,22727272727272727 
+GUID: 190723, Type: GuildhouseItem, Rarity: Epic, Name: Dr. Salvador, Probability: 0,22727272727272727 
+GUID: 190893, Type: GuildhouseItem, Rarity: Epic, Name: Elmer's Electric Oven, Probability: 0,22727272727272727 
+GUID: 191683, Type: GuildhouseItem, Rarity: Epic, Name: Fizgig's Fabulous Fireproofing Failsafe, Probability: 0,2272727272727273 
+GUID: 190896, Type: GuildhouseItem, Rarity: Epic, Name: Grandiloquent Copper Distiller, Probability: 0,22727272727272727 
+GUID: 191689, Type: GuildhouseItem, Rarity: Epic, Name: Green's Law to Postpone The Apocalypse, Probability: 0,2272727272727273 
+GUID: 191387, Type: GuildhouseItem, Rarity: Epic, Name: Kantyi of the Quinoa, Probability: 0,22727272727272727 
+GUID: 190845, Type: GuildhouseItem, Rarity: Epic, Name: Lovelyman's Grinding Machine, Probability: 0,22727272727272727 
+GUID: 191346, Type: GuildhouseItem, Rarity: Epic, Name: Mariana the Master Stylist, Probability: 0,22727272727272727 
+GUID: 190913, Type: GuildhouseItem, Rarity: Epic, Name: Mickleton's Hydraulic Compacting Press, Probability: 0,22727272727272727 
+GUID: 190885, Type: GuildhouseItem, Rarity: Epic, Name: The Hopedale Loom, Probability: 0,22727272727272727 
+GUID: 190642, Type: GuildhouseItem, Rarity: Epic, Name: Torcedor Lucia, Probability: 0,22727272727272727 
+GUID: 191347, Type: GuildhouseItem, Rarity: Legendary, Name: Cristobal Taffeta, The Trendsetter, Probability: 0,2631578947368421 
+GUID: 191371, Type: GuildhouseItem, Rarity: Legendary, Name: Marco de la Mocha, Crusher of Beans, Probability: 0,2631578947368421 
+GUID: 190650, Type: GuildhouseItem, Rarity: Legendary, Name: Mme. Elise "The Nose" Bouquet, Probability: 0,2631578947368421 
+GUID: 190643, Type: GuildhouseItem, Rarity: Legendary, Name: Victor Perfecto, Cigar Daddy, Probability: 0,2631578947368421 
+GUID: 190522, Type: CultureItem, Rarity: Common, Name: Quartz Crystals, Probability: 2,0588235294117645 
+GUID: 190481, Type: CultureItem, Rarity: Uncommon, Name: Painted Stones, Probability: 0,7317073170731707 
+GUID: 190487, Type: CultureItem, Rarity: Uncommon, Name: Pyrite Crystals, Probability: 0,7317073170731707 
+GUID: 190536, Type: CultureItem, Rarity: Rare, Name: Aureus Coins, Probability: 0,46511627906976744 
+GUID: 192336, Type: CultureItem, Rarity: Epic, Name: A Shimmering Stone, Probability: 0,22727272727272727 
+GUID: 190474, Type: CultureItem, Rarity: Epic, Name: Takal's Necklace, Probability: 0,22727272727272727 
+GUID: 191615, Type: ShipSpecialist, Rarity: Common, Name: Lader, Probability: 2,058823529411765 
+GUID: 191602, Type: ShipSpecialist, Rarity: Rare, Name: Ship's Chaplain, Probability: 0,46511627906976744 
+GUID: 191605, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Almirante Gonçalves, Probability: 0,22727272727272727 
+GUID: 191606, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Almirante Paulista, Probability: 0,22727272727272727 
+GUID: 191610, Type: ShipSpecialist, Rarity: Legendary, Name: Admiral Haynes, Beholder of Far Horizons, Probability: 0,2631578947368421 
+GUID: 191609, Type: ShipSpecialist, Rarity: Legendary, Name: Georgina Duffy, The Call Your Bluffy, Probability: 0,2631578947368421 
+GUID: 191625, Type: ShipSpecialist, Rarity: Legendary, Name: Lalla Mazigh, Merchant of a Free Market, Probability: 0,2631578947368421 

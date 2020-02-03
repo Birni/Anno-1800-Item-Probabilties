@@ -1,0 +1,3 @@
+GUID: 191762, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Working Age 8 Act, Probability: 33,333333333333336 
+GUID: 191763, Type: TownhallItem, Rarity: Rare, Name: Minimum Working Age 6 Act, Probability: 33,333333333333336 
+GUID: 191764, Type: TownhallItem, Rarity: Epic, Name: Von Malching's Minimum Working Age 4 Proposal, Probability: 33,333333333333336 

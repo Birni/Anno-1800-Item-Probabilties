@@ -1,0 +1,86 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 1,346153846153846 
+GUID: 191853, Type: VehicleItem, Rarity: Rare, Name: 18-Pounder Long Gun, Probability: 0,78125 
+GUID: 191854, Type: VehicleItem, Rarity: Epic, Name: Hans Gun, Probability: 0,47619047619047616 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,5859375 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,5859375 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,5859375 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,5859375 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,5859375 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,5859375 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,5859375 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,5859375 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,5859375 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,5859375 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,5859375 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,5859375 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,35714285714285715 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,35714285714285715 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,35714285714285715 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,35714285714285715 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,35714285714285715 
+GUID: 113202, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken La Corona Clipper, Probability: 0,35714285714285715 
+GUID: 113201, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Rebel Supply Ship, Probability: 0,35714285714285715 
+GUID: 113200, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Royal Clipper, Probability: 0,35714285714285715 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,35714285714285715 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,35714285714285715 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,35714285714285715 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,35714285714285715 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 1,346153846153846 
+GUID: 191889, Type: HarborOfficeItem, Rarity: Rare, Name: Auxetophone, Probability: 0,78125 
+GUID: 191890, Type: HarborOfficeItem, Rarity: Epic, Name: Dynamic Loudspeaker, Probability: 0,47619047619047616 
+GUID: 190669, Type: TownhallItem, Rarity: Common, Name: Bartender, Probability: 0,8823529411764707 
+GUID: 190726, Type: TownhallItem, Rarity: Common, Name: Fool, Probability: 0,8823529411764707 
+GUID: 191467, Type: TownhallItem, Rarity: Uncommon, Name: Peddler, Probability: 1,346153846153846 
+GUID: 190672, Type: TownhallItem, Rarity: Rare, Name: Generous Innkeeper, Probability: 0,78125 
+GUID: 191571, Type: TownhallItem, Rarity: Rare, Name: Steward, Probability: 0,78125 
+GUID: 190711, Type: GuildhouseItem, Rarity: Common, Name: Abbé, Probability: 0,8823529411764707 
+GUID: 190615, Type: GuildhouseItem, Rarity: Common, Name: Angler, Probability: 0,8823529411764707 
+GUID: 190628, Type: GuildhouseItem, Rarity: Common, Name: Baker, Probability: 0,8823529411764707 
+GUID: 191367, Type: GuildhouseItem, Rarity: Common, Name: Bean Sifter, Probability: 0,8823529411764707 
+GUID: 191384, Type: GuildhouseItem, Rarity: Common, Name: Butcher, Probability: 0,8823529411764707 
+GUID: 191394, Type: GuildhouseItem, Rarity: Common, Name: Canner, Probability: 0,8823529411764707 
+GUID: 190745, Type: GuildhouseItem, Rarity: Common, Name: Cropper, Probability: 0,8823529411764707 
+GUID: 190616, Type: GuildhouseItem, Rarity: Common, Name: Diver, Probability: 0,8823529411764707 
+GUID: 191414, Type: GuildhouseItem, Rarity: Common, Name: Handicrafter, Probability: 0,8823529411764707 
+GUID: 191341, Type: GuildhouseItem, Rarity: Common, Name: Knitter, Probability: 0,8823529411764707 
+GUID: 191460, Type: GuildhouseItem, Rarity: Common, Name: Mason, Probability: 0,8823529411764707 
+GUID: 190755, Type: GuildhouseItem, Rarity: Common, Name: Miner, Probability: 0,8823529411764707 
+GUID: 191379, Type: GuildhouseItem, Rarity: Common, Name: Moonshiner, Probability: 0,8823529411764707 
+GUID: 190734, Type: GuildhouseItem, Rarity: Common, Name: Poacher, Probability: 0,8823529411764707 
+GUID: 191351, Type: GuildhouseItem, Rarity: Common, Name: Sparky, Probability: 0,8823529411764707 
+GUID: 191306, Type: GuildhouseItem, Rarity: Common, Name: Spectacle-Maker, Probability: 0,8823529411764707 
+GUID: 191344, Type: GuildhouseItem, Rarity: Uncommon, Name: Hatter, Probability: 1,346153846153846 
+GUID: 190618, Type: GuildhouseItem, Rarity: Uncommon, Name: Pearl Diver, Probability: 1,346153846153846 
+GUID: 190712, Type: GuildhouseItem, Rarity: Uncommon, Name: Priest, Probability: 1,346153846153846 
+GUID: 190640, Type: GuildhouseItem, Rarity: Uncommon, Name: Tobacco Blender, Probability: 1,346153846153846 
+GUID: 191385, Type: GuildhouseItem, Rarity: Uncommon, Name: Tortillera, Probability: 1,346153846153846 
+GUID: 190690, Type: GuildhouseItem, Rarity: Rare, Name: Arborist, Probability: 0,78125 
+GUID: 191403, Type: GuildhouseItem, Rarity: Rare, Name: Charcutier, Probability: 0,78125 
+GUID: 190641, Type: GuildhouseItem, Rarity: Rare, Name: Cigar Afficionado, Probability: 0,78125 
+GUID: 190749, Type: GuildhouseItem, Rarity: Rare, Name: Expert Planter, Probability: 0,78125 
+GUID: 190625, Type: GuildhouseItem, Rarity: Rare, Name: Illustrious Gemologist, Probability: 0,78125 
+GUID: 191376, Type: GuildhouseItem, Rarity: Rare, Name: Leading Electrical Engineer, Probability: 0,78125 
+GUID: 191349, Type: GuildhouseItem, Rarity: Rare, Name: Milliner, Probability: 0,78125 
+GUID: 191057, Type: CultureItem, Rarity: Common, Name: Domestic Cat, Probability: 0,8823529411764706 
+GUID: 190446, Type: CultureItem, Rarity: Common, Name: Grey Wolf, Probability: 0,8823529411764706 
+GUID: 191068, Type: CultureItem, Rarity: Common, Name: Red Fox, Probability: 0,8823529411764706 
+GUID: 191072, Type: CultureItem, Rarity: Uncommon, Name: Black Bear, Probability: 1,346153846153846 
+GUID: 191052, Type: CultureItem, Rarity: Uncommon, Name: Brown Bear, Probability: 1,346153846153846 
+GUID: 191506, Type: CultureItem, Rarity: Uncommon, Name: Crocodile, Probability: 1,346153846153846 
+GUID: 191078, Type: CultureItem, Rarity: Uncommon, Name: Dog Fox, Probability: 1,346153846153846 
+GUID: 190007, Type: CultureItem, Rarity: Uncommon, Name: Parrot, Probability: 1,346153846153846 
+GUID: 191079, Type: CultureItem, Rarity: Uncommon, Name: Peacock, Probability: 1,346153846153846 
+GUID: 191091, Type: CultureItem, Rarity: Rare, Name: Black Caiman, Probability: 0,78125 
+GUID: 191090, Type: CultureItem, Rarity: Rare, Name: Jaguar, Probability: 0,78125 
+GUID: 191089, Type: CultureItem, Rarity: Rare, Name: Puma, Probability: 0,78125 
+GUID: 191088, Type: CultureItem, Rarity: Rare, Name: Tiger, Probability: 0,78125 
+GUID: 191507, Type: CultureItem, Rarity: Epic, Name: Albino Alligator, Probability: 0,47619047619047616 
+GUID: 190004, Type: CultureItem, Rarity: Epic, Name: Black Jaguar, Probability: 0,47619047619047616 
+GUID: 191112, Type: CultureItem, Rarity: Epic, Name: Eastern Elephant, Probability: 0,47619047619047616 
+GUID: 191094, Type: CultureItem, Rarity: Epic, Name: Spectacled Bear, Probability: 0,47619047619047616 
+GUID: 191616, Type: ShipSpecialist, Rarity: Common, Name: Handler, Probability: 0,8823529411764707 
+GUID: 191445, Type: ShipSpecialist, Rarity: Common, Name: Mate, Probability: 0,8823529411764707 
+GUID: 191444, Type: ShipSpecialist, Rarity: Common, Name: Sailor, Probability: 0,8823529411764707 
+GUID: 191601, Type: ShipSpecialist, Rarity: Rare, Name: Former Corsair, Probability: 0,78125 
+GUID: 193188, Type: ShipSpecialist, Rarity: Epic, Name: Drae von Gast, Probability: 0,47619047619047616 
+GUID: 191603, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Admiral Adams, Probability: 0,47619047619047616 

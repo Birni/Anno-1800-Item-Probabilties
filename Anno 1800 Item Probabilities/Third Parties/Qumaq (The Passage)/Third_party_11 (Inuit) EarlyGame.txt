@@ -1,0 +1,12 @@
+GUID: 116081, Type: GuildhouseItem, Rarity: Uncommon, Name: Clay Kudlik, Probability: 9,523809523809524 
+GUID: 116142, Type: GuildhouseItem, Rarity: Uncommon, Name: Dog-Breeder, Probability: 2 
+GUID: 116041, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Baleen Boat, Probability: 9,523809523809524 
+GUID: 116096, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Iggaak, Probability: 9,523809523809524 
+GUID: 116087, Type: GuildhouseItem, Rarity: Uncommon, Name: Hide Scraper, Probability: 9,523809523809524 
+GUID: 116146, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Hunter, Probability: 2 
+GUID: 116130, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Seamster, Probability: 2 
+GUID: 116069, Type: GuildhouseItem, Rarity: Uncommon, Name: Nuyakpak, Probability: 9,523809523809524 
+GUID: 116148, Type: GuildhouseItem, Rarity: Uncommon, Name: Outdoor Cook, Probability: 2 
+GUID: 116078, Type: GuildhouseItem, Rarity: Uncommon, Name: Pititsi, Probability: 9,523809523809524 
+GUID: 116147, Type: GuildhouseItem, Rarity: Uncommon, Name: Sled Builder, Probability: 2 
+GUID: 116099, Type: GuildhouseItem, Rarity: Uncommon, Name: Ulu, Probability: 9,523809523809524 

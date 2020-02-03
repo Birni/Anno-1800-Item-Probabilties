@@ -1,0 +1,24 @@
+GUID: 113356, Type: VehicleItem, Rarity: Rare, Name: Marine Biologist, Probability: 0,25 
+GUID: 113353, Type: VehicleItem, Rarity: Rare, Name: Renowned Excavator, Probability: 0,25 
+GUID: 190664, Type: HarborOfficeItem, Rarity: Common, Name: Bruiser, Probability: 2,5 
+GUID: 190680, Type: HarborOfficeItem, Rarity: Common, Name: Guide, Probability: 2,5 
+GUID: 190665, Type: HarborOfficeItem, Rarity: Uncommon, Name: Scammer, Probability: 2 
+GUID: 190681, Type: HarborOfficeItem, Rarity: Uncommon, Name: Souvenir Seller, Probability: 2 
+GUID: 190666, Type: HarborOfficeItem, Rarity: Rare, Name: Savvy Customs Officer, Probability: 0,5 
+GUID: 190682, Type: HarborOfficeItem, Rarity: Rare, Name: Travel Agent, Probability: 0,5 
+GUID: 190915, Type: GuildhouseItem, Rarity: Uncommon, Name: Grain Seeds, Probability: 8 
+GUID: 190925, Type: GuildhouseItem, Rarity: Uncommon, Name: Grape Vines, Probability: 8 
+GUID: 190919, Type: GuildhouseItem, Rarity: Uncommon, Name: Hop Seeds, Probability: 8 
+GUID: 190922, Type: GuildhouseItem, Rarity: Uncommon, Name: Potato Sprouts, Probability: 8 
+GUID: 190928, Type: GuildhouseItem, Rarity: Uncommon, Name: Red Pepper Seeds, Probability: 8 
+GUID: 190916, Type: GuildhouseItem, Rarity: Rare, Name: Quality Grain Seeds, Probability: 2 
+GUID: 190926, Type: GuildhouseItem, Rarity: Rare, Name: Quality Grape Vines, Probability: 2 
+GUID: 190920, Type: GuildhouseItem, Rarity: Rare, Name: Quality Hop Seeds, Probability: 2 
+GUID: 190923, Type: GuildhouseItem, Rarity: Rare, Name: Quality Potato Sprouts, Probability: 2 
+GUID: 190929, Type: GuildhouseItem, Rarity: Rare, Name: Quality Red Pepper Seeds, Probability: 2 
+GUID: 191616, Type: ShipSpecialist, Rarity: Common, Name: Handler, Probability: 2,5 
+GUID: 191615, Type: ShipSpecialist, Rarity: Common, Name: Lader, Probability: 2,5 
+GUID: 191617, Type: ShipSpecialist, Rarity: Uncommon, Name: Merchant, Probability: 2 
+GUID: 191618, Type: ShipSpecialist, Rarity: Uncommon, Name: Shipper, Probability: 2 
+GUID: 191620, Type: ShipSpecialist, Rarity: Rare, Name: Exporter of Goods, Probability: 0,5 
+GUID: 191619, Type: ShipSpecialist, Rarity: Rare, Name: Port Dealer, Probability: 0,5 

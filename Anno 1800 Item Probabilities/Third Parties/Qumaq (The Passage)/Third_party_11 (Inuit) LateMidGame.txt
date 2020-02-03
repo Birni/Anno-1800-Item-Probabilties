@@ -1,0 +1,49 @@
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,2777777777777778 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,2777777777777778 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,2777777777777778 
+GUID: 116081, Type: GuildhouseItem, Rarity: Uncommon, Name: Clay Kudlik, Probability: 3,1746031746031744 
+GUID: 116142, Type: GuildhouseItem, Rarity: Uncommon, Name: Dog-Breeder, Probability: 1,777777777777778 
+GUID: 116041, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Baleen Boat, Probability: 3,1746031746031744 
+GUID: 116096, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Iggaak, Probability: 3,1746031746031744 
+GUID: 116087, Type: GuildhouseItem, Rarity: Uncommon, Name: Hide Scraper, Probability: 3,1746031746031744 
+GUID: 116146, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Hunter, Probability: 1,777777777777778 
+GUID: 116130, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Seamster, Probability: 1,777777777777778 
+GUID: 116069, Type: GuildhouseItem, Rarity: Uncommon, Name: Nuyakpak, Probability: 3,1746031746031744 
+GUID: 116148, Type: GuildhouseItem, Rarity: Uncommon, Name: Outdoor Cook, Probability: 1,777777777777778 
+GUID: 116078, Type: GuildhouseItem, Rarity: Uncommon, Name: Pititsi, Probability: 3,1746031746031744 
+GUID: 116147, Type: GuildhouseItem, Rarity: Uncommon, Name: Sled Builder, Probability: 1,777777777777778 
+GUID: 116099, Type: GuildhouseItem, Rarity: Uncommon, Name: Ulu, Probability: 3,1746031746031744 
+GUID: 116097, Type: GuildhouseItem, Rarity: Rare, Name: Antler Iggaak, Probability: 2,53968253968254 
+GUID: 116149, Type: GuildhouseItem, Rarity: Rare, Name: Artful Inuit Hunter, Probability: 1,3333333333333335 
+GUID: 116143, Type: GuildhouseItem, Rarity: Rare, Name: Astute Dog-Breeder, Probability: 1,3333333333333335 
+GUID: 116079, Type: GuildhouseItem, Rarity: Rare, Name: Cable-Backed Bow, Probability: 2,53968253968254 
+GUID: 116088, Type: GuildhouseItem, Rarity: Rare, Name: Kaputaq Awl, Probability: 2,53968253968254 
+GUID: 116132, Type: GuildhouseItem, Rarity: Rare, Name: Practised Inuit Seamster, Probability: 1,3333333333333335 
+GUID: 116042, Type: GuildhouseItem, Rarity: Rare, Name: Qajak, Probability: 2,53968253968254 
+GUID: 116151, Type: GuildhouseItem, Rarity: Rare, Name: Rugged Outdoor Cook, Probability: 1,3333333333333335 
+GUID: 116150, Type: GuildhouseItem, Rarity: Rare, Name: Sharp Sled Builder, Probability: 1,3333333333333335 
+GUID: 116082, Type: GuildhouseItem, Rarity: Rare, Name: Soapstone Kudlik, Probability: 2,53968253968254 
+GUID: 116070, Type: GuildhouseItem, Rarity: Rare, Name: Unaaq, Probability: 2,53968253968254 
+GUID: 116100, Type: GuildhouseItem, Rarity: Rare, Name: Wooden Adze, Probability: 2,53968253968254 
+GUID: 116133, Type: GuildhouseItem, Rarity: Epic, Name: Arnarunn the Seamless, Probability: 0,22222222222222224 
+GUID: 116101, Type: GuildhouseItem, Rarity: Epic, Name: Bone Adze, Probability: 0,634920634920635 
+GUID: 116080, Type: GuildhouseItem, Rarity: Epic, Name: Bow Of The Lnu, Probability: 0,634920634920635 
+GUID: 116089, Type: GuildhouseItem, Rarity: Epic, Name: Inuinnaq Case, Probability: 0,634920634920635 
+GUID: 116098, Type: GuildhouseItem, Rarity: Epic, Name: Ivory Iggaak, Probability: 0,634920634920635 
+GUID: 116083, Type: GuildhouseItem, Rarity: Epic, Name: Ivory Kudlik, Probability: 0,634920634920635 
+GUID: 116153, Type: GuildhouseItem, Rarity: Epic, Name: Naaqtuuq the Sled-Builder, Probability: 0,22222222222222224 
+GUID: 116071, Type: GuildhouseItem, Rarity: Epic, Name: Sakku, Probability: 0,634920634920635 
+GUID: 116154, Type: GuildhouseItem, Rarity: Epic, Name: Sandro the Nature Chef, Probability: 0,22222222222222224 
+GUID: 116144, Type: GuildhouseItem, Rarity: Epic, Name: Taliriktug The Husky-Voiced, Probability: 0,22222222222222224 
+GUID: 116152, Type: GuildhouseItem, Rarity: Epic, Name: Toklo the Trapper, Probability: 0,22222222222222224 
+GUID: 116043, Type: GuildhouseItem, Rarity: Epic, Name: Umiak, Probability: 0,634920634920635 
+GUID: 115469, Type: CultureItem, Rarity: Uncommon, Name: Arctic Fox, Probability: 3,3333333333333335 
+GUID: 115471, Type: CultureItem, Rarity: Uncommon, Name: Carved Stone Bear, Probability: 3,3333333333333335 
+GUID: 191082, Type: CultureItem, Rarity: Uncommon, Name: Ivory Gull, Probability: 3,3333333333333335 
+GUID: 191084, Type: CultureItem, Rarity: Uncommon, Name: Ringed Seal, Probability: 3,3333333333333335 
+GUID: 191086, Type: CultureItem, Rarity: Rare, Name: Arctic Wolf, Probability: 0,5555555555555556 
+GUID: 191075, Type: CultureItem, Rarity: Rare, Name: Boreal Caribou, Probability: 0,5555555555555556 
+GUID: 114796, Type: CultureItem, Rarity: Rare, Name: Inunnguaq Inuksuk, Probability: 0,2777777777777778 
+GUID: 191076, Type: CultureItem, Rarity: Rare, Name: Musk Ox, Probability: 0,5555555555555556 
+GUID: 114799, Type: CultureItem, Rarity: Rare, Name: Pirujaqarvik Inuksuk, Probability: 0,2777777777777778 
+GUID: 115472, Type: CultureItem, Rarity: Rare, Name: Toy Qamutiik, Probability: 0,2777777777777778 

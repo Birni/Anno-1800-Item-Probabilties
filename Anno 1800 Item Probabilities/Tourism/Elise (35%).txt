@@ -1,0 +1,68 @@
+GUID: 192465, Type: HarborOfficeItem, Rarity: Legendary, Name: Anna Union, Engineer of Extravagant Steamers, Probability: 0,5882352941176471 
+GUID: 191436, Type: HarborOfficeItem, Rarity: Legendary, Name: Field Marshall Matravers, Conductor of Armies, Probability: 1,4285714285714286 
+GUID: 191442, Type: HarborOfficeItem, Rarity: Legendary, Name: General Ewing Thomson, Planter of Flags, Probability: 1,4285714285714286 
+GUID: 192457, Type: HarborOfficeItem, Rarity: Legendary, Name: Gideon Small, Guru of Pirate Gunboats, Probability: 0,5882352941176471 
+GUID: 190668, Type: HarborOfficeItem, Rarity: Legendary, Name: Lady Banes, Proponent of Protectionism, Probability: 2,5 
+GUID: 192460, Type: HarborOfficeItem, Rarity: Legendary, Name: Maria Pizarro, Maker of Pirate Monitors, Probability: 0,5882352941176471 
+GUID: 192458, Type: HarborOfficeItem, Rarity: Legendary, Name: Petra Piper, Fashioner of Pirate Frigates, Probability: 0,5882352941176471 
+GUID: 190698, Type: HarborOfficeItem, Rarity: Legendary, Name: Rohit Bhargava, the Naval Architect, Probability: 0,5882352941176471 
+GUID: 192459, Type: HarborOfficeItem, Rarity: Legendary, Name: Shih Yang, Sirer of Pirate Ships-of-the-Line, Probability: 0,5882352941176471 
+GUID: 192464, Type: HarborOfficeItem, Rarity: Legendary, Name: Sir Milfoy Credenza-Belfry-Guscott, HM Ship Architect, Probability: 0,5882352941176471 
+GUID: 192463, Type: HarborOfficeItem, Rarity: Legendary, Name: Slinky Sinistra, Warlock of Pyrphorian Warships, Probability: 0,5882352941176471 
+GUID: 192461, Type: HarborOfficeItem, Rarity: Legendary, Name: Stilton Snood, Purveyor of Pyrphorian Monitors, Probability: 0,5882352941176471 
+GUID: 192462, Type: HarborOfficeItem, Rarity: Legendary, Name: Suspicia Slyhood, Begetter of Pyrphorian Battle Cruisers, Probability: 0,5882352941176471 
+GUID: 190684, Type: HarborOfficeItem, Rarity: Legendary, Name: Thomasina Langton, Promoter Extraordinaire!, Probability: 10 
+GUID: 191568, Type: TownhallItem, Rarity: Legendary, Name: Anne Kenyatta, Special Needs Teacher, Probability: 1,6666666666666667 
+GUID: 191470, Type: TownhallItem, Rarity: Legendary, Name: Aristelia Bataille, of the "Novelty Store", Probability: 3,3333333333333335 
+GUID: 190410, Type: TownhallItem, Rarity: Legendary, Name: Dr. Maurice Slim, Former Head of Promise Trust, Probability: 2 
+GUID: 190674, Type: TownhallItem, Rarity: Legendary, Name: Franck von Lewenstein, Warmest of Hosts, Probability: 1,6666666666666667 
+GUID: 191579, Type: TownhallItem, Rarity: Legendary, Name: Jakob Sokow, The Charitable Banker, Probability: 1,6666666666666667 
+GUID: 191573, Type: TownhallItem, Rarity: Legendary, Name: Joseph Beaumont, Historic Society Founder, Probability: 1,6666666666666667 
+GUID: 190724, Type: TownhallItem, Rarity: Legendary, Name: Louis P. Hecate, Arm-Puncturing Pioneer, Probability: 2 
+GUID: 190719, Type: TownhallItem, Rarity: Legendary, Name: Pope Lucius I, "The Rejuvenator", Probability: 3,3333333333333335 
+GUID: 190679, Type: TownhallItem, Rarity: Legendary, Name: Prof. Iwa Ebashi, Pioneer of the Radioactive, Probability: 1,6666666666666667 
+GUID: 190193, Type: TownhallItem, Rarity: Legendary, Name: Saint D'Artois, Vision of the Valley, Probability: 3,3333333333333335 
+GUID: 190732, Type: TownhallItem, Rarity: Legendary, Name: Sarah Bartok, The Golden Voice, Probability: 1,6666666666666667 
+GUID: 190269, Type: TownhallItem, Rarity: Legendary, Name: Sgt. Nicolas Gabriel, the Over-Achiever, Probability: 2 
+GUID: 191010, Type: TownhallItem, Rarity: Legendary, Name: Sir Charles Rafferty, Metropolitan Commissioner, Probability: 2 
+GUID: 190237, Type: GuildhouseItem, Rarity: Legendary, Name: Angela "Meg" Iver, The Polyvalent, Probability: 0,5882352941176471 
+GUID: 191383, Type: GuildhouseItem, Rarity: Legendary, Name: Brother Hilarius, Purveyor of Monastic Mixtures, Probability: 0,625 
+GUID: 191422, Type: GuildhouseItem, Rarity: Legendary, Name: Bruno Ironbright, Engineering Giant, Probability: 0,625 
+GUID: 190622, Type: GuildhouseItem, Rarity: Legendary, Name: Captain Moby, Old Dog of the Sea, Probability: 0,5882352941176471 
+GUID: 190658, Type: GuildhouseItem, Rarity: Legendary, Name: Chief George Doughty, Smouldering Hero, Probability: 2 
+GUID: 190752, Type: GuildhouseItem, Rarity: Legendary, Name: Cosmo Castelli, Agronomic Trailblazer, Probability: 0,625 
+GUID: 191347, Type: GuildhouseItem, Rarity: Legendary, Name: Cristobal Taffeta, The Trendsetter, Probability: 1,6666666666666667 
+GUID: 190693, Type: GuildhouseItem, Rarity: Legendary, Name: Dr. Ali Al-Zahir, the Botanical Director, Probability: 1,6666666666666667 
+GUID: 190627, Type: GuildhouseItem, Rarity: Legendary, Name: François Strindberg, Crown Jeweller, Probability: 0,625 
+GUID: 191465, Type: GuildhouseItem, Rarity: Legendary, Name: François Thorne, The Industrial Reinforcer, Probability: 0,625 
+GUID: 191334, Type: GuildhouseItem, Rarity: Legendary, Name: Gennaro Garibaldi, Chocolatier by Royal Appointment, Probability: 1,6666666666666667 
+GUID: 191310, Type: GuildhouseItem, Rarity: Legendary, Name: Gerhard Fuchs, of the Patent Eyeglass, Probability: 0,625 
+GUID: 191324, Type: GuildhouseItem, Rarity: Legendary, Name: Hans Klein, Old Grandfather Time, Probability: 0,625 
+GUID: 190705, Type: GuildhouseItem, Rarity: Legendary, Name: Henri Zanchi, Man of Steel, Probability: 0,625 
+GUID: 191319, Type: GuildhouseItem, Rarity: Legendary, Name: Hervé Savonne, Suppressor of Grime, Probability: 0,625 
+GUID: 190761, Type: GuildhouseItem, Rarity: Legendary, Name: Jörg von Malching, Augur of the Auric, Probability: 0,5882352941176471 
+GUID: 191329, Type: GuildhouseItem, Rarity: Legendary, Name: Lady Jane Smythe, Queen of Haute Couture, Probability: 0,625 
+GUID: 191408, Type: GuildhouseItem, Rarity: Legendary, Name: Marcel Forcas, Celebrity Chef, Probability: 0,625 
+GUID: 191371, Type: GuildhouseItem, Rarity: Legendary, Name: Marco de la Mocha, Crusher of Beans, Probability: 1,6666666666666667 
+GUID: 190632, Type: GuildhouseItem, Rarity: Legendary, Name: Marie-Antoine, Pâtissier Royale, Probability: 0,625 
+GUID: 191584, Type: GuildhouseItem, Rarity: Legendary, Name: Mark van der Mark, Breeder of Shepherd Dogs, Probability: 0,5882352941176471 
+GUID: 191388, Type: GuildhouseItem, Rarity: Legendary, Name: Maxime Graves, Delicatesseur Extraordinaire, Probability: 0,625 
+GUID: 190650, Type: GuildhouseItem, Rarity: Legendary, Name: Mme. Elise "The Nose" Bouquet, Probability: 0,5882352941176471 
+GUID: 191407, Type: GuildhouseItem, Rarity: Legendary, Name: Mrs. Mayson, The Very Good Housekeeper, Probability: 0,625 
+GUID: 191355, Type: GuildhouseItem, Rarity: Legendary, Name: Prof. Ram Devi, The Bundle of Energy, Probability: 0,625 
+GUID: 191431, Type: GuildhouseItem, Rarity: Legendary, Name: Seraphim Papadikas, The Window Dresser, Probability: 0,5882352941176471 
+GUID: 191591, Type: GuildhouseItem, Rarity: Legendary, Name: Steven MacLeod, Geological Surveyor, Probability: 0,625 
+GUID: 191402, Type: GuildhouseItem, Rarity: Legendary, Name: Tlayolotl Savor, King of the Corn, Probability: 1,6666666666666667 
+GUID: 190739, Type: GuildhouseItem, Rarity: Legendary, Name: Ursula Green, Guardian of the Forests, Probability: 0,5882352941176471 
+GUID: 190643, Type: GuildhouseItem, Rarity: Legendary, Name: Victor Perfecto, Cigar Daddy, Probability: 1,6666666666666667 
+GUID: 191610, Type: ShipSpecialist, Rarity: Legendary, Name: Admiral Haynes, Beholder of Far Horizons, Probability: 1,4285714285714286 
+GUID: 191451, Type: ShipSpecialist, Rarity: Legendary, Name: Captain Felicity Phoenix, Back From the Grave, Probability: 3,3333333333333335 
+GUID: 191452, Type: ShipSpecialist, Rarity: Legendary, Name: Captain Richard Moses, Skipper of Schooners, Probability: 3,3333333333333335 
+GUID: 191453, Type: ShipSpecialist, Rarity: Legendary, Name: Captain Smith, Titan of the Sea., Probability: 3,3333333333333335 
+GUID: 191611, Type: ShipSpecialist, Rarity: Legendary, Name: Commmodore Stephen Drake, The Besieger, Probability: 1,4285714285714286 
+GUID: 191624, Type: ShipSpecialist, Rarity: Legendary, Name: Ermenegilda Di Mercante, Purveyor of Tall Ships, Probability: 2,5 
+GUID: 191609, Type: ShipSpecialist, Rarity: Legendary, Name: Georgina Duffy, The Call Your Bluffy, Probability: 1,4285714285714286 
+GUID: 191626, Type: ShipSpecialist, Rarity: Legendary, Name: Hans Eichendorf, A Wholesale Success, Probability: 2,5 
+GUID: 191625, Type: ShipSpecialist, Rarity: Legendary, Name: Lalla Mazigh, Merchant of a Free Market, Probability: 2,5 
+GUID: 191608, Type: ShipSpecialist, Rarity: Legendary, Name: Lord High Admiral Nadasky, The Astute, Probability: 1,4285714285714286 
+GUID: 191607, Type: ShipSpecialist, Rarity: Legendary, Name: Wilma the Wild, Bearer of Barracudas, Probability: 1,4285714285714286 

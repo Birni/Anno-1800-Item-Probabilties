@@ -1,0 +1,24 @@
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 2 
+GUID: 191838, Type: VehicleItem, Rarity: Uncommon, Name: Fine Spyglass, Probability: 2 
+GUID: 191848, Type: VehicleItem, Rarity: Uncommon, Name: Fine Wooden Hull, Probability: 2 
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 2 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 2 
+GUID: 191849, Type: VehicleItem, Rarity: Rare, Name: Fine Steel Hull, Probability: 0,5 
+GUID: 191857, Type: VehicleItem, Rarity: Rare, Name: Heat Exchanger, Probability: 0,5 
+GUID: 191839, Type: VehicleItem, Rarity: Rare, Name: High-Powered Scope, Probability: 0,5 
+GUID: 113359, Type: VehicleItem, Rarity: Rare, Name: Hobby Diver, Probability: 1,25 
+GUID: 191013, Type: VehicleItem, Rarity: Rare, Name: Lateen Style Sails, Probability: 0,5 
+GUID: 113356, Type: VehicleItem, Rarity: Rare, Name: Marine Biologist, Probability: 1,25 
+GUID: 191830, Type: VehicleItem, Rarity: Rare, Name: One-Turn Screw Propeller, Probability: 0,5 
+GUID: 113353, Type: VehicleItem, Rarity: Rare, Name: Renowned Excavator, Probability: 1,25 
+GUID: 113362, Type: VehicleItem, Rarity: Rare, Name: Treasure Seeker, Probability: 1,25 
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 1,7857142857142858 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,6666666666666666 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 2 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 2 
+GUID: 191833, Type: ActiveItem, Rarity: Rare, Name: Ship Piston Engine, Probability: 0,5 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 0,5 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 2 
+GUID: 191883, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Repair Crane, Probability: 2 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 0,5 
+GUID: 191884, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Repair Crane, Probability: 0,5 

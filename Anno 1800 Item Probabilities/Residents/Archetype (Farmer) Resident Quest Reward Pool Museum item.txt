@@ -1,0 +1,39 @@
+GUID: 190482, Type: CultureItem, Rarity: Common, Name: Ancient Manifest, Probability: 3 
+GUID: 190523, Type: CultureItem, Rarity: Common, Name: Bronze Helmet, Probability: 3 
+GUID: 190526, Type: CultureItem, Rarity: Common, Name: Bronze Sword, Probability: 3 
+GUID: 190525, Type: CultureItem, Rarity: Common, Name: Damaged Statue, Probability: 3 
+GUID: 190520, Type: CultureItem, Rarity: Common, Name: Folk Tales, Probability: 3 
+GUID: 190469, Type: CultureItem, Rarity: Common, Name: Primitive Fabrics, Probability: 3 
+GUID: 190492, Type: CultureItem, Rarity: Common, Name: Rudimentary Necklace, Probability: 3 
+GUID: 190521, Type: CultureItem, Rarity: Common, Name: Rusty Sestertius, Probability: 3 
+GUID: 190494, Type: CultureItem, Rarity: Common, Name: Wooden Ring, Probability: 3 
+GUID: 190524, Type: CultureItem, Rarity: Common, Name: Wooden Shield, Probability: 3 
+GUID: 190478, Type: CultureItem, Rarity: Uncommon, Name: Antique Novel, Probability: 3 
+GUID: 190528, Type: CultureItem, Rarity: Uncommon, Name: Colourful Textiles, Probability: 3 
+GUID: 190553, Type: CultureItem, Rarity: Uncommon, Name: Copper Ring, Probability: 3 
+GUID: 190532, Type: CultureItem, Rarity: Uncommon, Name: Illuminated Manuscript, Probability: 3 
+GUID: 190529, Type: CultureItem, Rarity: Uncommon, Name: Iron Helm, Probability: 3 
+GUID: 190533, Type: CultureItem, Rarity: Uncommon, Name: Iron Shield, Probability: 3 
+GUID: 190535, Type: CultureItem, Rarity: Uncommon, Name: Iron Sword, Probability: 3 
+GUID: 190530, Type: CultureItem, Rarity: Uncommon, Name: Silver Necklace, Probability: 3 
+GUID: 190534, Type: CultureItem, Rarity: Uncommon, Name: Stone Statue, Probability: 3 
+GUID: 190527, Type: CultureItem, Rarity: Uncommon, Name: Tarnished Silver Coins, Probability: 3 
+GUID: 190483, Type: CultureItem, Rarity: Rare, Name: Ammonites, Probability: 2 
+GUID: 190540, Type: CultureItem, Rarity: Rare, Name: Heimskringla, Probability: 2 
+GUID: 190537, Type: CultureItem, Rarity: Rare, Name: Silken Fabrics, Probability: 2 
+GUID: 190538, Type: CultureItem, Rarity: Rare, Name: Silver Helmet, Probability: 2 
+GUID: 190541, Type: CultureItem, Rarity: Rare, Name: Silver Ring, Probability: 2 
+GUID: 190542, Type: CultureItem, Rarity: Rare, Name: Silver Shield, Probability: 2 
+GUID: 190544, Type: CultureItem, Rarity: Rare, Name: Silver Sword, Probability: 2 
+GUID: 190543, Type: CultureItem, Rarity: Rare, Name: Statue of Enesidaone, Probability: 2 
+GUID: 190539, Type: CultureItem, Rarity: Rare, Name: Tara Brooch, Probability: 2 
+GUID: 190468, Type: CultureItem, Rarity: Rare, Name: The Art of Medicine, Probability: 2 
+GUID: 190548, Type: CultureItem, Rarity: Epic, Name: Golden War Helm, Probability: 2,5 
+GUID: 190549, Type: CultureItem, Rarity: Epic, Name: Protoceratops Eggs, Probability: 2,5 
+GUID: 190550, Type: CultureItem, Rarity: Epic, Name: Regal Gold Ring, Probability: 2,5 
+GUID: 190546, Type: CultureItem, Rarity: Epic, Name: Shroud of the Great King, Probability: 2,5 
+GUID: 190493, Type: CultureItem, Rarity: Legendary, Name: Lungnibbel Ring, Probability: 2 
+GUID: 190475, Type: CultureItem, Rarity: Legendary, Name: Neanderthal Skeleton, Probability: 2 
+GUID: 190480, Type: CultureItem, Rarity: Legendary, Name: Sæmundar Edda, Probability: 2 
+GUID: 190470, Type: CultureItem, Rarity: Legendary, Name: Valkyrie's Helmet, Probability: 2 
+GUID: 190552, Type: CultureItem, Rarity: Legendary, Name: White Tooth, Sword of Rhydderch, Probability: 2 

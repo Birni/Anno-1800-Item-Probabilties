@@ -1,0 +1,163 @@
+GUID: 190664, Type: HarborOfficeItem, Rarity: Common, Name: Bruiser, Probability: 1,1111111111111112 
+GUID: 190694, Type: HarborOfficeItem, Rarity: Common, Name: Carpenter, Probability: 0,5555555555555556 
+GUID: 190680, Type: HarborOfficeItem, Rarity: Common, Name: Guide, Probability: 3,3333333333333335 
+GUID: 191432, Type: HarborOfficeItem, Rarity: Common, Name: Gunner, Probability: 1,1111111111111112 
+GUID: 191433, Type: HarborOfficeItem, Rarity: Uncommon, Name: Artillerywoman, Probability: 1,8518518518518519 
+GUID: 190665, Type: HarborOfficeItem, Rarity: Uncommon, Name: Scammer, Probability: 1,8518518518518519 
+GUID: 190695, Type: HarborOfficeItem, Rarity: Uncommon, Name: Ship Builder, Probability: 0,9259259259259259 
+GUID: 190681, Type: HarborOfficeItem, Rarity: Uncommon, Name: Souvenir Seller, Probability: 5,555555555555555 
+GUID: 191434, Type: HarborOfficeItem, Rarity: Rare, Name: Cannoneer, Probability: 0,5555555555555556 
+GUID: 190696, Type: HarborOfficeItem, Rarity: Rare, Name: Naval Architect, Probability: 0,3703703703703704 
+GUID: 190666, Type: HarborOfficeItem, Rarity: Rare, Name: Savvy Customs Officer, Probability: 0,7407407407407408 
+GUID: 190682, Type: HarborOfficeItem, Rarity: Rare, Name: Travel Agent, Probability: 2,2222222222222223 
+GUID: 190669, Type: TownhallItem, Rarity: Common, Name: Bartender, Probability: 0,5555555555555556 
+GUID: 190675, Type: TownhallItem, Rarity: Common, Name: Fellow, Probability: 0,5555555555555556 
+GUID: 190726, Type: TownhallItem, Rarity: Common, Name: Fool, Probability: 0,5555555555555556 
+GUID: 191564, Type: TownhallItem, Rarity: Common, Name: Governess, Probability: 0,5555555555555556 
+GUID: 191466, Type: TownhallItem, Rarity: Common, Name: Grocer, Probability: 1,6666666666666667 
+GUID: 191569, Type: TownhallItem, Rarity: Common, Name: Housemaid, Probability: 0,5555555555555556 
+GUID: 191575, Type: TownhallItem, Rarity: Common, Name: Lender, Probability: 0,5555555555555556 
+GUID: 191006, Type: TownhallItem, Rarity: Common, Name: Sergeant, Probability: 1,1111111111111112 
+GUID: 191576, Type: TownhallItem, Rarity: Uncommon, Name: Banker, Probability: 0,9259259259259259 
+GUID: 190727, Type: TownhallItem, Rarity: Uncommon, Name: Comedian, Probability: 0,9259259259259259 
+GUID: 191570, Type: TownhallItem, Rarity: Uncommon, Name: Footman, Probability: 0,9259259259259259 
+GUID: 191007, Type: TownhallItem, Rarity: Uncommon, Name: Inspector, Probability: 1,8518518518518519 
+GUID: 190676, Type: TownhallItem, Rarity: Uncommon, Name: Lecturer, Probability: 0,9259259259259259 
+GUID: 191467, Type: TownhallItem, Rarity: Uncommon, Name: Peddler, Probability: 2,7777777777777777 
+GUID: 190671, Type: TownhallItem, Rarity: Uncommon, Name: Publican, Probability: 0,9259259259259259 
+GUID: 191565, Type: TownhallItem, Rarity: Uncommon, Name: Schoolteacher, Probability: 0,9259259259259259 
+GUID: 190728, Type: TownhallItem, Rarity: Rare, Name: Actor, Probability: 0,3703703703703704 
+GUID: 190672, Type: TownhallItem, Rarity: Rare, Name: Generous Innkeeper, Probability: 0,3703703703703704 
+GUID: 191566, Type: TownhallItem, Rarity: Rare, Name: Headmistress, Probability: 0,3703703703703704 
+GUID: 191577, Type: TownhallItem, Rarity: Rare, Name: Postal Banker, Probability: 0,3703703703703704 
+GUID: 190722, Type: TownhallItem, Rarity: Rare, Name: Punctilious Physician, Probability: 0,7407407407407408 
+GUID: 191468, Type: TownhallItem, Rarity: Rare, Name: Sales Clerk, Probability: 1,1111111111111112 
+GUID: 191571, Type: TownhallItem, Rarity: Rare, Name: Steward, Probability: 0,3703703703703704 
+GUID: 191008, Type: TownhallItem, Rarity: Rare, Name: Superintendent, Probability: 0,7407407407407408 
+GUID: 190677, Type: TownhallItem, Rarity: Rare, Name: Very Senior Lecturer, Probability: 0,3703703703703704 
+GUID: 190653, Type: TownhallItem, Rarity: Rare, Name: Veteran Firefighter, Probability: 0,7407407407407408 
+GUID: 190711, Type: GuildhouseItem, Rarity: Common, Name: Abbé, Probability: 1,6666666666666667 
+GUID: 190615, Type: GuildhouseItem, Rarity: Common, Name: Angler, Probability: 0,10752688172043011 
+GUID: 190628, Type: GuildhouseItem, Rarity: Common, Name: Baker, Probability: 0,10752688172043011 
+GUID: 190699, Type: GuildhouseItem, Rarity: Common, Name: Boilermaker, Probability: 0,10752688172043011 
+GUID: 190740, Type: GuildhouseItem, Rarity: Common, Name: Burner, Probability: 0,10752688172043011 
+GUID: 191384, Type: GuildhouseItem, Rarity: Common, Name: Butcher, Probability: 0,10752688172043011 
+GUID: 191394, Type: GuildhouseItem, Rarity: Common, Name: Canner, Probability: 0,10752688172043011 
+GUID: 191425, Type: GuildhouseItem, Rarity: Common, Name: Carpenter, Probability: 0,5555555555555556 
+GUID: 190645, Type: GuildhouseItem, Rarity: Common, Name: Cellar Man, Probability: 0,10752688172043011 
+GUID: 191315, Type: GuildhouseItem, Rarity: Common, Name: Chandler, Probability: 0,10752688172043011 
+GUID: 190745, Type: GuildhouseItem, Rarity: Common, Name: Cropper, Probability: 0,10752688172043011 
+GUID: 191586, Type: GuildhouseItem, Rarity: Common, Name: Digger, Probability: 0,10752688172043011 
+GUID: 191585, Type: GuildhouseItem, Rarity: Common, Name: Driller, Probability: 0,10752688172043011 
+GUID: 191426, Type: GuildhouseItem, Rarity: Common, Name: Glassblower, Probability: 0,10752688172043011 
+GUID: 191414, Type: GuildhouseItem, Rarity: Common, Name: Handicrafter, Probability: 0,10752688172043011 
+GUID: 190623, Type: GuildhouseItem, Rarity: Common, Name: Jeweller, Probability: 0,10752688172043011 
+GUID: 191373, Type: GuildhouseItem, Rarity: Common, Name: Lineman, Probability: 0,10752688172043011 
+GUID: 190733, Type: GuildhouseItem, Rarity: Common, Name: Lumberjack, Probability: 0,5555555555555556 
+GUID: 191460, Type: GuildhouseItem, Rarity: Common, Name: Mason, Probability: 0,10752688172043011 
+GUID: 191413, Type: GuildhouseItem, Rarity: Common, Name: Mechanic, Probability: 0,10752688172043011 
+GUID: 190755, Type: GuildhouseItem, Rarity: Common, Name: Miner, Probability: 0,5555555555555556 
+GUID: 191395, Type: GuildhouseItem, Rarity: Common, Name: Mixer, Probability: 0,10752688172043011 
+GUID: 191379, Type: GuildhouseItem, Rarity: Common, Name: Moonshiner, Probability: 0,10752688172043011 
+GUID: 191459, Type: GuildhouseItem, Rarity: Common, Name: Moulder, Probability: 0,10752688172043011 
+GUID: 190720, Type: GuildhouseItem, Rarity: Common, Name: Nurse, Probability: 1,1111111111111112 
+GUID: 190744, Type: GuildhouseItem, Rarity: Common, Name: Ploughman, Probability: 0,10752688172043011 
+GUID: 190734, Type: GuildhouseItem, Rarity: Common, Name: Poacher, Probability: 0,10752688172043011 
+GUID: 190756, Type: GuildhouseItem, Rarity: Common, Name: Prospector, Probability: 0,5555555555555556 
+GUID: 191580, Type: GuildhouseItem, Rarity: Common, Name: Shepherd, Probability: 0,5555555555555556 
+GUID: 191351, Type: GuildhouseItem, Rarity: Common, Name: Sparky, Probability: 0,10752688172043011 
+GUID: 191306, Type: GuildhouseItem, Rarity: Common, Name: Spectacle-Maker, Probability: 0,10752688172043011 
+GUID: 191336, Type: GuildhouseItem, Rarity: Common, Name: Tanner, Probability: 0,10752688172043011 
+GUID: 191372, Type: GuildhouseItem, Rarity: Common, Name: Technician, Probability: 0,10752688172043011 
+GUID: 190753, Type: GuildhouseItem, Rarity: Common, Name: Vintner, Probability: 0,10752688172043011 
+GUID: 191320, Type: GuildhouseItem, Rarity: Common, Name: Watchmaker, Probability: 0,10752688172043011 
+GUID: 190651, Type: GuildhouseItem, Rarity: Common, Name: Water-Carrier, Probability: 1,1111111111111112 
+GUID: 191325, Type: GuildhouseItem, Rarity: Common, Name: Weaver, Probability: 0,10752688172043011 
+GUID: 190700, Type: GuildhouseItem, Rarity: Common, Name: Welder, Probability: 0,10752688172043011 
+GUID: 191412, Type: GuildhouseItem, Rarity: Common, Name: Wheelwright, Probability: 0,10752688172043011 
+GUID: 191461, Type: GuildhouseItem, Rarity: Uncommon, Name: Brickmaker, Probability: 0,17921146953405018 
+GUID: 191462, Type: GuildhouseItem, Rarity: Uncommon, Name: Cementer, Probability: 0,17921146953405018 
+GUID: 190647, Type: GuildhouseItem, Rarity: Uncommon, Name: Champagne Taster, Probability: 0,17921146953405018 
+GUID: 191321, Type: GuildhouseItem, Rarity: Uncommon, Name: Clockmaker, Probability: 0,17921146953405018 
+GUID: 191397, Type: GuildhouseItem, Rarity: Uncommon, Name: Delicatesseur, Probability: 0,17921146953405018 
+GUID: 191380, Type: GuildhouseItem, Rarity: Uncommon, Name: Distiller, Probability: 0,17921146953405018 
+GUID: 191587, Type: GuildhouseItem, Rarity: Uncommon, Name: Dredger, Probability: 0,17921146953405018 
+GUID: 191337, Type: GuildhouseItem, Rarity: Uncommon, Name: Dressmaker, Probability: 0,17921146953405018 
+GUID: 190735, Type: GuildhouseItem, Rarity: Uncommon, Name: Forester, Probability: 0,9259259259259259 
+GUID: 191428, Type: GuildhouseItem, Rarity: Uncommon, Name: Glass Maker, Probability: 0,17921146953405018 
+GUID: 191374, Type: GuildhouseItem, Rarity: Uncommon, Name: Gramophonist, Probability: 0,17921146953405018 
+GUID: 190746, Type: GuildhouseItem, Rarity: Uncommon, Name: Grower, Probability: 0,17921146953405018 
+GUID: 191581, Type: GuildhouseItem, Rarity: Uncommon, Name: Herdsman, Probability: 0,9259259259259259 
+GUID: 190725, Type: GuildhouseItem, Rarity: Uncommon, Name: House Doctor, Probability: 1,8518518518518519 
+GUID: 190701, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Founder, Probability: 0,17921146953405018 
+GUID: 191427, Type: GuildhouseItem, Rarity: Uncommon, Name: Joiner, Probability: 0,9259259259259259 
+GUID: 190741, Type: GuildhouseItem, Rarity: Uncommon, Name: Kiln Keeper, Probability: 0,17921146953405018 
+GUID: 190624, Type: GuildhouseItem, Rarity: Uncommon, Name: Lapidary, Probability: 0,17921146953405018 
+GUID: 190617, Type: GuildhouseItem, Rarity: Uncommon, Name: Line Fisherman, Probability: 0,17921146953405018 
+GUID: 191416, Type: GuildhouseItem, Rarity: Uncommon, Name: Machinist, Probability: 0,17921146953405018 
+GUID: 191375, Type: GuildhouseItem, Rarity: Uncommon, Name: Magnetist, Probability: 0,17921146953405018 
+GUID: 191307, Type: GuildhouseItem, Rarity: Uncommon, Name: Optician, Probability: 0,17921146953405018 
+GUID: 191398, Type: GuildhouseItem, Rarity: Uncommon, Name: Pantry Maid, Probability: 0,17921146953405018 
+GUID: 190629, Type: GuildhouseItem, Rarity: Uncommon, Name: Pastry Chef, Probability: 0,17921146953405018 
+GUID: 191352, Type: GuildhouseItem, Rarity: Uncommon, Name: Physicist, Probability: 0,17921146953405018 
+GUID: 191399, Type: GuildhouseItem, Rarity: Uncommon, Name: Potager, Probability: 0,17921146953405018 
+GUID: 190712, Type: GuildhouseItem, Rarity: Uncommon, Name: Priest, Probability: 2,7777777777777777 
+GUID: 191588, Type: GuildhouseItem, Rarity: Uncommon, Name: Quarryman, Probability: 0,17921146953405018 
+GUID: 190758, Type: GuildhouseItem, Rarity: Uncommon, Name: Refiner, Probability: 0,9259259259259259 
+GUID: 191417, Type: GuildhouseItem, Rarity: Uncommon, Name: Repairman, Probability: 0,17921146953405018 
+GUID: 191316, Type: GuildhouseItem, Rarity: Uncommon, Name: Soap Maker, Probability: 0,17921146953405018 
+GUID: 191326, Type: GuildhouseItem, Rarity: Uncommon, Name: Tailor, Probability: 0,17921146953405018 
+GUID: 190736, Type: GuildhouseItem, Rarity: Uncommon, Name: Trapper, Probability: 0,17921146953405018 
+GUID: 190747, Type: GuildhouseItem, Rarity: Uncommon, Name: Vegetable Grower, Probability: 0,17921146953405018 
+GUID: 191415, Type: GuildhouseItem, Rarity: Uncommon, Name: Velocipedalist, Probability: 0,17921146953405018 
+GUID: 190757, Type: GuildhouseItem, Rarity: Uncommon, Name: Ventilator, Probability: 0,9259259259259259 
+GUID: 190652, Type: GuildhouseItem, Rarity: Uncommon, Name: Volunteer Fireman, Probability: 1,8518518518518519 
+GUID: 190754, Type: GuildhouseItem, Rarity: Uncommon, Name: Wine Grower, Probability: 0,17921146953405018 
+GUID: 190702, Type: GuildhouseItem, Rarity: Uncommon, Name: Wrought Ironsmith, Probability: 0,17921146953405018 
+GUID: 191381, Type: GuildhouseItem, Rarity: Rare, Name: Award-Winning Brewer, Probability: 0,10101010101010101 
+GUID: 190716, Type: GuildhouseItem, Rarity: Rare, Name: Beatific Bishopess, Probability: 1,1111111111111112 
+GUID: 191429, Type: GuildhouseItem, Rarity: Rare, Name: Cabinet Maker, Probability: 0,3703703703703704 
+GUID: 191403, Type: GuildhouseItem, Rarity: Rare, Name: Charcutier, Probability: 0,10101010101010101 
+GUID: 191348, Type: GuildhouseItem, Rarity: Rare, Name: Costume Designer, Probability: 0,10101010101010101 
+GUID: 191419, Type: GuildhouseItem, Rarity: Rare, Name: Draughtswoman, Probability: 0,10101010101010101 
+GUID: 190737, Type: GuildhouseItem, Rarity: Rare, Name: Expert Hunter, Probability: 0,10101010101010101 
+GUID: 190749, Type: GuildhouseItem, Rarity: Rare, Name: Expert Planter, Probability: 0,10101010101010101 
+GUID: 190630, Type: GuildhouseItem, Rarity: Rare, Name: Fine Cake Decorator, Probability: 0,10101010101010101 
+GUID: 191327, Type: GuildhouseItem, Rarity: Rare, Name: Fine Couturier, Probability: 0,10101010101010101 
+GUID: 190759, Type: GuildhouseItem, Rarity: Rare, Name: First-Rate Sapper, Probability: 0,3703703703703704 
+GUID: 191463, Type: GuildhouseItem, Rarity: Rare, Name: General Foreman, Probability: 0,10101010101010101 
+GUID: 190748, Type: GuildhouseItem, Rarity: Rare, Name: Happy Homesteader, Probability: 0,10101010101010101 
+GUID: 191317, Type: GuildhouseItem, Rarity: Rare, Name: Herbal Hygienist, Probability: 0,10101010101010101 
+GUID: 190625, Type: GuildhouseItem, Rarity: Rare, Name: Illustrious Gemologist, Probability: 0,10101010101010101 
+GUID: 191376, Type: GuildhouseItem, Rarity: Rare, Name: Leading Electrical Engineer, Probability: 0,10101010101010101 
+GUID: 191308, Type: GuildhouseItem, Rarity: Rare, Name: Lens Designer, Probability: 0,10101010101010101 
+GUID: 191582, Type: GuildhouseItem, Rarity: Rare, Name: Livestock Farmer, Probability: 0,3703703703703704 
+GUID: 191404, Type: GuildhouseItem, Rarity: Rare, Name: Pantry Chef, Probability: 0,10101010101010101 
+GUID: 190742, Type: GuildhouseItem, Rarity: Rare, Name: Park Ranger, Probability: 0,3703703703703704 
+GUID: 191322, Type: GuildhouseItem, Rarity: Rare, Name: Precision Horologist, Probability: 0,10101010101010101 
+GUID: 191589, Type: GuildhouseItem, Rarity: Rare, Name: Quarry Foreman, Probability: 0,10101010101010101 
+GUID: 191400, Type: GuildhouseItem, Rarity: Rare, Name: Recipe Archivist, Probability: 0,10101010101010101 
+GUID: 190648, Type: GuildhouseItem, Rarity: Rare, Name: Respected Oenologist, Probability: 0,3703703703703704 
+GUID: 191353, Type: GuildhouseItem, Rarity: Rare, Name: Science Whizz, Probability: 0,10101010101010101 
+GUID: 191418, Type: GuildhouseItem, Rarity: Rare, Name: Steam Engineer, Probability: 0,10101010101010101 
+GUID: 190703, Type: GuildhouseItem, Rarity: Rare, Name: Steely-Eyed Steelsmith, Probability: 0,10101010101010101 
+GUID: 190619, Type: GuildhouseItem, Rarity: Rare, Name: Veteran Whaler, Probability: 0,10101010101010101 
+GUID: 191596, Type: ShipSpecialist, Rarity: Common, Name: Ensign, Probability: 1,1111111111111112 
+GUID: 191597, Type: ShipSpecialist, Rarity: Common, Name: Gunsmith, Probability: 1,1111111111111112 
+GUID: 191616, Type: ShipSpecialist, Rarity: Common, Name: Handler, Probability: 1,1111111111111112 
+GUID: 191615, Type: ShipSpecialist, Rarity: Common, Name: Lader, Probability: 1,1111111111111112 
+GUID: 191445, Type: ShipSpecialist, Rarity: Common, Name: Mate, Probability: 1,6666666666666667 
+GUID: 191444, Type: ShipSpecialist, Rarity: Common, Name: Sailor, Probability: 1,6666666666666667 
+GUID: 191447, Type: ShipSpecialist, Rarity: Uncommon, Name: Bosun, Probability: 2,7777777777777777 
+GUID: 191598, Type: ShipSpecialist, Rarity: Uncommon, Name: Former Pirate, Probability: 1,8518518518518519 
+GUID: 191617, Type: ShipSpecialist, Rarity: Uncommon, Name: Merchant, Probability: 1,8518518518518519 
+GUID: 191446, Type: ShipSpecialist, Rarity: Uncommon, Name: Midshipman, Probability: 2,7777777777777777 
+GUID: 191599, Type: ShipSpecialist, Rarity: Uncommon, Name: Sergeant, Probability: 1,8518518518518519 
+GUID: 191618, Type: ShipSpecialist, Rarity: Uncommon, Name: Shipper, Probability: 1,8518518518518519 
+GUID: 191600, Type: ShipSpecialist, Rarity: Rare, Name: Captain of Marines, Probability: 0,5555555555555556 
+GUID: 191620, Type: ShipSpecialist, Rarity: Rare, Name: Exporter of Goods, Probability: 0,7407407407407408 
+GUID: 191601, Type: ShipSpecialist, Rarity: Rare, Name: Former Corsair, Probability: 0,5555555555555556 
+GUID: 191449, Type: ShipSpecialist, Rarity: Rare, Name: Pilot, Probability: 1,1111111111111112 
+GUID: 191619, Type: ShipSpecialist, Rarity: Rare, Name: Port Dealer, Probability: 0,7407407407407408 
+GUID: 191602, Type: ShipSpecialist, Rarity: Rare, Name: Ship's Chaplain, Probability: 0,5555555555555556 
+GUID: 191448, Type: ShipSpecialist, Rarity: Rare, Name: Tugboatman, Probability: 1,1111111111111112 

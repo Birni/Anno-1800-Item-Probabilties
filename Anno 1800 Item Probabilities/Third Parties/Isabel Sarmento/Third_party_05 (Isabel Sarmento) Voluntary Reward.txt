@@ -1,0 +1,70 @@
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 0,30303030303030304 
+GUID: 191838, Type: VehicleItem, Rarity: Uncommon, Name: Fine Spyglass, Probability: 0,30303030303030304 
+GUID: 191848, Type: VehicleItem, Rarity: Uncommon, Name: Fine Wooden Hull, Probability: 0,30303030303030304 
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 0,30303030303030304 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 0,30303030303030304 
+GUID: 191849, Type: VehicleItem, Rarity: Rare, Name: Fine Steel Hull, Probability: 0,16129032258064516 
+GUID: 191857, Type: VehicleItem, Rarity: Rare, Name: Heat Exchanger, Probability: 0,16129032258064516 
+GUID: 191839, Type: VehicleItem, Rarity: Rare, Name: High-Powered Scope, Probability: 0,16129032258064516 
+GUID: 191013, Type: VehicleItem, Rarity: Rare, Name: Lateen Style Sails, Probability: 0,16129032258064516 
+GUID: 191830, Type: VehicleItem, Rarity: Rare, Name: One-Turn Screw Propeller, Probability: 0,16129032258064516 
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 0,5555555555555556 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,30303030303030304 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 0,30303030303030304 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 0,30303030303030304 
+GUID: 191833, Type: ActiveItem, Rarity: Rare, Name: Ship Piston Engine, Probability: 0,16129032258064516 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 0,16129032258064516 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 0,30303030303030304 
+GUID: 191883, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Repair Crane, Probability: 0,30303030303030304 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 0,16129032258064516 
+GUID: 191884, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Repair Crane, Probability: 0,16129032258064516 
+GUID: 191367, Type: GuildhouseItem, Rarity: Common, Name: Bean Sifter, Probability: 0,5555555555555555 
+GUID: 191330, Type: GuildhouseItem, Rarity: Common, Name: Confectioner, Probability: 0,5555555555555555 
+GUID: 190616, Type: GuildhouseItem, Rarity: Common, Name: Diver, Probability: 0,5555555555555555 
+GUID: 190685, Type: GuildhouseItem, Rarity: Common, Name: Harvester, Probability: 0,5555555555555555 
+GUID: 191342, Type: GuildhouseItem, Rarity: Common, Name: Hat Maker, Probability: 0,5555555555555555 
+GUID: 191396, Type: GuildhouseItem, Rarity: Common, Name: Kitchen Help, Probability: 0,5555555555555555 
+GUID: 191341, Type: GuildhouseItem, Rarity: Common, Name: Knitter, Probability: 0,5555555555555555 
+GUID: 190639, Type: GuildhouseItem, Rarity: Common, Name: Lector, Probability: 0,5555555555555555 
+GUID: 191312, Type: GuildhouseItem, Rarity: Common, Name: Pastry Cook, Probability: 0,5555555555555555 
+GUID: 190686, Type: GuildhouseItem, Rarity: Common, Name: Picker, Probability: 0,5555555555555555 
+GUID: 190644, Type: GuildhouseItem, Rarity: Common, Name: Rum Runner, Probability: 0,5555555555555555 
+GUID: 190687, Type: GuildhouseItem, Rarity: Uncommon, Name: Agriculturalist, Probability: 0,30303030303030304 
+GUID: 190931, Type: GuildhouseItem, Rarity: Uncommon, Name: Cane Saplings, Probability: 0,303030303030303 
+GUID: 190943, Type: GuildhouseItem, Rarity: Uncommon, Name: Caoutchouc Saplings, Probability: 0,303030303030303 
+GUID: 191331, Type: GuildhouseItem, Rarity: Uncommon, Name: Chocolatier, Probability: 0,30303030303030304 
+GUID: 190940, Type: GuildhouseItem, Rarity: Uncommon, Name: Cocoa Beans, Probability: 0,303030303030303 
+GUID: 190946, Type: GuildhouseItem, Rarity: Uncommon, Name: Coffee Beans, Probability: 0,303030303030303 
+GUID: 190949, Type: GuildhouseItem, Rarity: Uncommon, Name: Corn Seeds, Probability: 0,303030303030303 
+GUID: 190937, Type: GuildhouseItem, Rarity: Uncommon, Name: Cotton Seeds, Probability: 0,303030303030303 
+GUID: 191313, Type: GuildhouseItem, Rarity: Uncommon, Name: Gelatier, Probability: 0,30303030303030304 
+GUID: 191344, Type: GuildhouseItem, Rarity: Uncommon, Name: Hatter, Probability: 0,30303030303030304 
+GUID: 191900, Type: GuildhouseItem, Rarity: Uncommon, Name: Oyster Spawn, Probability: 0,303030303030303 
+GUID: 190618, Type: GuildhouseItem, Rarity: Uncommon, Name: Pearl Diver, Probability: 0,30303030303030304 
+GUID: 191897, Type: GuildhouseItem, Rarity: Uncommon, Name: Plantain Saplings, Probability: 0,303030303030303 
+GUID: 191368, Type: GuildhouseItem, Rarity: Uncommon, Name: Roaster, Probability: 0,30303030303030304 
+GUID: 190646, Type: GuildhouseItem, Rarity: Uncommon, Name: Rum Blender, Probability: 0,30303030303030304 
+GUID: 191343, Type: GuildhouseItem, Rarity: Uncommon, Name: Seamstress, Probability: 0,30303030303030304 
+GUID: 190640, Type: GuildhouseItem, Rarity: Uncommon, Name: Tobacco Blender, Probability: 0,30303030303030304 
+GUID: 190934, Type: GuildhouseItem, Rarity: Uncommon, Name: Tobacco Seeds, Probability: 0,303030303030303 
+GUID: 191385, Type: GuildhouseItem, Rarity: Uncommon, Name: Tortillera, Probability: 0,30303030303030304 
+GUID: 190688, Type: GuildhouseItem, Rarity: Uncommon, Name: Tree Surgeon, Probability: 0,30303030303030304 
+GUID: 190690, Type: GuildhouseItem, Rarity: Rare, Name: Arborist, Probability: 0,16129032258064516 
+GUID: 190641, Type: GuildhouseItem, Rarity: Rare, Name: Cigar Afficionado, Probability: 0,16129032258064516 
+GUID: 191369, Type: GuildhouseItem, Rarity: Rare, Name: Coffee Sommelier, Probability: 0,16129032258064516 
+GUID: 190620, Type: GuildhouseItem, Rarity: Rare, Name: Daring Scuba Diver, Probability: 0,16129032258064516 
+GUID: 191356, Type: GuildhouseItem, Rarity: Rare, Name: Master Confectioner, Probability: 0,16129032258064516 
+GUID: 191349, Type: GuildhouseItem, Rarity: Rare, Name: Milliner, Probability: 0,16129032258064516 
+GUID: 191345, Type: GuildhouseItem, Rarity: Rare, Name: Modiste, Probability: 0,16129032258064516 
+GUID: 191386, Type: GuildhouseItem, Rarity: Rare, Name: Mole Master, Probability: 0,16129032258064516 
+GUID: 190689, Type: GuildhouseItem, Rarity: Rare, Name: Pedologist, Probability: 0,16129032258064516 
+GUID: 190932, Type: GuildhouseItem, Rarity: Rare, Name: Quality Cane Saplings, Probability: 0,16129032258064516 
+GUID: 190944, Type: GuildhouseItem, Rarity: Rare, Name: Quality Caoutchouc Saplings, Probability: 0,16129032258064516 
+GUID: 191332, Type: GuildhouseItem, Rarity: Rare, Name: Quality Chocolatier, Probability: 0,16129032258064516 
+GUID: 190941, Type: GuildhouseItem, Rarity: Rare, Name: Quality Cocoa Beans, Probability: 0,16129032258064516 
+GUID: 190947, Type: GuildhouseItem, Rarity: Rare, Name: Quality Coffee Beans, Probability: 0,16129032258064516 
+GUID: 190950, Type: GuildhouseItem, Rarity: Rare, Name: Quality Corn Seeds, Probability: 0,16129032258064516 
+GUID: 190938, Type: GuildhouseItem, Rarity: Rare, Name: Quality Cotton Seeds, Probability: 0,16129032258064516 
+GUID: 191901, Type: GuildhouseItem, Rarity: Rare, Name: Quality Oyster Spawn, Probability: 0,16129032258064516 
+GUID: 191898, Type: GuildhouseItem, Rarity: Rare, Name: Quality Plantain Saplings, Probability: 0,16129032258064516 
+GUID: 190935, Type: GuildhouseItem, Rarity: Rare, Name: Quality Tobacco Seeds, Probability: 0,16129032258064516 

@@ -1,0 +1,13 @@
+GUID: 190664, Type: HarborOfficeItem, Rarity: Common, Name: Bruiser, Probability: 3,5 
+GUID: 190680, Type: HarborOfficeItem, Rarity: Common, Name: Guide, Probability: 3,5 
+GUID: 190665, Type: HarborOfficeItem, Rarity: Uncommon, Name: Scammer, Probability: 1,5 
+GUID: 190681, Type: HarborOfficeItem, Rarity: Uncommon, Name: Souvenir Seller, Probability: 1,5 
+GUID: 190915, Type: GuildhouseItem, Rarity: Uncommon, Name: Grain Seeds, Probability: 10 
+GUID: 190925, Type: GuildhouseItem, Rarity: Uncommon, Name: Grape Vines, Probability: 10 
+GUID: 190919, Type: GuildhouseItem, Rarity: Uncommon, Name: Hop Seeds, Probability: 10 
+GUID: 190922, Type: GuildhouseItem, Rarity: Uncommon, Name: Potato Sprouts, Probability: 10 
+GUID: 190928, Type: GuildhouseItem, Rarity: Uncommon, Name: Red Pepper Seeds, Probability: 10 
+GUID: 191616, Type: ShipSpecialist, Rarity: Common, Name: Handler, Probability: 3,5 
+GUID: 191615, Type: ShipSpecialist, Rarity: Common, Name: Lader, Probability: 3,5 
+GUID: 191617, Type: ShipSpecialist, Rarity: Uncommon, Name: Merchant, Probability: 1,5 
+GUID: 191618, Type: ShipSpecialist, Rarity: Uncommon, Name: Shipper, Probability: 1,5 

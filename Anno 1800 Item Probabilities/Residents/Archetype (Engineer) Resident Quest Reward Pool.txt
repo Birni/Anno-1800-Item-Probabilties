@@ -1,0 +1,69 @@
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 1,3461538461538463 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 1,3461538461538463 
+GUID: 191857, Type: VehicleItem, Rarity: Rare, Name: Heat Exchanger, Probability: 1,875 
+GUID: 191839, Type: VehicleItem, Rarity: Rare, Name: High-Powered Scope, Probability: 1,875 
+GUID: 191830, Type: VehicleItem, Rarity: Rare, Name: One-Turn Screw Propeller, Probability: 1,875 
+GUID: 191831, Type: VehicleItem, Rarity: Epic, Name: Controllable-Pitch Propeller, Probability: 0,4166666666666667 
+GUID: 191858, Type: VehicleItem, Rarity: Epic, Name: Plate Heat Exchanger, Probability: 0,4166666666666667 
+GUID: 191840, Type: VehicleItem, Rarity: Epic, Name: Telemobiloscope, Probability: 0,4166666666666667 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 1,3461538461538463 
+GUID: 191833, Type: ActiveItem, Rarity: Rare, Name: Ship Piston Engine, Probability: 1,875 
+GUID: 191834, Type: ActiveItem, Rarity: Epic, Name: Multiple Expansion Steam Engine, Probability: 0,4166666666666667 
+GUID: 191890, Type: HarborOfficeItem, Rarity: Epic, Name: Dynamic Loudspeaker, Probability: 0,4166666666666667 
+GUID: 190697, Type: HarborOfficeItem, Rarity: Epic, Name: Mr. Swell, the Hydrodynamist, Probability: 0,4166666666666667 
+GUID: 192177, Type: HarborOfficeItem, Rarity: Legendary, Name: Thundering Loudspeaker Network, Probability: 0,5 
+GUID: 190676, Type: TownhallItem, Rarity: Uncommon, Name: Lecturer, Probability: 1,3461538461538463 
+GUID: 190722, Type: TownhallItem, Rarity: Rare, Name: Punctilious Physician, Probability: 1,875 
+GUID: 190677, Type: TownhallItem, Rarity: Rare, Name: Very Senior Lecturer, Probability: 1,875 
+GUID: 192468, Type: TownhallItem, Rarity: Epic, Name: Elliot "Blitz", the Security Engineer, Probability: 0,4166666666666667 
+GUID: 190678, Type: TownhallItem, Rarity: Epic, Name: Professor Razzaq, Probability: 0,4166666666666667 
+GUID: 190410, Type: TownhallItem, Rarity: Legendary, Name: Dr. Maurice Slim, Former Head of Promise Trust, Probability: 0,5 
+GUID: 190724, Type: TownhallItem, Rarity: Legendary, Name: Louis P. Hecate, Arm-Puncturing Pioneer, Probability: 0,5 
+GUID: 190679, Type: TownhallItem, Rarity: Legendary, Name: Prof. Iwa Ebashi, Pioneer of the Radioactive, Probability: 0,5 
+GUID: 191413, Type: GuildhouseItem, Rarity: Common, Name: Mechanic, Probability: 1,25 
+GUID: 191351, Type: GuildhouseItem, Rarity: Common, Name: Sparky, Probability: 1,25 
+GUID: 191372, Type: GuildhouseItem, Rarity: Common, Name: Technician, Probability: 1,25 
+GUID: 191412, Type: GuildhouseItem, Rarity: Common, Name: Wheelwright, Probability: 1,25 
+GUID: 190887, Type: GuildhouseItem, Rarity: Uncommon, Name: Conveyor, Probability: 1,3461538461538463 
+GUID: 190827, Type: GuildhouseItem, Rarity: Uncommon, Name: Dynamo, Probability: 1,3461538461538463 
+GUID: 191374, Type: GuildhouseItem, Rarity: Uncommon, Name: Gramophonist, Probability: 1,3461538461538463 
+GUID: 191416, Type: GuildhouseItem, Rarity: Uncommon, Name: Machinist, Probability: 1,3461538461538463 
+GUID: 191375, Type: GuildhouseItem, Rarity: Uncommon, Name: Magnetist, Probability: 1,3461538461538463 
+GUID: 190847, Type: GuildhouseItem, Rarity: Uncommon, Name: Mercury Thermometer, Probability: 1,3461538461538463 
+GUID: 191307, Type: GuildhouseItem, Rarity: Uncommon, Name: Optician, Probability: 1,3461538461538463 
+GUID: 191352, Type: GuildhouseItem, Rarity: Uncommon, Name: Physicist, Probability: 1,3461538461538463 
+GUID: 191415, Type: GuildhouseItem, Rarity: Uncommon, Name: Velocipedalist, Probability: 1,3461538461538463 
+GUID: 190866, Type: GuildhouseItem, Rarity: Uncommon, Name: Vitamin Supplements, Probability: 1,3461538461538463 
+GUID: 190888, Type: GuildhouseItem, Rarity: Rare, Name: Assembly Line, Probability: 1,875 
+GUID: 191376, Type: GuildhouseItem, Rarity: Rare, Name: Leading Electrical Engineer, Probability: 1,875 
+GUID: 190848, Type: GuildhouseItem, Rarity: Rare, Name: Melting Point Apparatus, Probability: 1,875 
+GUID: 191418, Type: GuildhouseItem, Rarity: Rare, Name: Steam Engineer, Probability: 1,875 
+GUID: 190828, Type: GuildhouseItem, Rarity: Rare, Name: Steam Turbine, Probability: 1,875 
+GUID: 190867, Type: GuildhouseItem, Rarity: Rare, Name: Veterinary Antibiotics, Probability: 1,875 
+GUID: 190868, Type: GuildhouseItem, Rarity: Epic, Name: Angelic Anthrax Vaccine, Probability: 0,4166666666666667 
+GUID: 191424, Type: GuildhouseItem, Rarity: Epic, Name: Dario the Mechanical Engineer, Probability: 0,4166666666666667 
+GUID: 191464, Type: GuildhouseItem, Rarity: Epic, Name: Ferhat the Experienced Builder, Probability: 0,4166666666666667 
+GUID: 190881, Type: GuildhouseItem, Rarity: Epic, Name: Fine Handheld Power Auger, Probability: 0,4166666666666667 
+GUID: 191590, Type: GuildhouseItem, Rarity: Epic, Name: Grigor the Geologist, Probability: 0,4166666666666667 
+GUID: 191354, Type: GuildhouseItem, Rarity: Epic, Name: Johan the Inventor, Probability: 0,4166666666666667 
+GUID: 192319, Type: GuildhouseItem, Rarity: Epic, Name: Optimised Automatic Loom, Probability: 0,4166666666666667 
+GUID: 190826, Type: GuildhouseItem, Rarity: Epic, Name: Oxford Electrical Bell, Probability: 0,4166666666666667 
+GUID: 190829, Type: GuildhouseItem, Rarity: Epic, Name: Pertwee's Turbo Generator, Probability: 0,4166666666666667 
+GUID: 190889, Type: GuildhouseItem, Rarity: Epic, Name: Porthampton Mass Conveyor, Probability: 0,4166666666666667 
+GUID: 192443, Type: GuildhouseItem, Rarity: Epic, Name: Sir Lewis Brindley, the Chemist, Probability: 0,4166666666666667 
+GUID: 190864, Type: GuildhouseItem, Rarity: Epic, Name: Superphosphate Fertiliser, Probability: 0,4166666666666667 
+GUID: 191420, Type: GuildhouseItem, Rarity: Epic, Name: Susannah the Steam Engineer, Probability: 0,4166666666666667 
+GUID: 190849, Type: GuildhouseItem, Rarity: Epic, Name: Thielemann's Tube, Probability: 0,4166666666666667 
+GUID: 190237, Type: GuildhouseItem, Rarity: Legendary, Name: Angela "Meg" Iver, The Polyvalent, Probability: 0,5 
+GUID: 191422, Type: GuildhouseItem, Rarity: Legendary, Name: Bruno Ironbright, Engineering Giant, Probability: 0,5 
+GUID: 191355, Type: GuildhouseItem, Rarity: Legendary, Name: Prof. Ram Devi, The Bundle of Energy, Probability: 0,5 
+GUID: 114539, Type: CultureItem, Rarity: Common, Name: Dandelion, Probability: 1,25 
+GUID: 114538, Type: CultureItem, Rarity: Common, Name: Foxglove, Probability: 1,25 
+GUID: 114542, Type: CultureItem, Rarity: Common, Name: Peppermint, Probability: 1,25 
+GUID: 114388, Type: CultureItem, Rarity: Uncommon, Name: Champak, Probability: 1,3461538461538463 
+GUID: 114662, Type: CultureItem, Rarity: Uncommon, Name: Meadow Sage, Probability: 1,3461538461538463 
+GUID: 114387, Type: CultureItem, Rarity: Uncommon, Name: Star Jasmine, Probability: 1,3461538461538463 
+GUID: 114389, Type: CultureItem, Rarity: Uncommon, Name: Tulsi, Probability: 1,3461538461538463 
+GUID: 114669, Type: CultureItem, Rarity: Rare, Name: Jerusalem Sage, Probability: 1,875 
+GUID: 114677, Type: CultureItem, Rarity: Legendary, Name: The Elusive Fern Flower, Probability: 0,5 
+GUID: 111117, Type: CultureItem, Rarity: Legendary, Name: The Jujube Lotus, Probability: 0,5 

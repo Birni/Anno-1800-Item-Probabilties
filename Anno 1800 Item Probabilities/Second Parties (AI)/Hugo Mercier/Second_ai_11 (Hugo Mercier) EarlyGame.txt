@@ -1,0 +1,9 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 4,761904761904762 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 4,761904761904762 
+GUID: 111175, Type: TownhallItem, Rarity: Common, Name: Affiliated Anarchist, Probability: 11,666666666666666 
+GUID: 111176, Type: TownhallItem, Rarity: Uncommon, Name: Anti-Clerical Lecturer, Probability: 5 
+GUID: 110948, Type: TownhallItem, Rarity: Uncommon, Name: People's Jury Hall, Probability: 4,761904761904762 
+GUID: 110942, Type: GuildhouseItem, Rarity: Uncommon, Name: Hall of Collective Property, Probability: 4,761904761904762 
+GUID: 110936, Type: GuildhouseItem, Rarity: Uncommon, Name: Writing Machine, Probability: 4,761904761904762 
+GUID: 111126, Type: ShipSpecialist, Rarity: Common, Name: Incendiary, Probability: 11,666666666666666 
+GUID: 111127, Type: ShipSpecialist, Rarity: Uncommon, Name: Arsonist, Probability: 5 

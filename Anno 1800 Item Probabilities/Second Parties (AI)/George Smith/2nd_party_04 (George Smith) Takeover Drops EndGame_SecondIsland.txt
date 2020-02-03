@@ -1,0 +1,131 @@
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 3,75 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,7291666666666666 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 0,7291666666666666 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 0,5319148936170213 
+GUID: 192153, Type: ActiveItem, Rarity: Epic, Name: Ship Tool Trolley, Probability: 0,2222222222222222 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 0,7291666666666666 
+GUID: 191894, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Crane, Probability: 0,7291666666666666 
+GUID: 191883, Type: HarborOfficeItem, Rarity: Uncommon, Name: Wooden Repair Crane, Probability: 0,7291666666666666 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 0,5319148936170213 
+GUID: 191895, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Crane, Probability: 0,5319148936170213 
+GUID: 191884, Type: HarborOfficeItem, Rarity: Rare, Name: Gantry Repair Crane, Probability: 0,5319148936170213 
+GUID: 191881, Type: HarborOfficeItem, Rarity: Epic, Name: Dockyard Tool System, Probability: 0,2222222222222222 
+GUID: 191896, Type: HarborOfficeItem, Rarity: Epic, Name: Railroad Crane, Probability: 0,22222222222222224 
+GUID: 191885, Type: HarborOfficeItem, Rarity: Epic, Name: Railway Repair Crane, Probability: 0,2222222222222222 
+GUID: 191788, Type: TownhallItem, Rarity: Uncommon, Name: Amnesty on Religious Symbology, Probability: 0,7291666666666666 
+GUID: 191800, Type: TownhallItem, Rarity: Uncommon, Name: Bank Holiday Decree, Probability: 0,7291666666666666 
+GUID: 191780, Type: TownhallItem, Rarity: Uncommon, Name: Decreased Alcohol Tax Bylaws, Probability: 0,7291666666666666 
+GUID: 191756, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Association Act, Probability: 0,7291666666666666 
+GUID: 191768, Type: TownhallItem, Rarity: Uncommon, Name: Freedom of Faith Act, Probability: 0,7291666666666666 
+GUID: 191744, Type: TownhallItem, Rarity: Uncommon, Name: Graveyard Relocation Measures, Probability: 0,7291666666666666 
+GUID: 191732, Type: TownhallItem, Rarity: Uncommon, Name: Import Tax Reduction Act, Probability: 0,7291666666666666 
+GUID: 191720, Type: TownhallItem, Rarity: Uncommon, Name: Journal of Common Thought, Probability: 0,7291666666666666 
+GUID: 191765, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Schooling Act, Probability: 0,7291666666666666 
+GUID: 191690, Type: TownhallItem, Rarity: Uncommon, Name: Potholes Decree, Probability: 0,7291666666666666 
+GUID: 191809, Type: TownhallItem, Rarity: Uncommon, Name: Rioter Amesty Law, Probability: 0,7291666666666666 
+GUID: 191750, Type: TownhallItem, Rarity: Uncommon, Name: Safer Roofs Fund, Probability: 0,7291666666666666 
+GUID: 191726, Type: TownhallItem, Rarity: Uncommon, Name: School Discipline Charter, Probability: 0,7291666666666666 
+GUID: 191738, Type: TownhallItem, Rarity: Uncommon, Name: Sunday Best Law, Probability: 0,7291666666666666 
+GUID: 191797, Type: TownhallItem, Rarity: Uncommon, Name: Tax Rebates, Probability: 0,7291666666666666 
+GUID: 191714, Type: TownhallItem, Rarity: Uncommon, Name: The Lord's Blessing, Probability: 0,7291666666666666 
+GUID: 192482, Type: TownhallItem, Rarity: Uncommon, Name: The Subjection of Women, Probability: 0,7291666666666666 
+GUID: 192483, Type: TownhallItem, Rarity: Rare, Name: A Vindication of Women's Rights, Probability: 0,5319148936170213 
+GUID: 191751, Type: TownhallItem, Rarity: Rare, Name: Chimney Sweep Charter, Probability: 0,5319148936170213 
+GUID: 191691, Type: TownhallItem, Rarity: Rare, Name: City Map Act, Probability: 0,5319148936170213 
+GUID: 191781, Type: TownhallItem, Rarity: Rare, Name: Decreased Alcohol Tax Act, Probability: 0,5319148936170213 
+GUID: 191766, Type: TownhallItem, Rarity: Rare, Name: Extended Schooling Act, Probability: 0,5319148936170213 
+GUID: 191769, Type: TownhallItem, Rarity: Rare, Name: Free Press Act, Probability: 0,5319148936170213 
+GUID: 191733, Type: TownhallItem, Rarity: Rare, Name: Goods Duties Reduction Act, Probability: 0,5319148936170213 
+GUID: 191727, Type: TownhallItem, Rarity: Rare, Name: Headteacher's Charter, Probability: 0,5319148936170213 
+GUID: 191721, Type: TownhallItem, Rarity: Rare, Name: Journal of Popular Thought, Probability: 0,5319148936170213 
+GUID: 191739, Type: TownhallItem, Rarity: Rare, Name: Mandatory Mass Law, Probability: 0,5319148936170213 
+GUID: 191801, Type: TownhallItem, Rarity: Rare, Name: Queen's Birthday Decree, Probability: 0,5319148936170213 
+GUID: 191757, Type: TownhallItem, Rarity: Rare, Name: Right of Protest Act, Probability: 0,5319148936170213 
+GUID: 191810, Type: TownhallItem, Rarity: Rare, Name: Rioter Immunity Act, Probability: 0,5319148936170213 
+GUID: 191715, Type: TownhallItem, Rarity: Rare, Name: Sabbath Repeal Law, Probability: 0,5319148936170213 
+GUID: 191789, Type: TownhallItem, Rarity: Rare, Name: Secularised Bylaws, Probability: 0,5319148936170213 
+GUID: 191798, Type: TownhallItem, Rarity: Rare, Name: Tax Reduction Legislation, Probability: 0,5319148936170213 
+GUID: 191745, Type: TownhallItem, Rarity: Rare, Name: Waste Treatment Act, Probability: 0,5319148936170213 
+GUID: 191752, Type: TownhallItem, Rarity: Epic, Name: Arthur Ramshackle's Grand Reservoir Plans, Probability: 0,22222222222222224 
+GUID: 191802, Type: TownhallItem, Rarity: Epic, Name: Bente Jorgensen's Perfectly Paid Vacations Act, Probability: 0,22222222222222224 
+GUID: 191811, Type: TownhallItem, Rarity: Epic, Name: George Smith's Statute of Universal Collaboration, Probability: 0,22222222222222224 
+GUID: 191728, Type: TownhallItem, Rarity: Epic, Name: Lady Dumbedown's Colossal Class Size Charter, Probability: 0,22222222222222224 
+GUID: 191782, Type: TownhallItem, Rarity: Epic, Name: Lord Farquahar's Alcohol Tax Amendment, Probability: 0,22222222222222224 
+GUID: 191790, Type: TownhallItem, Rarity: Epic, Name: Mercier's Separate Church and State Clause, Probability: 0,22222222222222224 
+GUID: 192484, Type: TownhallItem, Rarity: Epic, Name: Millicent's Manifesto of the Suffragette, Probability: 0,22222222222222224 
+GUID: 191767, Type: TownhallItem, Rarity: Epic, Name: Miss Jorgensen's Exemplary "School-to-16" Proposal, Probability: 0,22222222222222224 
+GUID: 191746, Type: TownhallItem, Rarity: Epic, Name: Mr. Slippery's Splendiferous Sewage Proposal, Probability: 0,22222222222222224 
+GUID: 191799, Type: TownhallItem, Rarity: Epic, Name: Mrs. O'Mara's Marvellous Tax Relief Regulations, Probability: 0,22222222222222224 
+GUID: 191692, Type: TownhallItem, Rarity: Epic, Name: Mssr. Fontaine's Street Signage Solution, Probability: 0,22222222222222224 
+GUID: 191740, Type: TownhallItem, Rarity: Epic, Name: Patriarch Grigor's Calendar of Holy Days, Probability: 0,22222222222222224 
+GUID: 191734, Type: TownhallItem, Rarity: Epic, Name: Sir Archie's Royal Minty Printy Thingy, Probability: 0,22222222222222224 
+GUID: 191722, Type: TownhallItem, Rarity: Epic, Name: The Kaleidoscopeum Quarterly Review, Probability: 0,22222222222222224 
+GUID: 191758, Type: TownhallItem, Rarity: Epic, Name: The Pulltoddle Freedom of Assembly Act, Probability: 0,22222222222222224 
+GUID: 191716, Type: TownhallItem, Rarity: Epic, Name: Timothy's Blurry Law of Utter Depravity, Probability: 0,22222222222222224 
+GUID: 191770, Type: TownhallItem, Rarity: Epic, Name: Treatise on Freedom of Speech, Probability: 0,22222222222222224 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 0,7291666666666666 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 0,7291666666666666 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 0,7291666666666666 
+GUID: 190887, Type: GuildhouseItem, Rarity: Uncommon, Name: Conveyor, Probability: 0,7291666666666666 
+GUID: 190894, Type: GuildhouseItem, Rarity: Uncommon, Name: Copper Distiller, Probability: 0,7291666666666666 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 0,7291666666666666 
+GUID: 190827, Type: GuildhouseItem, Rarity: Uncommon, Name: Dynamo, Probability: 0,7291666666666666 
+GUID: 191681, Type: GuildhouseItem, Rarity: Uncommon, Name: Fire Safety Poster, Probability: 0,7291666666666666 
+GUID: 190876, Type: GuildhouseItem, Rarity: Uncommon, Name: Freight Elevator, Probability: 0,7291666666666666 
+GUID: 190859, Type: GuildhouseItem, Rarity: Uncommon, Name: Furrow Plough, Probability: 0,7291666666666666 
+GUID: 190905, Type: GuildhouseItem, Rarity: Uncommon, Name: Glass Blower, Probability: 0,7291666666666666 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 0,7291666666666666 
+GUID: 190818, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Grillwork, Probability: 0,7291666666666666 
+GUID: 190891, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Oven, Probability: 0,7291666666666666 
+GUID: 190898, Type: GuildhouseItem, Rarity: Uncommon, Name: Magnifying Glasses, Probability: 0,7291666666666666 
+GUID: 190883, Type: GuildhouseItem, Rarity: Uncommon, Name: Mechanical Loom, Probability: 0,7291666666666666 
+GUID: 190847, Type: GuildhouseItem, Rarity: Uncommon, Name: Mercury Thermometer, Probability: 0,7291666666666666 
+GUID: 190843, Type: GuildhouseItem, Rarity: Uncommon, Name: Millstone, Probability: 0,7291666666666666 
+GUID: 191687, Type: GuildhouseItem, Rarity: Uncommon, Name: Night Pollution By-Law, Probability: 0,7291666666666666 
+GUID: 190839, Type: GuildhouseItem, Rarity: Uncommon, Name: Planer, Probability: 0,7291666666666666 
+GUID: 190873, Type: GuildhouseItem, Rarity: Uncommon, Name: Slurry Tank, Probability: 0,7291666666666666 
+GUID: 190911, Type: GuildhouseItem, Rarity: Uncommon, Name: Wooden Moulds, Probability: 0,7291666666666666 
+GUID: 190888, Type: GuildhouseItem, Rarity: Rare, Name: Assembly Line, Probability: 0,5319148936170213 
+GUID: 190860, Type: GuildhouseItem, Rarity: Rare, Name: Balance Plough, Probability: 0,5319148936170213 
+GUID: 190844, Type: GuildhouseItem, Rarity: Rare, Name: Burrstone, Probability: 0,5319148936170213 
+GUID: 190892, Type: GuildhouseItem, Rarity: Rare, Name: Cast Iron Stove, Probability: 0,5319148936170213 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 0,5319148936170213 
+GUID: 190819, Type: GuildhouseItem, Rarity: Rare, Name: Double Iron Grillwork, Probability: 0,5319148936170213 
+GUID: 190857, Type: GuildhouseItem, Rarity: Rare, Name: Druid's Sickle, Probability: 0,5319148936170213 
+GUID: 191682, Type: GuildhouseItem, Rarity: Rare, Name: Fire Prevention Directive, Probability: 0,5319148936170213 
+GUID: 190840, Type: GuildhouseItem, Rarity: Rare, Name: Helical Planer, Probability: 0,5319148936170213 
+GUID: 190899, Type: GuildhouseItem, Rarity: Rare, Name: Magnifying Glass, Probability: 0,5319148936170213 
+GUID: 190880, Type: GuildhouseItem, Rarity: Rare, Name: Mechanical Drill, Probability: 0,5319148936170213 
+GUID: 190906, Type: GuildhouseItem, Rarity: Rare, Name: Mechanised Glass Blower, Probability: 0,5319148936170213 
+GUID: 190848, Type: GuildhouseItem, Rarity: Rare, Name: Melting Point Apparatus, Probability: 0,5319148936170213 
+GUID: 191688, Type: GuildhouseItem, Rarity: Rare, Name: Night and Day Pollution By-Law, Probability: 0,5319148936170213 
+GUID: 190884, Type: GuildhouseItem, Rarity: Rare, Name: Power Loom, Probability: 0,5319148936170213 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 0,5319148936170213 
+GUID: 190877, Type: GuildhouseItem, Rarity: Rare, Name: Safety Elevator, Probability: 0,5319148936170213 
+GUID: 190874, Type: GuildhouseItem, Rarity: Rare, Name: Slurry Pit, Probability: 0,5319148936170213 
+GUID: 190895, Type: GuildhouseItem, Rarity: Rare, Name: Steam Powered Brewing Machine, Probability: 0,5319148936170213 
+GUID: 190828, Type: GuildhouseItem, Rarity: Rare, Name: Steam Turbine, Probability: 0,5319148936170213 
+GUID: 190912, Type: GuildhouseItem, Rarity: Rare, Name: Steel Moulds, Probability: 0,5319148936170213 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 0,5319148936170213 
+GUID: 190841, Type: GuildhouseItem, Rarity: Epic, Name: "The Cutting Edge", Probability: 0,22222222222222224 
+GUID: 190832, Type: GuildhouseItem, Rarity: Epic, Name: Bechamel Converter, Probability: 0,22222222222222224 
+GUID: 190893, Type: GuildhouseItem, Rarity: Epic, Name: Elmer's Electric Oven, Probability: 0,22222222222222224 
+GUID: 190881, Type: GuildhouseItem, Rarity: Epic, Name: Fine Handheld Power Auger, Probability: 0,22222222222222224 
+GUID: 191683, Type: GuildhouseItem, Rarity: Epic, Name: Fizgig's Fabulous Fireproofing Failsafe, Probability: 0,22222222222222224 
+GUID: 190896, Type: GuildhouseItem, Rarity: Epic, Name: Grandiloquent Copper Distiller, Probability: 0,22222222222222224 
+GUID: 191689, Type: GuildhouseItem, Rarity: Epic, Name: Green's Law to Postpone The Apocalypse, Probability: 0,22222222222222224 
+GUID: 190910, Type: GuildhouseItem, Rarity: Epic, Name: Harker's Electric Treadle Lathe, Probability: 0,22222222222222224 
+GUID: 190820, Type: GuildhouseItem, Rarity: Epic, Name: Iron and Glass Grillwork, Probability: 0,22222222222222224 
+GUID: 190845, Type: GuildhouseItem, Rarity: Epic, Name: Lovelyman's Grinding Machine, Probability: 0,22222222222222224 
+GUID: 190913, Type: GuildhouseItem, Rarity: Epic, Name: Mickleton's Hydraulic Compacting Press, Probability: 0,22222222222222224 
+GUID: 190907, Type: GuildhouseItem, Rarity: Epic, Name: Oriel's Automatic Blowing Machine, Probability: 0,22222222222222224 
+GUID: 190861, Type: GuildhouseItem, Rarity: Epic, Name: Patent Steel Seed Drill, Probability: 0,22222222222222224 
+GUID: 190829, Type: GuildhouseItem, Rarity: Epic, Name: Pertwee's Turbo Generator, Probability: 0,22222222222222224 
+GUID: 190889, Type: GuildhouseItem, Rarity: Epic, Name: Porthampton Mass Conveyor, Probability: 0,22222222222222224 
+GUID: 190878, Type: GuildhouseItem, Rarity: Epic, Name: Simmons Electrifying Elevator, Probability: 0,22222222222222224 
+GUID: 190875, Type: GuildhouseItem, Rarity: Epic, Name: Sophisticated Slurry Lagoon, Probability: 0,22222222222222224 
+GUID: 190858, Type: GuildhouseItem, Rarity: Epic, Name: Teutonic Technical Secateurs, Probability: 0,22222222222222224 
+GUID: 190885, Type: GuildhouseItem, Rarity: Epic, Name: The Hopedale Loom, Probability: 0,22222222222222224 
+GUID: 190900, Type: GuildhouseItem, Rarity: Epic, Name: The Watchmaker's Loupe, Probability: 0,22222222222222224 
+GUID: 190849, Type: GuildhouseItem, Rarity: Epic, Name: Thielemann's Tube, Probability: 0,22222222222222224 
+GUID: 190852, Type: GuildhouseItem, Rarity: Epic, Name: Vincent Drag Saw, Probability: 0,22222222222222224 

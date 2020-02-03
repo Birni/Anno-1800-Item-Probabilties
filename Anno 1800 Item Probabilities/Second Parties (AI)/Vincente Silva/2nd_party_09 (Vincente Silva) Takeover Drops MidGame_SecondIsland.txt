@@ -1,0 +1,72 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 1,4000000000000001 
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 1,4000000000000001 
+GUID: 191838, Type: VehicleItem, Rarity: Uncommon, Name: Fine Spyglass, Probability: 1,4000000000000001 
+GUID: 191848, Type: VehicleItem, Rarity: Uncommon, Name: Fine Wooden Hull, Probability: 1,4000000000000001 
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 1,4000000000000001 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 1,4000000000000001 
+GUID: 191853, Type: VehicleItem, Rarity: Rare, Name: 18-Pounder Long Gun, Probability: 0,8333333333333334 
+GUID: 191849, Type: VehicleItem, Rarity: Rare, Name: Fine Steel Hull, Probability: 0,8333333333333334 
+GUID: 191857, Type: VehicleItem, Rarity: Rare, Name: Heat Exchanger, Probability: 0,8333333333333334 
+GUID: 191839, Type: VehicleItem, Rarity: Rare, Name: High-Powered Scope, Probability: 0,8333333333333334 
+GUID: 191013, Type: VehicleItem, Rarity: Rare, Name: Lateen Style Sails, Probability: 0,8333333333333334 
+GUID: 191830, Type: VehicleItem, Rarity: Rare, Name: One-Turn Screw Propeller, Probability: 0,8333333333333334 
+GUID: 191831, Type: VehicleItem, Rarity: Epic, Name: Controllable-Pitch Propeller, Probability: 0,3333333333333333 
+GUID: 191825, Type: VehicleItem, Rarity: Epic, Name: Fore-and-Aft Rig Sails, Probability: 0,3333333333333333 
+GUID: 191854, Type: VehicleItem, Rarity: Epic, Name: Hans Gun, Probability: 0,3333333333333333 
+GUID: 191858, Type: VehicleItem, Rarity: Epic, Name: Plate Heat Exchanger, Probability: 0,3333333333333333 
+GUID: 191850, Type: VehicleItem, Rarity: Epic, Name: Reinforced Bulkhead, Probability: 0,3333333333333333 
+GUID: 191840, Type: VehicleItem, Rarity: Epic, Name: Telemobiloscope, Probability: 0,3333333333333333 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,625 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,625 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,625 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,625 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,625 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,625 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,625 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,625 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,625 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,625 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,625 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,625 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,25 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,25 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,25 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,25 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,25 
+GUID: 113202, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken La Corona Clipper, Probability: 0,25 
+GUID: 113201, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Rebel Supply Ship, Probability: 0,25 
+GUID: 113200, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Royal Clipper, Probability: 0,25 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,25 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,25 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,25 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,25 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 1,4000000000000001 
+GUID: 191833, Type: ActiveItem, Rarity: Rare, Name: Ship Piston Engine, Probability: 0,8333333333333334 
+GUID: 191834, Type: ActiveItem, Rarity: Epic, Name: Multiple Expansion Steam Engine, Probability: 0,3333333333333333 
+GUID: 191432, Type: HarborOfficeItem, Rarity: Common, Name: Gunner, Probability: 1,875 
+GUID: 191433, Type: HarborOfficeItem, Rarity: Uncommon, Name: Artillerywoman, Probability: 1,4000000000000001 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 1,4000000000000001 
+GUID: 191889, Type: HarborOfficeItem, Rarity: Rare, Name: Auxetophone, Probability: 0,8333333333333334 
+GUID: 191434, Type: HarborOfficeItem, Rarity: Rare, Name: Cannoneer, Probability: 0,8333333333333334 
+GUID: 191435, Type: HarborOfficeItem, Rarity: Epic, Name: Colonel Barzagli, Probability: 0,33333333333333337 
+GUID: 191890, Type: HarborOfficeItem, Rarity: Epic, Name: Dynamic Loudspeaker, Probability: 0,3333333333333333 
+GUID: 191596, Type: ShipSpecialist, Rarity: Common, Name: Ensign, Probability: 1,875 
+GUID: 191597, Type: ShipSpecialist, Rarity: Common, Name: Gunsmith, Probability: 1,875 
+GUID: 191445, Type: ShipSpecialist, Rarity: Common, Name: Mate, Probability: 1,875 
+GUID: 191444, Type: ShipSpecialist, Rarity: Common, Name: Sailor, Probability: 1,875 
+GUID: 191447, Type: ShipSpecialist, Rarity: Uncommon, Name: Bosun, Probability: 1,4 
+GUID: 191598, Type: ShipSpecialist, Rarity: Uncommon, Name: Former Pirate, Probability: 1,4000000000000001 
+GUID: 191446, Type: ShipSpecialist, Rarity: Uncommon, Name: Midshipman, Probability: 1,4 
+GUID: 191599, Type: ShipSpecialist, Rarity: Uncommon, Name: Sergeant, Probability: 1,4000000000000001 
+GUID: 191600, Type: ShipSpecialist, Rarity: Rare, Name: Captain of Marines, Probability: 0,8333333333333334 
+GUID: 191601, Type: ShipSpecialist, Rarity: Rare, Name: Former Corsair, Probability: 0,8333333333333334 
+GUID: 191449, Type: ShipSpecialist, Rarity: Rare, Name: Pilot, Probability: 0,8333333333333334 
+GUID: 191602, Type: ShipSpecialist, Rarity: Rare, Name: Ship's Chaplain, Probability: 0,8333333333333334 
+GUID: 191448, Type: ShipSpecialist, Rarity: Rare, Name: Tugboatman, Probability: 0,8333333333333334 
+GUID: 190766, Type: ShipSpecialist, Rarity: Epic, Name: Captain Ibrahim, Probability: 0,3333333333333333 
+GUID: 191450, Type: ShipSpecialist, Rarity: Epic, Name: Captain Kadijah, Probability: 0,3333333333333333 
+GUID: 192449, Type: ShipSpecialist, Rarity: Epic, Name: Lady Lu, the Redeemed Pirate, Probability: 0,3333333333333333 
+GUID: 191603, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Admiral Adams, Probability: 0,33333333333333337 
+GUID: 191604, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Admiral Romanov, Probability: 0,33333333333333337 
+GUID: 191605, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Almirante Gonçalves, Probability: 0,33333333333333337 
+GUID: 191606, Type: ShipSpecialist, Rarity: Epic, Name: Vice-Almirante Paulista, Probability: 0,33333333333333337 

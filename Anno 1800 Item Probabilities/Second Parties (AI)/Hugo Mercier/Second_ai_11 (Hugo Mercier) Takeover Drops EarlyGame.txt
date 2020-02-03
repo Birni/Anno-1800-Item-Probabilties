@@ -1,0 +1,38 @@
+GUID: 111175, Type: TownhallItem, Rarity: Common, Name: Affiliated Anarchist, Probability: 3 
+GUID: 111018, Type: TownhallItem, Rarity: Uncommon, Name: "Freedom For All" Poster, Probability: 2,142857142857143 
+GUID: 111176, Type: TownhallItem, Rarity: Uncommon, Name: Anti-Clerical Lecturer, Probability: 2,142857142857143 
+GUID: 111032, Type: TownhallItem, Rarity: Uncommon, Name: Essays on the Freedom to Love, Probability: 2,142857142857143 
+GUID: 111002, Type: TownhallItem, Rarity: Uncommon, Name: Le Tocsin, Probability: 2,142857142857143 
+GUID: 111038, Type: TownhallItem, Rarity: Uncommon, Name: On Civil Disobedience, Probability: 2,142857142857143 
+GUID: 110948, Type: TownhallItem, Rarity: Uncommon, Name: People's Jury Hall, Probability: 2,142857142857143 
+GUID: 111039, Type: TownhallItem, Rarity: Rare, Name: An Anarchist: A Self-Portrait, Probability: 1,25 
+GUID: 111033, Type: TownhallItem, Rarity: Rare, Name: An Essay on Birth Control, Probability: 1,25 
+GUID: 111177, Type: TownhallItem, Rarity: Rare, Name: Democratically Elected Minister, Probability: 1,25 
+GUID: 111019, Type: TownhallItem, Rarity: Rare, Name: Iconography of the Human Mind, Probability: 1,25 
+GUID: 111003, Type: TownhallItem, Rarity: Rare, Name: La Tribune Libre, Probability: 1,25 
+GUID: 111044, Type: TownhallItem, Rarity: Rare, Name: Minor Cyclideon Exhibition: Agriculture, Probability: 1,25 
+GUID: 111045, Type: TownhallItem, Rarity: Rare, Name: Minor Cyclideon Exhibition: Industry, Probability: 1,25 
+GUID: 110949, Type: TownhallItem, Rarity: Rare, Name: Popular People's Court, Probability: 1,25 
+GUID: 110950, Type: TownhallItem, Rarity: Epic, Name: Assembly Hall of Blissful Joy and Tireless Labour, Probability: 0,5882352941176471 
+GUID: 111020, Type: TownhallItem, Rarity: Epic, Name: Dr. Mercier's Anarchy Poster, Probability: 0,5882352941176471 
+GUID: 111178, Type: TownhallItem, Rarity: Epic, Name: Krapotkin, Evolutionist of Kindness, Probability: 0,5882352941176471 
+GUID: 111047, Type: TownhallItem, Rarity: Epic, Name: Major Cyclideon Exhibition: Literature, Probability: 0,5882352941176471 
+GUID: 111046, Type: TownhallItem, Rarity: Epic, Name: Major Cyclideon Exhibition: Science, Probability: 0,5882352941176471 
+GUID: 111034, Type: TownhallItem, Rarity: Epic, Name: Patriarchy, the Root of Class Struggle, Probability: 0,5882352941176471 
+GUID: 111004, Type: TownhallItem, Rarity: Epic, Name: The Firebrand and the Free, Probability: 0,5882352941176471 
+GUID: 111040, Type: TownhallItem, Rarity: Epic, Name: The Historical Sophisms of the Doctrinaire School of Communism, Probability: 0,5882352941176471 
+GUID: 111180, Type: TownhallItem, Rarity: Legendary, Name: Pietro Jonah Proud, The Philosopher of the Public Good, Probability: 1 
+GUID: 111048, Type: TownhallItem, Rarity: Legendary, Name: The International Liberal Forum on Art and Craft, Probability: 1 
+GUID: 110942, Type: GuildhouseItem, Rarity: Uncommon, Name: Hall of Collective Property, Probability: 2,142857142857143 
+GUID: 110936, Type: GuildhouseItem, Rarity: Uncommon, Name: Writing Machine, Probability: 2,142857142857143 
+GUID: 110943, Type: GuildhouseItem, Rarity: Rare, Name: Bureau of Worker-Owned Cooperatives, Probability: 1,25 
+GUID: 110937, Type: GuildhouseItem, Rarity: Rare, Name: Copperplate Printer, Probability: 1,25 
+GUID: 111179, Type: GuildhouseItem, Rarity: Epic, Name: Bekonin, Spirit of Liberty, Probability: 0,5882352941176471 
+GUID: 110944, Type: GuildhouseItem, Rarity: Epic, Name: Hall of Mutualist Ideologies, Probability: 0,5882352941176471 
+GUID: 110938, Type: GuildhouseItem, Rarity: Epic, Name: Printing Press, Probability: 0,5882352941176471 
+GUID: 111126, Type: ShipSpecialist, Rarity: Common, Name: Incendiary, Probability: 3 
+GUID: 111127, Type: ShipSpecialist, Rarity: Uncommon, Name: Arsonist, Probability: 2,142857142857143 
+GUID: 111128, Type: ShipSpecialist, Rarity: Rare, Name: Jittery Pyromaniac, Probability: 1,25 
+GUID: 111131, Type: ShipSpecialist, Rarity: Epic, Name: Wild Anarchist Sacchetti, Probability: 0,5882352941176471 
+GUID: 111129, Type: ShipSpecialist, Rarity: Epic, Name: Wild Anarchist Vacco, Probability: 0,5882352941176471 
+GUID: 111130, Type: ShipSpecialist, Rarity: Legendary, Name: Ella Golden, The Anarchist Luminary, Probability: 1 

@@ -1,0 +1,63 @@
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,4166666666666667 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,4166666666666667 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,4166666666666667 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,25 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,25 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,25 
+GUID: 115483, Type: ItemWithUI, Rarity: Legendary, Name: Map of Old Nate's Prototype Airship Crash Site, Probability: 0,7142857142857143 
+GUID: 115480, Type: ItemWithUI, Rarity: Legendary, Name: Megalodon's Abyss, Probability: 0,7142857142857143 
+GUID: 115477, Type: ItemWithUI, Rarity: Legendary, Name: The Portal to Hyperborea, Probability: 0,7142857142857143 
+GUID: 116081, Type: GuildhouseItem, Rarity: Uncommon, Name: Clay Kudlik, Probability: 0,9375 
+GUID: 116142, Type: GuildhouseItem, Rarity: Uncommon, Name: Dog-Breeder, Probability: 0,9375 
+GUID: 116041, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Baleen Boat, Probability: 0,9375 
+GUID: 116096, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Iggaak, Probability: 0,9375 
+GUID: 116087, Type: GuildhouseItem, Rarity: Uncommon, Name: Hide Scraper, Probability: 0,9375 
+GUID: 116146, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Hunter, Probability: 0,9375 
+GUID: 116130, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Seamster, Probability: 0,9375 
+GUID: 116069, Type: GuildhouseItem, Rarity: Uncommon, Name: Nuyakpak, Probability: 0,9375 
+GUID: 116148, Type: GuildhouseItem, Rarity: Uncommon, Name: Outdoor Cook, Probability: 0,9375 
+GUID: 116078, Type: GuildhouseItem, Rarity: Uncommon, Name: Pititsi, Probability: 0,9375 
+GUID: 116147, Type: GuildhouseItem, Rarity: Uncommon, Name: Sled Builder, Probability: 0,9375 
+GUID: 116099, Type: GuildhouseItem, Rarity: Uncommon, Name: Ulu, Probability: 0,9375 
+GUID: 116097, Type: GuildhouseItem, Rarity: Rare, Name: Antler Iggaak, Probability: 0,41666666666666663 
+GUID: 116149, Type: GuildhouseItem, Rarity: Rare, Name: Artful Inuit Hunter, Probability: 0,4166666666666667 
+GUID: 116143, Type: GuildhouseItem, Rarity: Rare, Name: Astute Dog-Breeder, Probability: 0,4166666666666667 
+GUID: 116079, Type: GuildhouseItem, Rarity: Rare, Name: Cable-Backed Bow, Probability: 0,41666666666666663 
+GUID: 116088, Type: GuildhouseItem, Rarity: Rare, Name: Kaputaq Awl, Probability: 0,41666666666666663 
+GUID: 116132, Type: GuildhouseItem, Rarity: Rare, Name: Practised Inuit Seamster, Probability: 0,4166666666666667 
+GUID: 116042, Type: GuildhouseItem, Rarity: Rare, Name: Qajak, Probability: 0,41666666666666663 
+GUID: 116151, Type: GuildhouseItem, Rarity: Rare, Name: Rugged Outdoor Cook, Probability: 0,4166666666666667 
+GUID: 116150, Type: GuildhouseItem, Rarity: Rare, Name: Sharp Sled Builder, Probability: 0,4166666666666667 
+GUID: 116082, Type: GuildhouseItem, Rarity: Rare, Name: Soapstone Kudlik, Probability: 0,41666666666666663 
+GUID: 116070, Type: GuildhouseItem, Rarity: Rare, Name: Unaaq, Probability: 0,41666666666666663 
+GUID: 116100, Type: GuildhouseItem, Rarity: Rare, Name: Wooden Adze, Probability: 0,41666666666666663 
+GUID: 116133, Type: GuildhouseItem, Rarity: Epic, Name: Arnarunn the Seamless, Probability: 0,25 
+GUID: 116101, Type: GuildhouseItem, Rarity: Epic, Name: Bone Adze, Probability: 0,25 
+GUID: 116080, Type: GuildhouseItem, Rarity: Epic, Name: Bow Of The Lnu, Probability: 0,25 
+GUID: 116089, Type: GuildhouseItem, Rarity: Epic, Name: Inuinnaq Case, Probability: 0,25 
+GUID: 116098, Type: GuildhouseItem, Rarity: Epic, Name: Ivory Iggaak, Probability: 0,25 
+GUID: 116083, Type: GuildhouseItem, Rarity: Epic, Name: Ivory Kudlik, Probability: 0,25 
+GUID: 116153, Type: GuildhouseItem, Rarity: Epic, Name: Naaqtuuq the Sled-Builder, Probability: 0,25 
+GUID: 116071, Type: GuildhouseItem, Rarity: Epic, Name: Sakku, Probability: 0,25 
+GUID: 116154, Type: GuildhouseItem, Rarity: Epic, Name: Sandro the Nature Chef, Probability: 0,25 
+GUID: 116144, Type: GuildhouseItem, Rarity: Epic, Name: Taliriktug The Husky-Voiced, Probability: 0,25 
+GUID: 116152, Type: GuildhouseItem, Rarity: Epic, Name: Toklo the Trapper, Probability: 0,25 
+GUID: 116043, Type: GuildhouseItem, Rarity: Epic, Name: Umiak, Probability: 0,25 
+GUID: 115469, Type: CultureItem, Rarity: Uncommon, Name: Arctic Fox, Probability: 0,9375 
+GUID: 115471, Type: CultureItem, Rarity: Uncommon, Name: Carved Stone Bear, Probability: 0,9375 
+GUID: 191082, Type: CultureItem, Rarity: Uncommon, Name: Ivory Gull, Probability: 0,9375 
+GUID: 191084, Type: CultureItem, Rarity: Uncommon, Name: Ringed Seal, Probability: 0,9375 
+GUID: 191086, Type: CultureItem, Rarity: Rare, Name: Arctic Wolf, Probability: 0,8333333333333334 
+GUID: 191075, Type: CultureItem, Rarity: Rare, Name: Boreal Caribou, Probability: 0,8333333333333334 
+GUID: 114796, Type: CultureItem, Rarity: Rare, Name: Inunnguaq Inuksuk, Probability: 0,4166666666666667 
+GUID: 191076, Type: CultureItem, Rarity: Rare, Name: Musk Ox, Probability: 0,8333333333333334 
+GUID: 114799, Type: CultureItem, Rarity: Rare, Name: Pirujaqarvik Inuksuk, Probability: 0,4166666666666667 
+GUID: 115472, Type: CultureItem, Rarity: Rare, Name: Toy Qamutiik, Probability: 0,4166666666666667 
+GUID: 114798, Type: CultureItem, Rarity: Epic, Name: Igluit, Probability: 0,3333333333333333 
+GUID: 190448, Type: CultureItem, Rarity: Epic, Name: Polar Bear, Probability: 0,125 
+GUID: 115473, Type: CultureItem, Rarity: Epic, Name: Uummannaq Mummy, Probability: 0,3333333333333333 
+GUID: 116040, Type: CultureItem, Rarity: Epic, Name: Walrus, Probability: 0,125 
+GUID: 115474, Type: CultureItem, Rarity: Epic, Name: Wolf Pup Mummy, Probability: 0,3333333333333333 
+GUID: 114794, Type: CultureItem, Rarity: Legendary, Name: Frozen Woolly Mammoth, Probability: 0,7142857142857143 
+GUID: 115470, Type: CultureItem, Rarity: Legendary, Name: Great Auk, Probability: 0,35714285714285715 
+GUID: 115273, Type: CultureItem, Rarity: Legendary, Name: Narwhal, Probability: 0,35714285714285715 

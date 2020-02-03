@@ -1,0 +1,14 @@
+GUID: 191696, Type: TownhallItem, Rarity: Uncommon, Name: One-Man-Band Billboard, Probability: 1,1111111111111112 
+GUID: 191697, Type: TownhallItem, Rarity: Rare, Name: Piano Concerto Billboard, Probability: 0,625 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 1,1111111111111112 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 1,1111111111111112 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 0,625 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 0,625 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 1,6666666666666667 
+GUID: 190522, Type: CultureItem, Rarity: Common, Name: Quartz Crystals, Probability: 1,6666666666666667 
+GUID: 190467, Type: CultureItem, Rarity: Common, Name: Rats, Probability: 1,6666666666666667 
+GUID: 190529, Type: CultureItem, Rarity: Uncommon, Name: Iron Helm, Probability: 1,1111111111111112 
+GUID: 190533, Type: CultureItem, Rarity: Uncommon, Name: Iron Shield, Probability: 1,1111111111111112 
+GUID: 190535, Type: CultureItem, Rarity: Uncommon, Name: Iron Sword, Probability: 1,1111111111111112 
+GUID: 190487, Type: CultureItem, Rarity: Uncommon, Name: Pyrite Crystals, Probability: 1,1111111111111112 
+GUID: 190489, Type: CultureItem, Rarity: Rare, Name: Jade Pearl, Probability: 0,625 

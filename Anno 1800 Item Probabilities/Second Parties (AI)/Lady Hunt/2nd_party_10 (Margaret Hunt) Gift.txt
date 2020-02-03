@@ -1,0 +1,2 @@
+GUID: 190892, Type: GuildhouseItem, Rarity: Rare, Name: Cast Iron Stove, Probability: 25 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 25 

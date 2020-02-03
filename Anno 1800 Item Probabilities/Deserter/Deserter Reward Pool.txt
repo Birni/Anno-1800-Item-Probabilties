@@ -1,0 +1,80 @@
+GUID: 113359, Type: VehicleItem, Rarity: Rare, Name: Hobby Diver, Probability: 1,7647058823529411 
+GUID: 113362, Type: VehicleItem, Rarity: Rare, Name: Treasure Seeker, Probability: 1,7647058823529411 
+GUID: 113363, Type: VehicleItem, Rarity: Epic, Name: Lamie The Wistful Pirate, Probability: 0,6666666666666666 
+GUID: 113360, Type: VehicleItem, Rarity: Epic, Name: Nadia the Spotter, Probability: 0,6666666666666666 
+GUID: 113361, Type: VehicleItem, Rarity: Legendary, Name: Anthony Anchovy, Salvager of Sunken Sumps, Probability: 0,625 
+GUID: 113364, Type: VehicleItem, Rarity: Legendary, Name: Mai Kalan, Descryer Of Brilliant Jewels, Probability: 0,625 
+GUID: 191977, Type: ActiveItem, Rarity: Common, Name: Ship Tools, Probability: 0,9615384615384616 
+GUID: 191978, Type: ActiveItem, Rarity: Uncommon, Name: Modern Ship Tools, Probability: 0,9090909090909091 
+GUID: 192151, Type: ActiveItem, Rarity: Uncommon, Name: Ship Toolbox, Probability: 0,9090909090909092 
+GUID: 192152, Type: ActiveItem, Rarity: Rare, Name: Ship Tool Chest, Probability: 1,7647058823529411 
+GUID: 192153, Type: ActiveItem, Rarity: Epic, Name: Ship Tool Trolley, Probability: 0,6666666666666666 
+GUID: 192155, Type: ActiveItem, Rarity: Legendary, Name: Poppinjay's Pulleyed Patcher-Upper, Probability: 0,625 
+GUID: 190664, Type: HarborOfficeItem, Rarity: Common, Name: Bruiser, Probability: 0,9615384615384616 
+GUID: 191879, Type: HarborOfficeItem, Rarity: Uncommon, Name: Dockyard Toolbox, Probability: 0,9090909090909092 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 0,9090909090909092 
+GUID: 190695, Type: HarborOfficeItem, Rarity: Uncommon, Name: Ship Builder, Probability: 0,9090909090909091 
+GUID: 191880, Type: HarborOfficeItem, Rarity: Rare, Name: Dockyard Toolchest, Probability: 1,7647058823529411 
+GUID: 190696, Type: HarborOfficeItem, Rarity: Rare, Name: Naval Architect, Probability: 1,7647058823529413 
+GUID: 191881, Type: HarborOfficeItem, Rarity: Epic, Name: Dockyard Tool System, Probability: 0,6666666666666666 
+GUID: 191882, Type: HarborOfficeItem, Rarity: Legendary, Name: Deke's Indispensible Dockyard Crate, Probability: 0,625 
+GUID: 191564, Type: TownhallItem, Rarity: Common, Name: Governess, Probability: 0,9615384615384616 
+GUID: 191006, Type: TownhallItem, Rarity: Common, Name: Sergeant, Probability: 0,9615384615384616 
+GUID: 190672, Type: TownhallItem, Rarity: Rare, Name: Generous Innkeeper, Probability: 1,7647058823529413 
+GUID: 190628, Type: GuildhouseItem, Rarity: Common, Name: Baker, Probability: 0,9615384615384616 
+GUID: 190699, Type: GuildhouseItem, Rarity: Common, Name: Boilermaker, Probability: 0,9615384615384616 
+GUID: 190740, Type: GuildhouseItem, Rarity: Common, Name: Burner, Probability: 0,9615384615384616 
+GUID: 191384, Type: GuildhouseItem, Rarity: Common, Name: Butcher, Probability: 0,9615384615384616 
+GUID: 191315, Type: GuildhouseItem, Rarity: Common, Name: Chandler, Probability: 0,9615384615384616 
+GUID: 191586, Type: GuildhouseItem, Rarity: Common, Name: Digger, Probability: 0,9615384615384616 
+GUID: 191426, Type: GuildhouseItem, Rarity: Common, Name: Glassblower, Probability: 0,9615384615384616 
+GUID: 191460, Type: GuildhouseItem, Rarity: Common, Name: Mason, Probability: 0,9615384615384616 
+GUID: 190755, Type: GuildhouseItem, Rarity: Common, Name: Miner, Probability: 0,9615384615384616 
+GUID: 190756, Type: GuildhouseItem, Rarity: Common, Name: Prospector, Probability: 0,9615384615384616 
+GUID: 191336, Type: GuildhouseItem, Rarity: Common, Name: Tanner, Probability: 0,9615384615384616 
+GUID: 190651, Type: GuildhouseItem, Rarity: Common, Name: Water-Carrier, Probability: 0,9615384615384616 
+GUID: 190700, Type: GuildhouseItem, Rarity: Common, Name: Welder, Probability: 0,9615384615384616 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 0,9090909090909092 
+GUID: 191462, Type: GuildhouseItem, Rarity: Uncommon, Name: Cementer, Probability: 0,9090909090909091 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 0,9090909090909092 
+GUID: 191397, Type: GuildhouseItem, Rarity: Uncommon, Name: Delicatesseur, Probability: 0,9090909090909091 
+GUID: 191380, Type: GuildhouseItem, Rarity: Uncommon, Name: Distiller, Probability: 0,9090909090909091 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 0,9090909090909092 
+GUID: 191428, Type: GuildhouseItem, Rarity: Uncommon, Name: Glass Maker, Probability: 0,9090909090909091 
+GUID: 190701, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Founder, Probability: 0,9090909090909091 
+GUID: 190741, Type: GuildhouseItem, Rarity: Uncommon, Name: Kiln Keeper, Probability: 0,9090909090909091 
+GUID: 190843, Type: GuildhouseItem, Rarity: Uncommon, Name: Millstone, Probability: 0,9090909090909092 
+GUID: 190824, Type: GuildhouseItem, Rarity: Uncommon, Name: Old Factory Bell, Probability: 0,9090909090909092 
+GUID: 190629, Type: GuildhouseItem, Rarity: Uncommon, Name: Pastry Chef, Probability: 0,9090909090909091 
+GUID: 190839, Type: GuildhouseItem, Rarity: Uncommon, Name: Planer, Probability: 0,9090909090909092 
+GUID: 191588, Type: GuildhouseItem, Rarity: Uncommon, Name: Quarryman, Probability: 0,9090909090909091 
+GUID: 190758, Type: GuildhouseItem, Rarity: Uncommon, Name: Refiner, Probability: 0,9090909090909091 
+GUID: 191316, Type: GuildhouseItem, Rarity: Uncommon, Name: Soap Maker, Probability: 0,9090909090909091 
+GUID: 190757, Type: GuildhouseItem, Rarity: Uncommon, Name: Ventilator, Probability: 0,9090909090909091 
+GUID: 190652, Type: GuildhouseItem, Rarity: Uncommon, Name: Volunteer Fireman, Probability: 0,9090909090909091 
+GUID: 190911, Type: GuildhouseItem, Rarity: Uncommon, Name: Wooden Moulds, Probability: 0,9090909090909092 
+GUID: 190702, Type: GuildhouseItem, Rarity: Uncommon, Name: Wrought Ironsmith, Probability: 0,9090909090909091 
+GUID: 190844, Type: GuildhouseItem, Rarity: Rare, Name: Burrstone, Probability: 1,7647058823529411 
+GUID: 191403, Type: GuildhouseItem, Rarity: Rare, Name: Charcutier, Probability: 1,7647058823529413 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 1,7647058823529411 
+GUID: 190840, Type: GuildhouseItem, Rarity: Rare, Name: Helical Planer, Probability: 1,7647058823529411 
+GUID: 190884, Type: GuildhouseItem, Rarity: Rare, Name: Power Loom, Probability: 1,7647058823529411 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 1,7647058823529411 
+GUID: 190703, Type: GuildhouseItem, Rarity: Rare, Name: Steely-Eyed Steelsmith, Probability: 1,7647058823529413 
+GUID: 190841, Type: GuildhouseItem, Rarity: Epic, Name: "The Cutting Edge", Probability: 0,6666666666666666 
+GUID: 190832, Type: GuildhouseItem, Rarity: Epic, Name: Bechamel Converter, Probability: 0,6666666666666666 
+GUID: 191401, Type: GuildhouseItem, Rarity: Epic, Name: Chantelle the Charcutier, Probability: 0,6666666666666666 
+GUID: 192305, Type: GuildhouseItem, Rarity: Epic, Name: Extremely Loud Bell, Probability: 0,6666666666666666 
+GUID: 190881, Type: GuildhouseItem, Rarity: Epic, Name: Fine Handheld Power Auger, Probability: 1,7647058823529411 
+GUID: 190910, Type: GuildhouseItem, Rarity: Epic, Name: Harker's Electric Treadle Lathe, Probability: 0,6666666666666666 
+GUID: 190845, Type: GuildhouseItem, Rarity: Epic, Name: Lovelyman's Grinding Machine, Probability: 0,6666666666666666 
+GUID: 190760, Type: GuildhouseItem, Rarity: Epic, Name: Micaela the Mining Engineer, Probability: 0,6666666666666666 
+GUID: 190913, Type: GuildhouseItem, Rarity: Epic, Name: Mickleton's Hydraulic Compacting Press, Probability: 2,4313725490196076 
+GUID: 190885, Type: GuildhouseItem, Rarity: Epic, Name: The Hopedale Loom, Probability: 0,6666666666666666 
+GUID: 190852, Type: GuildhouseItem, Rarity: Epic, Name: Vincent Drag Saw, Probability: 0,6666666666666666 
+GUID: 190761, Type: GuildhouseItem, Rarity: Legendary, Name: Jörg von Malching, Augur of the Auric, Probability: 0,625 
+GUID: 191431, Type: GuildhouseItem, Rarity: Legendary, Name: Seraphim Papadikas, The Window Dresser, Probability: 0,625 
+GUID: 191591, Type: GuildhouseItem, Rarity: Legendary, Name: Steven MacLeod, Geological Surveyor, Probability: 0,625 
+GUID: 191596, Type: ShipSpecialist, Rarity: Common, Name: Ensign, Probability: 0,9615384615384616 
+GUID: 191446, Type: ShipSpecialist, Rarity: Uncommon, Name: Midshipman, Probability: 0,9090909090909091 
+GUID: 191449, Type: ShipSpecialist, Rarity: Rare, Name: Pilot, Probability: 1,7647058823529413 

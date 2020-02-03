@@ -1,0 +1,7 @@
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 14,285714285714286 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 14,285714285714286 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 14,285714285714286 
+GUID: 190827, Type: GuildhouseItem, Rarity: Uncommon, Name: Dynamo, Probability: 14,285714285714286 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 14,285714285714286 
+GUID: 190891, Type: GuildhouseItem, Rarity: Uncommon, Name: Iron Oven, Probability: 14,285714285714286 
+GUID: 190853, Type: GuildhouseItem, Rarity: Uncommon, Name: Trap, Probability: 14,285714285714286 

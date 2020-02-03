@@ -1,0 +1,66 @@
+GUID: 190694, Type: HarborOfficeItem, Rarity: Common, Name: Carpenter, Probability: 1,0416666666666667 
+GUID: 190680, Type: HarborOfficeItem, Rarity: Common, Name: Guide, Probability: 1,25 
+GUID: 190695, Type: HarborOfficeItem, Rarity: Uncommon, Name: Ship Builder, Probability: 2,0833333333333335 
+GUID: 190681, Type: HarborOfficeItem, Rarity: Uncommon, Name: Souvenir Seller, Probability: 2,5 
+GUID: 190696, Type: HarborOfficeItem, Rarity: Rare, Name: Naval Architect, Probability: 2,0833333333333335 
+GUID: 190682, Type: HarborOfficeItem, Rarity: Rare, Name: Travel Agent, Probability: 2,5 
+GUID: 190683, Type: HarborOfficeItem, Rarity: Epic, Name: Jaafan the Cruise Impresario, Probability: 3,75 
+GUID: 190697, Type: HarborOfficeItem, Rarity: Epic, Name: Mr. Swell, the Hydrodynamist, Probability: 2,34375 
+GUID: 192465, Type: HarborOfficeItem, Rarity: Legendary, Name: Anna Union, Engineer of Extravagant Steamers, Probability: 0,45248868778280543 
+GUID: 192457, Type: HarborOfficeItem, Rarity: Legendary, Name: Gideon Small, Guru of Pirate Gunboats, Probability: 0,45248868778280543 
+GUID: 192460, Type: HarborOfficeItem, Rarity: Legendary, Name: Maria Pizarro, Maker of Pirate Monitors, Probability: 0,45248868778280543 
+GUID: 192458, Type: HarborOfficeItem, Rarity: Legendary, Name: Petra Piper, Fashioner of Pirate Frigates, Probability: 0,45248868778280543 
+GUID: 190698, Type: HarborOfficeItem, Rarity: Legendary, Name: Rohit Bhargava, the Naval Architect, Probability: 0,45248868778280543 
+GUID: 192459, Type: HarborOfficeItem, Rarity: Legendary, Name: Shih Yang, Sirer of Pirate Ships-of-the-Line, Probability: 0,45248868778280543 
+GUID: 192464, Type: HarborOfficeItem, Rarity: Legendary, Name: Sir Milfoy Credenza-Belfry-Guscott, HM Ship Architect, Probability: 0,45248868778280543 
+GUID: 192463, Type: HarborOfficeItem, Rarity: Legendary, Name: Slinky Sinistra, Warlock of Pyrphorian Warships, Probability: 0,45248868778280543 
+GUID: 192461, Type: HarborOfficeItem, Rarity: Legendary, Name: Stilton Snood, Purveyor of Pyrphorian Monitors, Probability: 0,45248868778280543 
+GUID: 192462, Type: HarborOfficeItem, Rarity: Legendary, Name: Suspicia Slyhood, Begetter of Pyrphorian Battle Cruisers, Probability: 0,45248868778280543 
+GUID: 190684, Type: HarborOfficeItem, Rarity: Legendary, Name: Thomasina Langton, Promoter Extraordinaire!, Probability: 1,5384615384615385 
+GUID: 191466, Type: TownhallItem, Rarity: Common, Name: Grocer, Probability: 1,25 
+GUID: 191467, Type: TownhallItem, Rarity: Uncommon, Name: Peddler, Probability: 2,5 
+GUID: 191468, Type: TownhallItem, Rarity: Rare, Name: Sales Clerk, Probability: 2,5 
+GUID: 192440, Type: TownhallItem, Rarity: Epic, Name: Arek Lisowski, the Architect, Probability: 2,5 
+GUID: 191469, Type: TownhallItem, Rarity: Epic, Name: Gordon the Master Grocer, Probability: 2,5 
+GUID: 191470, Type: TownhallItem, Rarity: Legendary, Name: Aristelia Bataille, of the "Novelty Store", Probability: 1,0256410256410258 
+GUID: 190719, Type: TownhallItem, Rarity: Legendary, Name: Pope Lucius I, "The Rejuvenator", Probability: 1,0256410256410258 
+GUID: 190193, Type: TownhallItem, Rarity: Legendary, Name: Saint D'Artois, Vision of the Valley, Probability: 1,0256410256410258 
+GUID: 190711, Type: GuildhouseItem, Rarity: Common, Name: Abbé, Probability: 1,25 
+GUID: 191425, Type: GuildhouseItem, Rarity: Common, Name: Carpenter, Probability: 1,0416666666666667 
+GUID: 190733, Type: GuildhouseItem, Rarity: Common, Name: Lumberjack, Probability: 1,0416666666666667 
+GUID: 190755, Type: GuildhouseItem, Rarity: Common, Name: Miner, Probability: 1,0416666666666667 
+GUID: 190756, Type: GuildhouseItem, Rarity: Common, Name: Prospector, Probability: 1,0416666666666667 
+GUID: 191580, Type: GuildhouseItem, Rarity: Common, Name: Shepherd, Probability: 1,0416666666666667 
+GUID: 190735, Type: GuildhouseItem, Rarity: Uncommon, Name: Forester, Probability: 2,0833333333333335 
+GUID: 191581, Type: GuildhouseItem, Rarity: Uncommon, Name: Herdsman, Probability: 2,0833333333333335 
+GUID: 191427, Type: GuildhouseItem, Rarity: Uncommon, Name: Joiner, Probability: 2,0833333333333335 
+GUID: 190712, Type: GuildhouseItem, Rarity: Uncommon, Name: Priest, Probability: 2,5 
+GUID: 190758, Type: GuildhouseItem, Rarity: Uncommon, Name: Refiner, Probability: 2,0833333333333335 
+GUID: 190757, Type: GuildhouseItem, Rarity: Uncommon, Name: Ventilator, Probability: 2,0833333333333335 
+GUID: 190716, Type: GuildhouseItem, Rarity: Rare, Name: Beatific Bishopess, Probability: 2,5 
+GUID: 191429, Type: GuildhouseItem, Rarity: Rare, Name: Cabinet Maker, Probability: 2,0833333333333335 
+GUID: 190759, Type: GuildhouseItem, Rarity: Rare, Name: First-Rate Sapper, Probability: 2,0833333333333335 
+GUID: 191582, Type: GuildhouseItem, Rarity: Rare, Name: Livestock Farmer, Probability: 2,0833333333333335 
+GUID: 190742, Type: GuildhouseItem, Rarity: Rare, Name: Park Ranger, Probability: 2,0833333333333335 
+GUID: 190648, Type: GuildhouseItem, Rarity: Rare, Name: Respected Oenologist, Probability: 2,0833333333333335 
+GUID: 190717, Type: GuildhouseItem, Rarity: Epic, Name: Arch-Archbishop Archibald, Probability: 2,5 
+GUID: 192450, Type: GuildhouseItem, Rarity: Epic, Name: Feras Alsarami, the Persuader, Probability: 2,34375 
+GUID: 191430, Type: GuildhouseItem, Rarity: Epic, Name: Master Craftsman Morris, Probability: 2,34375 
+GUID: 190760, Type: GuildhouseItem, Rarity: Epic, Name: Micaela the Mining Engineer, Probability: 2,34375 
+GUID: 190738, Type: GuildhouseItem, Rarity: Epic, Name: Miss Rodriguez, the Conservationist, Probability: 2,34375 
+GUID: 190621, Type: GuildhouseItem, Rarity: Epic, Name: Mother of Pearls, Probability: 2,34375 
+GUID: 191583, Type: GuildhouseItem, Rarity: Epic, Name: Rodrigo the Ranchero, Probability: 2,34375 
+GUID: 190649, Type: GuildhouseItem, Rarity: Epic, Name: Sommelier Raymond, Probability: 2,34375 
+GUID: 190237, Type: GuildhouseItem, Rarity: Legendary, Name: Angela "Meg" Iver, The Polyvalent, Probability: 0,45248868778280543 
+GUID: 190622, Type: GuildhouseItem, Rarity: Legendary, Name: Captain Moby, Old Dog of the Sea, Probability: 0,45248868778280543 
+GUID: 191347, Type: GuildhouseItem, Rarity: Legendary, Name: Cristobal Taffeta, The Trendsetter, Probability: 1,2820512820512822 
+GUID: 190693, Type: GuildhouseItem, Rarity: Legendary, Name: Dr. Ali Al-Zahir, the Botanical Director, Probability: 1,2820512820512822 
+GUID: 191334, Type: GuildhouseItem, Rarity: Legendary, Name: Gennaro Garibaldi, Chocolatier by Royal Appointment, Probability: 1,2820512820512822 
+GUID: 190761, Type: GuildhouseItem, Rarity: Legendary, Name: Jörg von Malching, Augur of the Auric, Probability: 0,45248868778280543 
+GUID: 191371, Type: GuildhouseItem, Rarity: Legendary, Name: Marco de la Mocha, Crusher of Beans, Probability: 1,2820512820512822 
+GUID: 191584, Type: GuildhouseItem, Rarity: Legendary, Name: Mark van der Mark, Breeder of Shepherd Dogs, Probability: 0,45248868778280543 
+GUID: 190650, Type: GuildhouseItem, Rarity: Legendary, Name: Mme. Elise "The Nose" Bouquet, Probability: 0,45248868778280543 
+GUID: 191431, Type: GuildhouseItem, Rarity: Legendary, Name: Seraphim Papadikas, The Window Dresser, Probability: 0,45248868778280543 
+GUID: 191402, Type: GuildhouseItem, Rarity: Legendary, Name: Tlayolotl Savor, King of the Corn, Probability: 1,2820512820512822 
+GUID: 190739, Type: GuildhouseItem, Rarity: Legendary, Name: Ursula Green, Guardian of the Forests, Probability: 0,45248868778280543 
+GUID: 190643, Type: GuildhouseItem, Rarity: Legendary, Name: Victor Perfecto, Cigar Daddy, Probability: 1,2820512820512822 

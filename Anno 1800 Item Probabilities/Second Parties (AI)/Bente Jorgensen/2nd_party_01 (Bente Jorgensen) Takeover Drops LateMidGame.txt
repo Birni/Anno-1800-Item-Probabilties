@@ -1,0 +1,344 @@
+GUID: 191856, Type: VehicleItem, Rarity: Uncommon, Name: Exhaust Blower, Probability: 0,06756756756756757 
+GUID: 191838, Type: VehicleItem, Rarity: Uncommon, Name: Fine Spyglass, Probability: 0,06756756756756757 
+GUID: 191848, Type: VehicleItem, Rarity: Uncommon, Name: Fine Wooden Hull, Probability: 0,06756756756756757 
+GUID: 191824, Type: VehicleItem, Rarity: Uncommon, Name: Square Rig, Probability: 0,06756756756756757 
+GUID: 191829, Type: VehicleItem, Rarity: Uncommon, Name: Two-Turn Screw Propeller, Probability: 0,06756756756756757 
+GUID: 191849, Type: VehicleItem, Rarity: Rare, Name: Fine Steel Hull, Probability: 0,2298850574712644 
+GUID: 191857, Type: VehicleItem, Rarity: Rare, Name: Heat Exchanger, Probability: 0,2298850574712644 
+GUID: 191839, Type: VehicleItem, Rarity: Rare, Name: High-Powered Scope, Probability: 0,2298850574712644 
+GUID: 191013, Type: VehicleItem, Rarity: Rare, Name: Lateen Style Sails, Probability: 0,2298850574712644 
+GUID: 191830, Type: VehicleItem, Rarity: Rare, Name: One-Turn Screw Propeller, Probability: 0,2298850574712644 
+GUID: 191831, Type: VehicleItem, Rarity: Epic, Name: Controllable-Pitch Propeller, Probability: 0,12987012987012989 
+GUID: 191825, Type: VehicleItem, Rarity: Epic, Name: Fore-and-Aft Rig Sails, Probability: 0,12987012987012989 
+GUID: 191858, Type: VehicleItem, Rarity: Epic, Name: Plate Heat Exchanger, Probability: 0,12987012987012989 
+GUID: 191850, Type: VehicleItem, Rarity: Epic, Name: Reinforced Bulkhead, Probability: 0,12987012987012989 
+GUID: 191840, Type: VehicleItem, Rarity: Epic, Name: Telemobiloscope, Probability: 0,12987012987012989 
+GUID: 191851, Type: VehicleItem, Rarity: Legendary, Name: Singh's Steel Double-Hull, Probability: 0,17543859649122806 
+GUID: 114857, Type: ItemWithUI, Rarity: Common, Name: Camellia Garden, Probability: 0,36830357142857145 
+GUID: 114861, Type: ItemWithUI, Rarity: Common, Name: Gentian Garden, Probability: 0,36830357142857145 
+GUID: 114865, Type: ItemWithUI, Rarity: Common, Name: Hedge Maze, Probability: 0,7366071428571429 
+GUID: 114860, Type: ItemWithUI, Rarity: Common, Name: Hibiscus Garden, Probability: 0,36830357142857145 
+GUID: 114816, Type: ItemWithUI, Rarity: Common, Name: Iris Garden, Probability: 0,36830357142857145 
+GUID: 114862, Type: ItemWithUI, Rarity: Common, Name: Lily Garden, Probability: 0,36830357142857145 
+GUID: 114863, Type: ItemWithUI, Rarity: Common, Name: Marigold Garden, Probability: 0,36830357142857145 
+GUID: 114859, Type: ItemWithUI, Rarity: Common, Name: Red White Petunia Garden, Probability: 0,36830357142857145 
+GUID: 114864, Type: ItemWithUI, Rarity: Common, Name: Topiary Avenue, Probability: 0,7366071428571429 
+GUID: 114866, Type: ItemWithUI, Rarity: Common, Name: Topiary Garden, Probability: 0,7366071428571429 
+GUID: 114858, Type: ItemWithUI, Rarity: Common, Name: Yellow Daisy Garden, Probability: 0,36830357142857145 
+GUID: 114869, Type: ItemWithUI, Rarity: Uncommon, Name: Camellia Garden, Probability: 0,31853281853281856 
+GUID: 114877, Type: ItemWithUI, Rarity: Uncommon, Name: Gentian Garden, Probability: 0,31853281853281856 
+GUID: 114885, Type: ItemWithUI, Rarity: Uncommon, Name: Hedge Maze, Probability: 0,6370656370656371 
+GUID: 114875, Type: ItemWithUI, Rarity: Uncommon, Name: Hibiscus Garden, Probability: 0,31853281853281856 
+GUID: 114867, Type: ItemWithUI, Rarity: Uncommon, Name: Iris Garden, Probability: 0,31853281853281856 
+GUID: 114879, Type: ItemWithUI, Rarity: Uncommon, Name: Lily Garden, Probability: 0,31853281853281856 
+GUID: 114881, Type: ItemWithUI, Rarity: Uncommon, Name: Marigold Garden, Probability: 0,31853281853281856 
+GUID: 114873, Type: ItemWithUI, Rarity: Uncommon, Name: Red White Petunia Garden, Probability: 0,31853281853281856 
+GUID: 114883, Type: ItemWithUI, Rarity: Uncommon, Name: Topiary Avenue, Probability: 0,6370656370656371 
+GUID: 114887, Type: ItemWithUI, Rarity: Uncommon, Name: Topiary Garden, Probability: 0,6370656370656371 
+GUID: 114871, Type: ItemWithUI, Rarity: Uncommon, Name: Yellow Daisy Garden, Probability: 0,31853281853281856 
+GUID: 114870, Type: ItemWithUI, Rarity: Rare, Name: Camellia Garden, Probability: 0,180623973727422 
+GUID: 114878, Type: ItemWithUI, Rarity: Rare, Name: Gentian Garden, Probability: 0,180623973727422 
+GUID: 114886, Type: ItemWithUI, Rarity: Rare, Name: Hedge Maze, Probability: 0,361247947454844 
+GUID: 114876, Type: ItemWithUI, Rarity: Rare, Name: Hibiscus Garden, Probability: 0,180623973727422 
+GUID: 114868, Type: ItemWithUI, Rarity: Rare, Name: Iris Garden, Probability: 0,180623973727422 
+GUID: 114880, Type: ItemWithUI, Rarity: Rare, Name: Lily Garden, Probability: 0,180623973727422 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,1724137931034483 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,1724137931034483 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,1724137931034483 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,1724137931034483 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,1724137931034483 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,1724137931034483 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,1724137931034483 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,1724137931034483 
+GUID: 114882, Type: ItemWithUI, Rarity: Rare, Name: Marigold Garden, Probability: 0,180623973727422 
+GUID: 114874, Type: ItemWithUI, Rarity: Rare, Name: Red White Petunia Garden, Probability: 0,180623973727422 
+GUID: 114884, Type: ItemWithUI, Rarity: Rare, Name: Topiary Avenue, Probability: 0,361247947454844 
+GUID: 114888, Type: ItemWithUI, Rarity: Rare, Name: Topiary Garden, Probability: 0,361247947454844 
+GUID: 114872, Type: ItemWithUI, Rarity: Rare, Name: Yellow Daisy Garden, Probability: 0,180623973727422 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,09740259740259741 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,09740259740259741 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,09740259740259741 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,09740259740259741 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,09740259740259741 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,09740259740259741 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,09740259740259741 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,09740259740259741 
+GUID: 113194, Type: ItemWithUI, Rarity: Legendary, Name: Jörmungandr's Lair, Probability: 0,13157894736842105 
+GUID: 115480, Type: ItemWithUI, Rarity: Legendary, Name: Megalodon's Abyss, Probability: 0,13157894736842105 
+GUID: 112940, Type: ItemWithUI, Rarity: Legendary, Name: The Gates to Paititi, Probability: 0,13157894736842105 
+GUID: 112941, Type: ItemWithUI, Rarity: Legendary, Name: The Herdsman's Journal, Probability: 0,13157894736842105 
+GUID: 113196, Type: ItemWithUI, Rarity: Legendary, Name: The Kraken's Pit, Probability: 0,13157894736842105 
+GUID: 113195, Type: ItemWithUI, Rarity: Legendary, Name: The Nest of Gukulmatz, Probability: 0,13157894736842105 
+GUID: 112935, Type: ItemWithUI, Rarity: Legendary, Name: The Palaces of Baiea, Probability: 0,13157894736842105 
+GUID: 115477, Type: ItemWithUI, Rarity: Legendary, Name: The Portal to Hyperborea, Probability: 0,13157894736842105 
+GUID: 191832, Type: ActiveItem, Rarity: Uncommon, Name: Ship Turbine, Probability: 0,06756756756756757 
+GUID: 191833, Type: ActiveItem, Rarity: Rare, Name: Ship Piston Engine, Probability: 0,2298850574712644 
+GUID: 191834, Type: ActiveItem, Rarity: Epic, Name: Multiple Expansion Steam Engine, Probability: 0,12987012987012989 
+GUID: 191812, Type: HarborOfficeItem, Rarity: Uncommon, Name: Minor Tourism Campaign, Probability: 0,40540540540540543 
+GUID: 191813, Type: HarborOfficeItem, Rarity: Rare, Name: Major Tourism Campaign, Probability: 0,22988505747126436 
+GUID: 191814, Type: HarborOfficeItem, Rarity: Epic, Name: Madame Kahina's Executive Tourism Drive, Probability: 0,12987012987012986 
+GUID: 191705, Type: TownhallItem, Rarity: Uncommon, Name: Cake Sale Flyer, Probability: 0,40540540540540543 
+GUID: 191708, Type: TownhallItem, Rarity: Uncommon, Name: Harvest Fayre Flyer, Probability: 0,40540540540540543 
+GUID: 191696, Type: TownhallItem, Rarity: Uncommon, Name: One-Man-Band Billboard, Probability: 0,40540540540540543 
+GUID: 191702, Type: TownhallItem, Rarity: Uncommon, Name: Rare Artifacts Pamphlet, Probability: 0,40540540540540543 
+GUID: 191709, Type: TownhallItem, Rarity: Rare, Name: Art and Craft Festival Poster, Probability: 0,22988505747126436 
+GUID: 191706, Type: TownhallItem, Rarity: Rare, Name: Boy's Choir Flyer, Probability: 0,22988505747126436 
+GUID: 191703, Type: TownhallItem, Rarity: Rare, Name: Cabinet of Curiosities Pamphlet, Probability: 0,22988505747126436 
+GUID: 191697, Type: TownhallItem, Rarity: Rare, Name: Piano Concerto Billboard, Probability: 0,22988505747126436 
+GUID: 191707, Type: TownhallItem, Rarity: Epic, Name: Crimbles Choral Society Poster, Probability: 0,12987012987012986 
+GUID: 191710, Type: TownhallItem, Rarity: Epic, Name: Inma's International Trade Fair Billboard, Probability: 0,12987012987012986 
+GUID: 191698, Type: TownhallItem, Rarity: Epic, Name: La Condesa Del Amor's Majestic Dance Billboard, Probability: 0,12987012987012986 
+GUID: 191704, Type: TownhallItem, Rarity: Epic, Name: The "Valley of Death": A Treatise on the Upper Kingdoms., Probability: 0,12987012987012986 
+GUID: 190482, Type: CultureItem, Rarity: Common, Name: Ancient Manifest, Probability: 0,46875 
+GUID: 114540, Type: CultureItem, Rarity: Common, Name: Bilberry, Probability: 0,46875 
+GUID: 190523, Type: CultureItem, Rarity: Common, Name: Bronze Helmet, Probability: 0,46875 
+GUID: 190526, Type: CultureItem, Rarity: Common, Name: Bronze Sword, Probability: 0,46875 
+GUID: 191058, Type: CultureItem, Rarity: Common, Name: Cattle, Probability: 0,46875 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 0,46875 
+GUID: 111112, Type: CultureItem, Rarity: Common, Name: Common Reed, Probability: 0,46875 
+GUID: 190525, Type: CultureItem, Rarity: Common, Name: Damaged Statue, Probability: 0,46875 
+GUID: 114539, Type: CultureItem, Rarity: Common, Name: Dandelion, Probability: 0,46875 
+GUID: 191057, Type: CultureItem, Rarity: Common, Name: Domestic Cat, Probability: 0,46875 
+GUID: 191060, Type: CultureItem, Rarity: Common, Name: Domestic Dog, Probability: 0,46875 
+GUID: 191065, Type: CultureItem, Rarity: Common, Name: Domestic Pig, Probability: 0,46875 
+GUID: 191061, Type: CultureItem, Rarity: Common, Name: Donkey, Probability: 0,46875 
+GUID: 191053, Type: CultureItem, Rarity: Common, Name: Eagle, Probability: 0,46875 
+GUID: 114541, Type: CultureItem, Rarity: Common, Name: Elderberry, Probability: 0,46875 
+GUID: 190520, Type: CultureItem, Rarity: Common, Name: Folk Tales, Probability: 0,46875 
+GUID: 114538, Type: CultureItem, Rarity: Common, Name: Foxglove, Probability: 0,46875 
+GUID: 191062, Type: CultureItem, Rarity: Common, Name: Goat, Probability: 0,46875 
+GUID: 190466, Type: CultureItem, Rarity: Common, Name: Green Turtle, Probability: 0,46875 
+GUID: 190446, Type: CultureItem, Rarity: Common, Name: Grey Wolf, Probability: 0,46875 
+GUID: 114543, Type: CultureItem, Rarity: Common, Name: Hemp, Probability: 0,46875 
+GUID: 191063, Type: CultureItem, Rarity: Common, Name: Horse, Probability: 0,46875 
+GUID: 114657, Type: CultureItem, Rarity: Common, Name: Morning Glory, Probability: 0,46875 
+GUID: 191064, Type: CultureItem, Rarity: Common, Name: Ox, Probability: 0,46875 
+GUID: 114542, Type: CultureItem, Rarity: Common, Name: Peppermint, Probability: 0,46875 
+GUID: 191054, Type: CultureItem, Rarity: Common, Name: Pigeon, Probability: 0,46875 
+GUID: 114661, Type: CultureItem, Rarity: Common, Name: Poppy, Probability: 0,46875 
+GUID: 190469, Type: CultureItem, Rarity: Common, Name: Primitive Fabrics, Probability: 0,46875 
+GUID: 190522, Type: CultureItem, Rarity: Common, Name: Quartz Crystals, Probability: 0,46875 
+GUID: 190467, Type: CultureItem, Rarity: Common, Name: Rats, Probability: 0,46875 
+GUID: 190447, Type: CultureItem, Rarity: Common, Name: Red Deer, Probability: 0,46875 
+GUID: 191068, Type: CultureItem, Rarity: Common, Name: Red Fox, Probability: 0,46875 
+GUID: 190492, Type: CultureItem, Rarity: Common, Name: Rudimentary Necklace, Probability: 0,46875 
+GUID: 190521, Type: CultureItem, Rarity: Common, Name: Rusty Sestertius, Probability: 0,46875 
+GUID: 190006, Type: CultureItem, Rarity: Common, Name: Seagull, Probability: 0,46875 
+GUID: 191066, Type: CultureItem, Rarity: Common, Name: Sheep, Probability: 0,46875 
+GUID: 191056, Type: CultureItem, Rarity: Common, Name: Stork, Probability: 0,46875 
+GUID: 111118, Type: CultureItem, Rarity: Common, Name: Subalpine Fir, Probability: 0,46875 
+GUID: 191067, Type: CultureItem, Rarity: Common, Name: Swan, Probability: 0,46875 
+GUID: 191055, Type: CultureItem, Rarity: Common, Name: Swift, Probability: 0,46875 
+GUID: 190494, Type: CultureItem, Rarity: Common, Name: Wooden Ring, Probability: 0,46875 
+GUID: 190524, Type: CultureItem, Rarity: Common, Name: Wooden Shield, Probability: 0,46875 
+GUID: 191113, Type: CultureItem, Rarity: Uncommon, Name: Alpaca, Probability: 0,4054054054054054 
+GUID: 190478, Type: CultureItem, Rarity: Uncommon, Name: Antique Novel, Probability: 0,40540540540540543 
+GUID: 115469, Type: CultureItem, Rarity: Uncommon, Name: Arctic Fox, Probability: 0,40540540540540543 
+GUID: 191077, Type: CultureItem, Rarity: Uncommon, Name: Bison, Probability: 0,4054054054054054 
+GUID: 191072, Type: CultureItem, Rarity: Uncommon, Name: Black Bear, Probability: 0,40540540540540543 
+GUID: 191052, Type: CultureItem, Rarity: Uncommon, Name: Brown Bear, Probability: 0,40540540540540543 
+GUID: 190454, Type: CultureItem, Rarity: Uncommon, Name: Butterflies, Probability: 0,4054054054054054 
+GUID: 191071, Type: CultureItem, Rarity: Uncommon, Name: California Gull, Probability: 0,4054054054054054 
+GUID: 115471, Type: CultureItem, Rarity: Uncommon, Name: Carved Stone Bear, Probability: 0,40540540540540543 
+GUID: 114388, Type: CultureItem, Rarity: Uncommon, Name: Champak, Probability: 0,4054054054054054 
+GUID: 191073, Type: CultureItem, Rarity: Uncommon, Name: Chital, Probability: 0,4054054054054054 
+GUID: 111121, Type: CultureItem, Rarity: Uncommon, Name: Coconut Palm, Probability: 0,40540540540540543 
+GUID: 190528, Type: CultureItem, Rarity: Uncommon, Name: Colourful Textiles, Probability: 0,40540540540540543 
+GUID: 113535, Type: CultureItem, Rarity: Uncommon, Name: Commodore's Medal, Probability: 0,40540540540540543 
+GUID: 191069, Type: CultureItem, Rarity: Uncommon, Name: Condor, Probability: 0,4054054054054054 
+GUID: 190553, Type: CultureItem, Rarity: Uncommon, Name: Copper Ring, Probability: 0,40540540540540543 
+GUID: 191506, Type: CultureItem, Rarity: Uncommon, Name: Crocodile, Probability: 0,4054054054054054 
+GUID: 191078, Type: CultureItem, Rarity: Uncommon, Name: Dog Fox, Probability: 0,4054054054054054 
+GUID: 193190, Type: CultureItem, Rarity: Uncommon, Name: Eastern Water Buffalo, Probability: 0,4054054054054054 
+GUID: 190456, Type: CultureItem, Rarity: Uncommon, Name: Geckos, Probability: 0,40540540540540543 
+GUID: 111120, Type: CultureItem, Rarity: Uncommon, Name: Hevea Tree, Probability: 0,40540540540540543 
+GUID: 190532, Type: CultureItem, Rarity: Uncommon, Name: Illuminated Manuscript, Probability: 0,40540540540540543 
+GUID: 190529, Type: CultureItem, Rarity: Uncommon, Name: Iron Helm, Probability: 0,40540540540540543 
+GUID: 190533, Type: CultureItem, Rarity: Uncommon, Name: Iron Shield, Probability: 0,40540540540540543 
+GUID: 190535, Type: CultureItem, Rarity: Uncommon, Name: Iron Sword, Probability: 0,40540540540540543 
+GUID: 191082, Type: CultureItem, Rarity: Uncommon, Name: Ivory Gull, Probability: 0,40540540540540543 
+GUID: 190453, Type: CultureItem, Rarity: Uncommon, Name: Jellyfish, Probability: 0,40540540540540543 
+GUID: 190462, Type: CultureItem, Rarity: Uncommon, Name: Lionfish, Probability: 0,4054054054054054 
+GUID: 190463, Type: CultureItem, Rarity: Uncommon, Name: Manta Ray, Probability: 0,4054054054054054 
+GUID: 114662, Type: CultureItem, Rarity: Uncommon, Name: Meadow Sage, Probability: 0,40540540540540543 
+GUID: 190471, Type: CultureItem, Rarity: Uncommon, Name: Mummy Bandages, Probability: 0,40540540540540543 
+GUID: 111115, Type: CultureItem, Rarity: Uncommon, Name: Oriental Cherry, Probability: 0,4054054054054054 
+GUID: 190481, Type: CultureItem, Rarity: Uncommon, Name: Painted Stones, Probability: 0,40540540540540543 
+GUID: 112735, Type: CultureItem, Rarity: Uncommon, Name: Papyrus, Probability: 0,4054054054054054 
+GUID: 190007, Type: CultureItem, Rarity: Uncommon, Name: Parrot, Probability: 0,4054054054054054 
+GUID: 191079, Type: CultureItem, Rarity: Uncommon, Name: Peacock, Probability: 0,4054054054054054 
+GUID: 112732, Type: CultureItem, Rarity: Uncommon, Name: Pillar Coral, Probability: 0,40540540540540543 
+GUID: 111116, Type: CultureItem, Rarity: Uncommon, Name: Purple Saxifrage, Probability: 0,40540540540540543 
+GUID: 190487, Type: CultureItem, Rarity: Uncommon, Name: Pyrite Crystals, Probability: 0,40540540540540543 
+GUID: 111123, Type: CultureItem, Rarity: Uncommon, Name: Rhododendron, Probability: 0,4054054054054054 
+GUID: 191084, Type: CultureItem, Rarity: Uncommon, Name: Ringed Seal, Probability: 0,40540540540540543 
+GUID: 111122, Type: CultureItem, Rarity: Uncommon, Name: Royal Palm, Probability: 0,40540540540540543 
+GUID: 114670, Type: CultureItem, Rarity: Uncommon, Name: Sea Thrift, Probability: 0,40540540540540543 
+GUID: 190458, Type: CultureItem, Rarity: Uncommon, Name: Seahorses, Probability: 0,40540540540540543 
+GUID: 114656, Type: CultureItem, Rarity: Uncommon, Name: Sea-lavender, Probability: 0,40540540540540543 
+GUID: 190530, Type: CultureItem, Rarity: Uncommon, Name: Silver Necklace, Probability: 0,40540540540540543 
+GUID: 191070, Type: CultureItem, Rarity: Uncommon, Name: Southern Gull, Probability: 0,4054054054054054 
+GUID: 111113, Type: CultureItem, Rarity: Uncommon, Name: Staghorn Coral, Probability: 0,40540540540540543 
+GUID: 114387, Type: CultureItem, Rarity: Uncommon, Name: Star Jasmine, Probability: 0,4054054054054054 
+GUID: 190534, Type: CultureItem, Rarity: Uncommon, Name: Stone Statue, Probability: 0,40540540540540543 
+GUID: 190527, Type: CultureItem, Rarity: Uncommon, Name: Tarnished Silver Coins, Probability: 0,40540540540540543 
+GUID: 114389, Type: CultureItem, Rarity: Uncommon, Name: Tulsi, Probability: 0,4054054054054054 
+GUID: 112736, Type: CultureItem, Rarity: Uncommon, Name: Water Hyacinth, Probability: 0,4054054054054054 
+GUID: 111111, Type: CultureItem, Rarity: Uncommon, Name: Water Lily, Probability: 0,40540540540540543 
+GUID: 113907, Type: CultureItem, Rarity: Rare, Name: Alligator Gar, Probability: 0,2298850574712644 
+GUID: 190483, Type: CultureItem, Rarity: Rare, Name: Ammonites, Probability: 0,22988505747126436 
+GUID: 191086, Type: CultureItem, Rarity: Rare, Name: Arctic Wolf, Probability: 0,4597701149425288 
+GUID: 190536, Type: CultureItem, Rarity: Rare, Name: Aureus Coins, Probability: 0,22988505747126436 
+GUID: 190464, Type: CultureItem, Rarity: Rare, Name: Balloon Fish, Probability: 0,22988505747126436 
+GUID: 191091, Type: CultureItem, Rarity: Rare, Name: Black Caiman, Probability: 0,22988505747126436 
+GUID: 112813, Type: CultureItem, Rarity: Rare, Name: Blobfish, Probability: 0,2298850574712644 
+GUID: 191075, Type: CultureItem, Rarity: Rare, Name: Boreal Caribou, Probability: 0,4597701149425288 
+GUID: 190449, Type: CultureItem, Rarity: Rare, Name: Bottlenose Dolphin, Probability: 0,2298850574712644 
+GUID: 190472, Type: CultureItem, Rarity: Rare, Name: Decaying Mummy, Probability: 0,22988505747126436 
+GUID: 112816, Type: CultureItem, Rarity: Rare, Name: Deep-Sea Dragonfish, Probability: 0,2298850574712644 
+GUID: 191083, Type: CultureItem, Rarity: Rare, Name: Elk, Probability: 0,2298850574712644 
+GUID: 114383, Type: CultureItem, Rarity: Rare, Name: Espeletia, Probability: 0,2298850574712644 
+GUID: 113905, Type: CultureItem, Rarity: Rare, Name: Firefly Squid, Probability: 0,2298850574712644 
+GUID: 112612, Type: CultureItem, Rarity: Rare, Name: Giant Water Lily, Probability: 0,2298850574712644 
+GUID: 191081, Type: CultureItem, Rarity: Rare, Name: Glossy Black Cockatoo, Probability: 0,22988505747126436 
+GUID: 190451, Type: CultureItem, Rarity: Rare, Name: Gorilla, Probability: 0,22988505747126436 
+GUID: 111107, Type: CultureItem, Rarity: Rare, Name: Great Star Coral, Probability: 0,2298850574712644 
+GUID: 111119, Type: CultureItem, Rarity: Rare, Name: Guayacan de Manizales, Probability: 0,2298850574712644 
+GUID: 114667, Type: CultureItem, Rarity: Rare, Name: Gungurru, Probability: 0,2298850574712644 
+GUID: 190540, Type: CultureItem, Rarity: Rare, Name: Heimskringla, Probability: 0,22988505747126436 
+GUID: 112815, Type: CultureItem, Rarity: Rare, Name: Helmet Jellyfish, Probability: 0,2298850574712644 
+GUID: 114796, Type: CultureItem, Rarity: Rare, Name: Inunnguaq Inuksuk, Probability: 0,2298850574712644 
+GUID: 190489, Type: CultureItem, Rarity: Rare, Name: Jade Pearl, Probability: 0,22988505747126436 
+GUID: 191090, Type: CultureItem, Rarity: Rare, Name: Jaguar, Probability: 0,22988505747126436 
+GUID: 114669, Type: CultureItem, Rarity: Rare, Name: Jerusalem Sage, Probability: 0,22988505747126436 
+GUID: 190459, Type: CultureItem, Rarity: Rare, Name: Kingfisher, Probability: 0,2298850574712644 
+GUID: 112733, Type: CultureItem, Rarity: Rare, Name: Marsh-Mallow, Probability: 0,22988505747126436 
+GUID: 112731, Type: CultureItem, Rarity: Rare, Name: Metaxya Fern, Probability: 0,2298850574712644 
+GUID: 114665, Type: CultureItem, Rarity: Rare, Name: Moon Orchid, Probability: 0,22988505747126436 
+GUID: 191076, Type: CultureItem, Rarity: Rare, Name: Musk Ox, Probability: 0,4597701149425288 
+GUID: 190450, Type: CultureItem, Rarity: Rare, Name: Orca, Probability: 0,22988505747126436 
+GUID: 114666, Type: CultureItem, Rarity: Rare, Name: Oriental Tassel Fern, Probability: 0,22988505747126436 
+GUID: 191080, Type: CultureItem, Rarity: Rare, Name: Pelican, Probability: 0,22988505747126436 
+GUID: 114668, Type: CultureItem, Rarity: Rare, Name: Pink Sugarbush, Probability: 0,2298850574712644 
+GUID: 114799, Type: CultureItem, Rarity: Rare, Name: Pirujaqarvik Inuksuk, Probability: 0,2298850574712644 
+GUID: 191089, Type: CultureItem, Rarity: Rare, Name: Puma, Probability: 0,22988505747126436 
+GUID: 114381, Type: CultureItem, Rarity: Rare, Name: Purple Pitcher Plant, Probability: 0,2298850574712644 
+GUID: 114385, Type: CultureItem, Rarity: Rare, Name: Queen of the Andes, Probability: 0,2298850574712644 
+GUID: 114658, Type: CultureItem, Rarity: Rare, Name: Sea Heart Liana, Probability: 0,2298850574712644 
+GUID: 114155, Type: CultureItem, Rarity: Rare, Name: Sheet Music "Anno 1800", Probability: 0,22988505747126436 
+GUID: 190537, Type: CultureItem, Rarity: Rare, Name: Silken Fabrics, Probability: 0,22988505747126436 
+GUID: 190538, Type: CultureItem, Rarity: Rare, Name: Silver Helmet, Probability: 0,22988505747126436 
+GUID: 190541, Type: CultureItem, Rarity: Rare, Name: Silver Ring, Probability: 0,22988505747126436 
+GUID: 190542, Type: CultureItem, Rarity: Rare, Name: Silver Shield, Probability: 0,22988505747126436 
+GUID: 190544, Type: CultureItem, Rarity: Rare, Name: Silver Sword, Probability: 0,22988505747126436 
+GUID: 112734, Type: CultureItem, Rarity: Rare, Name: Snow Gum, Probability: 0,2298850574712644 
+GUID: 190543, Type: CultureItem, Rarity: Rare, Name: Statue of Enesidaone, Probability: 0,22988505747126436 
+GUID: 191087, Type: CultureItem, Rarity: Rare, Name: Swordfish, Probability: 0,22988505747126436 
+GUID: 190539, Type: CultureItem, Rarity: Rare, Name: Tara Brooch, Probability: 0,22988505747126436 
+GUID: 190468, Type: CultureItem, Rarity: Rare, Name: The Art of Medicine, Probability: 0,22988505747126436 
+GUID: 191088, Type: CultureItem, Rarity: Rare, Name: Tiger, Probability: 0,22988505747126436 
+GUID: 115472, Type: CultureItem, Rarity: Rare, Name: Toy Qamutiik, Probability: 0,2298850574712644 
+GUID: 112817, Type: CultureItem, Rarity: Rare, Name: Unknown Luminescent Fish, Probability: 0,2298850574712644 
+GUID: 111110, Type: CultureItem, Rarity: Rare, Name: Yellow Lotus, Probability: 0,2298850574712644 
+GUID: 191507, Type: CultureItem, Rarity: Epic, Name: Albino Alligator, Probability: 0,12987012987012989 
+GUID: 190476, Type: CultureItem, Rarity: Epic, Name: Barbarossa's Bones, Probability: 0,12987012987012986 
+GUID: 191093, Type: CultureItem, Rarity: Epic, Name: Bird-of-Paradise, Probability: 0,12987012987012989 
+GUID: 190004, Type: CultureItem, Rarity: Epic, Name: Black Jaguar, Probability: 0,12987012987012989 
+GUID: 112812, Type: CultureItem, Rarity: Epic, Name: Black Swallower, Probability: 0,12987012987012986 
+GUID: 190515, Type: CultureItem, Rarity: Epic, Name: Brón Dolmen, Probability: 0,12987012987012986 
+GUID: 190551, Type: CultureItem, Rarity: Epic, Name: Brownbeard's Cutlass, Probability: 0,12987012987012986 
+GUID: 190547, Type: CultureItem, Rarity: Epic, Name: Diamond, Probability: 0,12987012987012989 
+GUID: 190513, Type: CultureItem, Rarity: Epic, Name: Dionysian Mosaic, Probability: 0,12987012987012986 
+GUID: 190518, Type: CultureItem, Rarity: Epic, Name: Drakkar Carving, Probability: 0,12987012987012986 
+GUID: 191095, Type: CultureItem, Rarity: Epic, Name: Dusky Dolphin, Probability: 0,12987012987012986 
+GUID: 191112, Type: CultureItem, Rarity: Epic, Name: Eastern Elephant, Probability: 0,12987012987012986 
+GUID: 191100, Type: CultureItem, Rarity: Epic, Name: False Killer Whale, Probability: 0,12987012987012986 
+GUID: 112811, Type: CultureItem, Rarity: Epic, Name: Goblin Shark, Probability: 0,12987012987012986 
+GUID: 190519, Type: CultureItem, Rarity: Epic, Name: Goidelic Stone Knot, Probability: 0,12987012987012986 
+GUID: 190548, Type: CultureItem, Rarity: Epic, Name: Golden War Helm, Probability: 0,12987012987012986 
+GUID: 191099, Type: CultureItem, Rarity: Epic, Name: Great White Shark, Probability: 0,12987012987012986 
+GUID: 114798, Type: CultureItem, Rarity: Epic, Name: Igluit, Probability: 0,17316017316017315 
+GUID: 191092, Type: CultureItem, Rarity: Epic, Name: Iguaca, Probability: 0,12987012987012989 
+GUID: 190512, Type: CultureItem, Rarity: Epic, Name: Imperial Eagle Mosaic, Probability: 0,12987012987012986 
+GUID: 113472, Type: CultureItem, Rarity: Epic, Name: Imperial Figurehead, Probability: 0,38961038961038963 
+GUID: 190473, Type: CultureItem, Rarity: Epic, Name: Juanita the Mummy, Probability: 0,12987012987012986 
+GUID: 112818, Type: CultureItem, Rarity: Epic, Name: Lion's Mane Jellyfish, Probability: 0,12987012987012986 
+GUID: 190517, Type: CultureItem, Rarity: Epic, Name: Menhirs, Probability: 0,12987012987012986 
+GUID: 190500, Type: CultureItem, Rarity: Epic, Name: Mesoan Glyphs, Probability: 0,12987012987012986 
+GUID: 190497, Type: CultureItem, Rarity: Epic, Name: Mesoan House, Probability: 0,12987012987012986 
+GUID: 114673, Type: CultureItem, Rarity: Epic, Name: Mezoan Horn Cone, Probability: 0,12987012987012989 
+GUID: 190496, Type: CultureItem, Rarity: Epic, Name: Nazcan Tomb, Probability: 0,12987012987012986 
+GUID: 190508, Type: CultureItem, Rarity: Epic, Name: Olympian Temple Remains, Probability: 0,12987012987012986 
+GUID: 191101, Type: CultureItem, Rarity: Epic, Name: Orangutan, Probability: 0,12987012987012986 
+GUID: 190962, Type: CultureItem, Rarity: Epic, Name: Pink River Dolphin, Probability: 0,12987012987012989 
+GUID: 190448, Type: CultureItem, Rarity: Epic, Name: Polar Bear, Probability: 0,06493506493506493 
+GUID: 190465, Type: CultureItem, Rarity: Epic, Name: Prickly Sea-Devil, Probability: 0,12987012987012986 
+GUID: 114674, Type: CultureItem, Rarity: Epic, Name: Pride of Madeira, Probability: 0,12987012987012989 
+GUID: 190549, Type: CultureItem, Rarity: Epic, Name: Protoceratops Eggs, Probability: 0,12987012987012989 
+GUID: 191097, Type: CultureItem, Rarity: Epic, Name: Pygmy Killer Whale, Probability: 0,12987012987012986 
+GUID: 190550, Type: CultureItem, Rarity: Epic, Name: Regal Gold Ring, Probability: 0,12987012987012986 
+GUID: 190510, Type: CultureItem, Rarity: Epic, Name: Sanctuary of Hellebore, Probability: 0,12987012987012986 
+GUID: 190506, Type: CultureItem, Rarity: Epic, Name: Santillana Cave Painting, Probability: 0,12987012987012986 
+GUID: 190546, Type: CultureItem, Rarity: Epic, Name: Shroud of the Great King, Probability: 0,12987012987012986 
+GUID: 191102, Type: CultureItem, Rarity: Epic, Name: Silverback Gorilla, Probability: 0,12987012987012986 
+GUID: 190484, Type: CultureItem, Rarity: Epic, Name: Song of Ilion, Probability: 0,12987012987012986 
+GUID: 190485, Type: CultureItem, Rarity: Epic, Name: Song of Odysseus, Probability: 0,12987012987012986 
+GUID: 191094, Type: CultureItem, Rarity: Epic, Name: Spectacled Bear, Probability: 0,12987012987012989 
+GUID: 191098, Type: CultureItem, Rarity: Epic, Name: Sperm Whale, Probability: 0,12987012987012986 
+GUID: 191096, Type: CultureItem, Rarity: Epic, Name: Spotted Dolphin, Probability: 0,12987012987012986 
+GUID: 190503, Type: CultureItem, Rarity: Epic, Name: Stegosaurus, Probability: 0,12987012987012989 
+GUID: 190474, Type: CultureItem, Rarity: Epic, Name: Takal's Necklace, Probability: 0,12987012987012986 
+GUID: 190545, Type: CultureItem, Rarity: Epic, Name: The Treasure of Ben Sahid, Probability: 0,12987012987012986 
+GUID: 114672, Type: CultureItem, Rarity: Epic, Name: Tiger-Spotted Stanhopea, Probability: 0,12987012987012989 
+GUID: 115473, Type: CultureItem, Rarity: Epic, Name: Uummannaq Mummy, Probability: 0,17316017316017315 
+GUID: 116040, Type: CultureItem, Rarity: Epic, Name: Walrus, Probability: 0,06493506493506493 
+GUID: 115474, Type: CultureItem, Rarity: Epic, Name: Wolf Pup Mummy, Probability: 0,17316017316017315 
+GUID: 191106, Type: CultureItem, Rarity: Legendary, Name: Albino Fennec, Probability: 0,17543859649122806 
+GUID: 193192, Type: CultureItem, Rarity: Legendary, Name: Albino Gorilla, Probability: 0,17543859649122806 
+GUID: 190516, Type: CultureItem, Rarity: Legendary, Name: Altar of Uppsidaisi, Probability: 0,17543859649122806 
+GUID: 190504, Type: CultureItem, Rarity: Legendary, Name: Apatosaurus, Probability: 0,17543859649122806 
+GUID: 112824, Type: CultureItem, Rarity: Legendary, Name: Atlantean Tablet, Probability: 0,17543859649122806 
+GUID: 112478, Type: CultureItem, Rarity: Legendary, Name: Atlantean Wall, Probability: 0,17543859649122806 
+GUID: 190511, Type: CultureItem, Rarity: Legendary, Name: Augustan Forum, Probability: 0,17543859649122806 
+GUID: 191108, Type: CultureItem, Rarity: Legendary, Name: Baiji, Probability: 0,17543859649122806 
+GUID: 191110, Type: CultureItem, Rarity: Legendary, Name: Coastal Leopard, Probability: 0,17543859649122806 
+GUID: 113469, Type: CultureItem, Rarity: Legendary, Name: Coelacanth, Probability: 0,17543859649122806 
+GUID: 112484, Type: CultureItem, Rarity: Legendary, Name: Court of Laws, Probability: 0,17543859649122806 
+GUID: 191107, Type: CultureItem, Rarity: Legendary, Name: Dire Wolf, Probability: 0,17543859649122806 
+GUID: 114794, Type: CultureItem, Rarity: Legendary, Name: Frozen Woolly Mammoth, Probability: 0,17543859649122806 
+GUID: 191105, Type: CultureItem, Rarity: Legendary, Name: Giant Deer, Probability: 0,17543859649122806 
+GUID: 190514, Type: CultureItem, Rarity: Legendary, Name: Goidelic Stone Circle, Probability: 0,17543859649122806 
+GUID: 115470, Type: CultureItem, Rarity: Legendary, Name: Great Auk, Probability: 0,08771929824561403 
+GUID: 114678, Type: CultureItem, Rarity: Legendary, Name: Holy Moly, Probability: 0,17543859649122806 
+GUID: 191104, Type: CultureItem, Rarity: Legendary, Name: Kolponomos, Probability: 0,17543859649122806 
+GUID: 191111, Type: CultureItem, Rarity: Legendary, Name: Lake Orangutan, Probability: 0,17543859649122806 
+GUID: 190493, Type: CultureItem, Rarity: Legendary, Name: Lungnibbel Ring, Probability: 0,17543859649122806 
+GUID: 190501, Type: CultureItem, Rarity: Legendary, Name: Mesoan Calendar, Probability: 0,17543859649122806 
+GUID: 190498, Type: CultureItem, Rarity: Legendary, Name: Mesoan Harbour, Probability: 0,17543859649122806 
+GUID: 190499, Type: CultureItem, Rarity: Legendary, Name: Mesoan Temple, Probability: 0,17543859649122806 
+GUID: 190505, Type: CultureItem, Rarity: Legendary, Name: Mosasaurus Fossil, Probability: 0,17543859649122806 
+GUID: 115273, Type: CultureItem, Rarity: Legendary, Name: Narwhal, Probability: 0,08771929824561403 
+GUID: 190475, Type: CultureItem, Rarity: Legendary, Name: Neanderthal Skeleton, Probability: 0,17543859649122806 
+GUID: 191103, Type: CultureItem, Rarity: Legendary, Name: Norfolk Kaka, Probability: 0,17543859649122806 
+GUID: 112485, Type: CultureItem, Rarity: Legendary, Name: Orichalcum Statue, Probability: 0,17543859649122806 
+GUID: 190480, Type: CultureItem, Rarity: Legendary, Name: Sæmundar Edda, Probability: 0,17543859649122806 
+GUID: 114152, Type: CultureItem, Rarity: Legendary, Name: Sheet Music "Anno 1404", Probability: 0,3053087263613579 
+GUID: 112487, Type: CultureItem, Rarity: Legendary, Name: Sheet Music "Anno 1701", Probability: 0,3053087263613579 
+GUID: 112821, Type: CultureItem, Rarity: Legendary, Name: Summit of Atlantis, Probability: 0,17543859649122806 
+GUID: 190509, Type: CultureItem, Rarity: Legendary, Name: Temple of Enesidaone, Probability: 0,17543859649122806 
+GUID: 112483, Type: CultureItem, Rarity: Legendary, Name: Temple of Poseidon, Probability: 0,17543859649122806 
+GUID: 112728, Type: CultureItem, Rarity: Legendary, Name: The Banyan Tree, Probability: 0,17543859649122806 
+GUID: 112730, Type: CultureItem, Rarity: Legendary, Name: The Brazil Nut Tree, Probability: 0,17543859649122806 
+GUID: 114677, Type: CultureItem, Rarity: Legendary, Name: The Elusive Fern Flower, Probability: 0,17543859649122806 
+GUID: 114679, Type: CultureItem, Rarity: Legendary, Name: The Hades Asphodel, Probability: 0,17543859649122806 
+GUID: 111117, Type: CultureItem, Rarity: Legendary, Name: The Jujube Lotus, Probability: 0,17543859649122806 
+GUID: 112476, Type: CultureItem, Rarity: Legendary, Name: The Kraken, Probability: 0,17543859649122806 
+GUID: 114675, Type: CultureItem, Rarity: Legendary, Name: Titan Arum, Probability: 0,3053087263613579 
+GUID: 114676, Type: CultureItem, Rarity: Legendary, Name: Tower Of Jewels, Probability: 0,3053087263613579 
+GUID: 190502, Type: CultureItem, Rarity: Legendary, Name: T-Rex, Probability: 0,17543859649122806 
+GUID: 190470, Type: CultureItem, Rarity: Legendary, Name: Valkyrie's Helmet, Probability: 0,17543859649122806 
+GUID: 190507, Type: CultureItem, Rarity: Legendary, Name: Valojoulx Cave Painting, Probability: 0,17543859649122806 
+GUID: 191109, Type: CultureItem, Rarity: Legendary, Name: Vaquita, Probability: 0,17543859649122806 
+GUID: 193191, Type: CultureItem, Rarity: Legendary, Name: White Peacock, Probability: 0,17543859649122806 
+GUID: 190452, Type: CultureItem, Rarity: Legendary, Name: White Tiger, Probability: 0,17543859649122806 
+GUID: 190552, Type: CultureItem, Rarity: Legendary, Name: White Tooth, Sword of Rhydderch, Probability: 0,17543859649122806 

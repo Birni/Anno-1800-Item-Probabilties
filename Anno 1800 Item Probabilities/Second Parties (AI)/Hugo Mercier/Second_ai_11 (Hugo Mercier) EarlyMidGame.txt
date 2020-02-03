@@ -1,0 +1,16 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 3,8095238095238098 
+GUID: 191853, Type: VehicleItem, Rarity: Rare, Name: 18-Pounder Long Gun, Probability: 0,8333333333333334 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 3,8095238095238098 
+GUID: 191889, Type: HarborOfficeItem, Rarity: Rare, Name: Auxetophone, Probability: 0,8333333333333334 
+GUID: 111175, Type: TownhallItem, Rarity: Common, Name: Affiliated Anarchist, Probability: 8,333333333333334 
+GUID: 111176, Type: TownhallItem, Rarity: Uncommon, Name: Anti-Clerical Lecturer, Probability: 6,666666666666667 
+GUID: 110948, Type: TownhallItem, Rarity: Uncommon, Name: People's Jury Hall, Probability: 3,8095238095238098 
+GUID: 111177, Type: TownhallItem, Rarity: Rare, Name: Democratically Elected Minister, Probability: 1,6666666666666667 
+GUID: 110949, Type: TownhallItem, Rarity: Rare, Name: Popular People's Court, Probability: 0,8333333333333334 
+GUID: 110942, Type: GuildhouseItem, Rarity: Uncommon, Name: Hall of Collective Property, Probability: 3,8095238095238098 
+GUID: 110936, Type: GuildhouseItem, Rarity: Uncommon, Name: Writing Machine, Probability: 3,8095238095238098 
+GUID: 110943, Type: GuildhouseItem, Rarity: Rare, Name: Bureau of Worker-Owned Cooperatives, Probability: 0,8333333333333334 
+GUID: 110937, Type: GuildhouseItem, Rarity: Rare, Name: Copperplate Printer, Probability: 0,8333333333333334 
+GUID: 111126, Type: ShipSpecialist, Rarity: Common, Name: Incendiary, Probability: 8,333333333333334 
+GUID: 111127, Type: ShipSpecialist, Rarity: Uncommon, Name: Arsonist, Probability: 6,666666666666667 
+GUID: 111128, Type: ShipSpecialist, Rarity: Rare, Name: Jittery Pyromaniac, Probability: 1,6666666666666667 

@@ -1,0 +1,20 @@
+GUID: 191852, Type: VehicleItem, Rarity: Uncommon, Name: Congrave Rocket, Probability: 0,5263157894736842 
+GUID: 191853, Type: VehicleItem, Rarity: Rare, Name: 18-Pounder Long Gun, Probability: 0,3125 
+GUID: 191888, Type: HarborOfficeItem, Rarity: Uncommon, Name: Megaphone, Probability: 0,5263157894736842 
+GUID: 191889, Type: HarborOfficeItem, Rarity: Rare, Name: Auxetophone, Probability: 0,3125 
+GUID: 190850, Type: GuildhouseItem, Rarity: Uncommon, Name: Bow Saw, Probability: 0,5263157894736842 
+GUID: 190830, Type: GuildhouseItem, Rarity: Uncommon, Name: Calciner, Probability: 0,5263157894736842 
+GUID: 190908, Type: GuildhouseItem, Rarity: Uncommon, Name: Circular Saw, Probability: 0,5263157894736842 
+GUID: 190879, Type: GuildhouseItem, Rarity: Uncommon, Name: Drill, Probability: 0,5263157894736842 
+GUID: 190856, Type: GuildhouseItem, Rarity: Uncommon, Name: Industrial Thresher, Probability: 0,5263157894736842 
+GUID: 190853, Type: GuildhouseItem, Rarity: Uncommon, Name: Trap, Probability: 0,5263157894736842 
+GUID: 190909, Type: GuildhouseItem, Rarity: Rare, Name: Circular Rip Saw, Probability: 0,3125 
+GUID: 190857, Type: GuildhouseItem, Rarity: Rare, Name: Druid's Sickle, Probability: 0,3125 
+GUID: 190854, Type: GuildhouseItem, Rarity: Rare, Name: Leghold Trap, Probability: 0,3125 
+GUID: 190831, Type: GuildhouseItem, Rarity: Rare, Name: Reverberatory Furnace, Probability: 0,3125 
+GUID: 190851, Type: GuildhouseItem, Rarity: Rare, Name: Two-Man Saw, Probability: 0,3125 
+GUID: 191058, Type: CultureItem, Rarity: Common, Name: Cattle, Probability: 0,7142857142857143 
+GUID: 191059, Type: CultureItem, Rarity: Common, Name: Chicken, Probability: 0,7142857142857143 
+GUID: 191065, Type: CultureItem, Rarity: Common, Name: Domestic Pig, Probability: 0,7142857142857143 
+GUID: 191062, Type: CultureItem, Rarity: Common, Name: Goat, Probability: 0,7142857142857143 
+GUID: 190467, Type: CultureItem, Rarity: Common, Name: Rats, Probability: 0,7142857142857143 

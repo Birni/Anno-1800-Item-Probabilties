@@ -1,0 +1,24 @@
+GUID: 116081, Type: GuildhouseItem, Rarity: Uncommon, Name: Clay Kudlik, Probability: 7,6190476190476195 
+GUID: 116142, Type: GuildhouseItem, Rarity: Uncommon, Name: Dog-Breeder, Probability: 2,666666666666667 
+GUID: 116041, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Baleen Boat, Probability: 7,6190476190476195 
+GUID: 116096, Type: GuildhouseItem, Rarity: Uncommon, Name: Driftwood Iggaak, Probability: 7,6190476190476195 
+GUID: 116087, Type: GuildhouseItem, Rarity: Uncommon, Name: Hide Scraper, Probability: 7,6190476190476195 
+GUID: 116146, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Hunter, Probability: 2,666666666666667 
+GUID: 116130, Type: GuildhouseItem, Rarity: Uncommon, Name: Inuit Seamster, Probability: 2,666666666666667 
+GUID: 116069, Type: GuildhouseItem, Rarity: Uncommon, Name: Nuyakpak, Probability: 7,6190476190476195 
+GUID: 116148, Type: GuildhouseItem, Rarity: Uncommon, Name: Outdoor Cook, Probability: 2,666666666666667 
+GUID: 116078, Type: GuildhouseItem, Rarity: Uncommon, Name: Pititsi, Probability: 7,6190476190476195 
+GUID: 116147, Type: GuildhouseItem, Rarity: Uncommon, Name: Sled Builder, Probability: 2,666666666666667 
+GUID: 116099, Type: GuildhouseItem, Rarity: Uncommon, Name: Ulu, Probability: 7,6190476190476195 
+GUID: 116097, Type: GuildhouseItem, Rarity: Rare, Name: Antler Iggaak, Probability: 1,9047619047619049 
+GUID: 116149, Type: GuildhouseItem, Rarity: Rare, Name: Artful Inuit Hunter, Probability: 0,6666666666666667 
+GUID: 116143, Type: GuildhouseItem, Rarity: Rare, Name: Astute Dog-Breeder, Probability: 0,6666666666666667 
+GUID: 116079, Type: GuildhouseItem, Rarity: Rare, Name: Cable-Backed Bow, Probability: 1,9047619047619049 
+GUID: 116088, Type: GuildhouseItem, Rarity: Rare, Name: Kaputaq Awl, Probability: 1,9047619047619049 
+GUID: 116132, Type: GuildhouseItem, Rarity: Rare, Name: Practised Inuit Seamster, Probability: 0,6666666666666667 
+GUID: 116042, Type: GuildhouseItem, Rarity: Rare, Name: Qajak, Probability: 1,9047619047619049 
+GUID: 116151, Type: GuildhouseItem, Rarity: Rare, Name: Rugged Outdoor Cook, Probability: 0,6666666666666667 
+GUID: 116150, Type: GuildhouseItem, Rarity: Rare, Name: Sharp Sled Builder, Probability: 0,6666666666666667 
+GUID: 116082, Type: GuildhouseItem, Rarity: Rare, Name: Soapstone Kudlik, Probability: 1,9047619047619049 
+GUID: 116070, Type: GuildhouseItem, Rarity: Rare, Name: Unaaq, Probability: 1,9047619047619049 
+GUID: 116100, Type: GuildhouseItem, Rarity: Rare, Name: Wooden Adze, Probability: 1,9047619047619049 

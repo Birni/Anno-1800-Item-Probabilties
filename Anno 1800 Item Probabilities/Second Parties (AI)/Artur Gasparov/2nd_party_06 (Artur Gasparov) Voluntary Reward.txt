@@ -1,0 +1,61 @@
+GUID: 114857, Type: ItemWithUI, Rarity: Common, Name: Camellia Garden, Probability: 0,5238095238095238 
+GUID: 114861, Type: ItemWithUI, Rarity: Common, Name: Gentian Garden, Probability: 0,5238095238095238 
+GUID: 114865, Type: ItemWithUI, Rarity: Common, Name: Hedge Maze, Probability: 1,0476190476190477 
+GUID: 114860, Type: ItemWithUI, Rarity: Common, Name: Hibiscus Garden, Probability: 0,5238095238095238 
+GUID: 114816, Type: ItemWithUI, Rarity: Common, Name: Iris Garden, Probability: 0,5238095238095238 
+GUID: 114862, Type: ItemWithUI, Rarity: Common, Name: Lily Garden, Probability: 0,5238095238095238 
+GUID: 114863, Type: ItemWithUI, Rarity: Common, Name: Marigold Garden, Probability: 0,5238095238095238 
+GUID: 114859, Type: ItemWithUI, Rarity: Common, Name: Red White Petunia Garden, Probability: 0,5238095238095238 
+GUID: 114864, Type: ItemWithUI, Rarity: Common, Name: Topiary Avenue, Probability: 1,0476190476190477 
+GUID: 114866, Type: ItemWithUI, Rarity: Common, Name: Topiary Garden, Probability: 1,0476190476190477 
+GUID: 114858, Type: ItemWithUI, Rarity: Common, Name: Yellow Daisy Garden, Probability: 0,5238095238095238 
+GUID: 114869, Type: ItemWithUI, Rarity: Uncommon, Name: Camellia Garden, Probability: 0,3741496598639456 
+GUID: 114877, Type: ItemWithUI, Rarity: Uncommon, Name: Gentian Garden, Probability: 0,3741496598639456 
+GUID: 114885, Type: ItemWithUI, Rarity: Uncommon, Name: Hedge Maze, Probability: 0,7482993197278912 
+GUID: 114875, Type: ItemWithUI, Rarity: Uncommon, Name: Hibiscus Garden, Probability: 0,3741496598639456 
+GUID: 114867, Type: ItemWithUI, Rarity: Uncommon, Name: Iris Garden, Probability: 0,3741496598639456 
+GUID: 114879, Type: ItemWithUI, Rarity: Uncommon, Name: Lily Garden, Probability: 0,3741496598639456 
+GUID: 114881, Type: ItemWithUI, Rarity: Uncommon, Name: Marigold Garden, Probability: 0,3741496598639456 
+GUID: 114873, Type: ItemWithUI, Rarity: Uncommon, Name: Red White Petunia Garden, Probability: 0,3741496598639456 
+GUID: 114883, Type: ItemWithUI, Rarity: Uncommon, Name: Topiary Avenue, Probability: 0,7482993197278912 
+GUID: 114887, Type: ItemWithUI, Rarity: Uncommon, Name: Topiary Garden, Probability: 0,7482993197278912 
+GUID: 114871, Type: ItemWithUI, Rarity: Uncommon, Name: Yellow Daisy Garden, Probability: 0,3741496598639456 
+GUID: 114870, Type: ItemWithUI, Rarity: Rare, Name: Camellia Garden, Probability: 0,14550264550264552 
+GUID: 114878, Type: ItemWithUI, Rarity: Rare, Name: Gentian Garden, Probability: 0,14550264550264552 
+GUID: 114886, Type: ItemWithUI, Rarity: Rare, Name: Hedge Maze, Probability: 0,29100529100529104 
+GUID: 114876, Type: ItemWithUI, Rarity: Rare, Name: Hibiscus Garden, Probability: 0,14550264550264552 
+GUID: 114868, Type: ItemWithUI, Rarity: Rare, Name: Iris Garden, Probability: 0,14550264550264552 
+GUID: 114880, Type: ItemWithUI, Rarity: Rare, Name: Lily Garden, Probability: 0,14550264550264552 
+GUID: 114882, Type: ItemWithUI, Rarity: Rare, Name: Marigold Garden, Probability: 0,14550264550264552 
+GUID: 114874, Type: ItemWithUI, Rarity: Rare, Name: Red White Petunia Garden, Probability: 0,14550264550264552 
+GUID: 114884, Type: ItemWithUI, Rarity: Rare, Name: Topiary Avenue, Probability: 0,29100529100529104 
+GUID: 114888, Type: ItemWithUI, Rarity: Rare, Name: Topiary Garden, Probability: 0,29100529100529104 
+GUID: 114872, Type: ItemWithUI, Rarity: Rare, Name: Yellow Daisy Garden, Probability: 0,14550264550264552 
+GUID: 190680, Type: HarborOfficeItem, Rarity: Common, Name: Guide, Probability: 0,6666666666666666 
+GUID: 190681, Type: HarborOfficeItem, Rarity: Uncommon, Name: Souvenir Seller, Probability: 0,4761904761904762 
+GUID: 190682, Type: HarborOfficeItem, Rarity: Rare, Name: Travel Agent, Probability: 0,18518518518518517 
+GUID: 190728, Type: TownhallItem, Rarity: Rare, Name: Actor, Probability: 0,18518518518518517 
+GUID: 191468, Type: TownhallItem, Rarity: Rare, Name: Sales Clerk, Probability: 0,18518518518518517 
+GUID: 191571, Type: TownhallItem, Rarity: Rare, Name: Steward, Probability: 0,18518518518518517 
+GUID: 190735, Type: GuildhouseItem, Rarity: Uncommon, Name: Forester, Probability: 0,4761904761904762 
+GUID: 190741, Type: GuildhouseItem, Rarity: Uncommon, Name: Kiln Keeper, Probability: 0,4761904761904762 
+GUID: 191381, Type: GuildhouseItem, Rarity: Rare, Name: Award-Winning Brewer, Probability: 0,18518518518518517 
+GUID: 190716, Type: GuildhouseItem, Rarity: Rare, Name: Beatific Bishopess, Probability: 0,18518518518518517 
+GUID: 190625, Type: GuildhouseItem, Rarity: Rare, Name: Illustrious Gemologist, Probability: 0,18518518518518517 
+GUID: 191308, Type: GuildhouseItem, Rarity: Rare, Name: Lens Designer, Probability: 0,18518518518518517 
+GUID: 190648, Type: GuildhouseItem, Rarity: Rare, Name: Respected Oenologist, Probability: 0,18518518518518517 
+GUID: 190703, Type: GuildhouseItem, Rarity: Rare, Name: Steely-Eyed Steelsmith, Probability: 0,18518518518518517 
+GUID: 114538, Type: CultureItem, Rarity: Common, Name: Foxglove, Probability: 0,6666666666666666 
+GUID: 114657, Type: CultureItem, Rarity: Common, Name: Morning Glory, Probability: 0,6666666666666666 
+GUID: 114388, Type: CultureItem, Rarity: Uncommon, Name: Champak, Probability: 0,4761904761904762 
+GUID: 111115, Type: CultureItem, Rarity: Uncommon, Name: Oriental Cherry, Probability: 0,4761904761904762 
+GUID: 111123, Type: CultureItem, Rarity: Uncommon, Name: Rhododendron, Probability: 0,4761904761904762 
+GUID: 111122, Type: CultureItem, Rarity: Uncommon, Name: Royal Palm, Probability: 0,4761904761904762 
+GUID: 114387, Type: CultureItem, Rarity: Uncommon, Name: Star Jasmine, Probability: 0,4761904761904762 
+GUID: 112736, Type: CultureItem, Rarity: Uncommon, Name: Water Hyacinth, Probability: 0,4761904761904762 
+GUID: 114665, Type: CultureItem, Rarity: Rare, Name: Moon Orchid, Probability: 0,18518518518518517 
+GUID: 114668, Type: CultureItem, Rarity: Rare, Name: Pink Sugarbush, Probability: 0,18518518518518517 
+GUID: 114385, Type: CultureItem, Rarity: Rare, Name: Queen of the Andes, Probability: 0,18518518518518517 
+GUID: 114155, Type: CultureItem, Rarity: Rare, Name: Sheet Music "Anno 1800", Probability: 0,18518518518518517 
+GUID: 190543, Type: CultureItem, Rarity: Rare, Name: Statue of Enesidaone, Probability: 0,18518518518518517 
+GUID: 111110, Type: CultureItem, Rarity: Rare, Name: Yellow Lotus, Probability: 0,18518518518518517 

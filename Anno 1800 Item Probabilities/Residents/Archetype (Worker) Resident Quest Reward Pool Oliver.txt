@@ -1,0 +1,12 @@
+GUID: 191705, Type: TownhallItem, Rarity: Uncommon, Name: Cake Sale Flyer, Probability: 7,5 
+GUID: 191765, Type: TownhallItem, Rarity: Uncommon, Name: Minimum Schooling Act, Probability: 7,5 
+GUID: 191706, Type: TownhallItem, Rarity: Rare, Name: Boy's Choir Flyer, Probability: 5 
+GUID: 191766, Type: TownhallItem, Rarity: Rare, Name: Extended Schooling Act, Probability: 5 
+GUID: 191707, Type: TownhallItem, Rarity: Epic, Name: Crimbles Choral Society Poster, Probability: 5 
+GUID: 191767, Type: TownhallItem, Rarity: Epic, Name: Miss Jorgensen's Exemplary "School-to-16" Proposal, Probability: 5 
+GUID: 190525, Type: CultureItem, Rarity: Common, Name: Damaged Statue, Probability: 6 
+GUID: 190520, Type: CultureItem, Rarity: Common, Name: Folk Tales, Probability: 6 
+GUID: 190492, Type: CultureItem, Rarity: Common, Name: Rudimentary Necklace, Probability: 6 
+GUID: 190521, Type: CultureItem, Rarity: Common, Name: Rusty Sestertius, Probability: 6 
+GUID: 190527, Type: CultureItem, Rarity: Uncommon, Name: Tarnished Silver Coins, Probability: 7,5 
+GUID: 190483, Type: CultureItem, Rarity: Rare, Name: Ammonites, Probability: 5 

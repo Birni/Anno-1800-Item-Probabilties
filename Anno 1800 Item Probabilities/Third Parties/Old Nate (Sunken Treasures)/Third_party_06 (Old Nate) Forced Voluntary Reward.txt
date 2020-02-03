@@ -1,0 +1,115 @@
+GUID: 112554, Type: VehicleItem, Rarity: Rare, Name: Ballast Cable, Probability: 0,23809523809523808 
+GUID: 112548, Type: VehicleItem, Rarity: Rare, Name: Ballasted Diving Bell, Probability: 0,23809523809523808 
+GUID: 113359, Type: VehicleItem, Rarity: Rare, Name: Hobby Diver, Probability: 0,23809523809523808 
+GUID: 112368, Type: VehicleItem, Rarity: Rare, Name: IndiscrimiN8r, Probability: 0,23809523809523808 
+GUID: 112377, Type: VehicleItem, Rarity: Rare, Name: Jet Propeller — "Squall", Probability: 0,23809523809523808 
+GUID: 113356, Type: VehicleItem, Rarity: Rare, Name: Marine Biologist, Probability: 0,23809523809523808 
+GUID: 113353, Type: VehicleItem, Rarity: Rare, Name: Renowned Excavator, Probability: 0,23809523809523808 
+GUID: 113362, Type: VehicleItem, Rarity: Rare, Name: Treasure Seeker, Probability: 0,23809523809523808 
+GUID: 113354, Type: VehicleItem, Rarity: Epic, Name: Audrey the Marine Archaeologist, Probability: 0,11627906976744186 
+GUID: 112555, Type: VehicleItem, Rarity: Epic, Name: Caoutchouc Cable, Probability: 0,11627906976744186 
+GUID: 117303, Type: VehicleItem, Rarity: Epic, Name: Dedicated Airship Hoist, Probability: 0,1308139534883721 
+GUID: 112369, Type: VehicleItem, Rarity: Epic, Name: ExtermiN8r, Probability: 0,11627906976744186 
+GUID: 116173, Type: VehicleItem, Rarity: Epic, Name: Fjordbuster Mk. VI Propulsion Array, Probability: 0,13605442176870747 
+GUID: 112378, Type: VehicleItem, Rarity: Epic, Name: Jet Propeller — "Cyclone", Probability: 0,11627906976744186 
+GUID: 113363, Type: VehicleItem, Rarity: Epic, Name: Lamie The Wistful Pirate, Probability: 0,11627906976744186 
+GUID: 112549, Type: VehicleItem, Rarity: Epic, Name: Moon Pool Diving Bell, Probability: 0,11627906976744186 
+GUID: 113360, Type: VehicleItem, Rarity: Epic, Name: Nadia the Spotter, Probability: 0,11627906976744186 
+GUID: 116175, Type: VehicleItem, Rarity: Epic, Name: Royal Airship Stamp Mimic, Probability: 0,13605442176870747 
+GUID: 113357, Type: VehicleItem, Rarity: Epic, Name: Scara the Marine Biologist, Probability: 0,11627906976744186 
+GUID: 117302, Type: VehicleItem, Rarity: Epic, Name: Sports Gondola, Probability: 0,1308139534883721 
+GUID: 112550, Type: VehicleItem, Rarity: Legendary, Name: "Spoondrift" — Nathaniel's Pressurised Diving Bell, Probability: 0,11904761904761905 
+GUID: 112556, Type: VehicleItem, Rarity: Legendary, Name: Advanced Umbilical Cable, Probability: 0,11904761904761905 
+GUID: 113361, Type: VehicleItem, Rarity: Legendary, Name: Anthony Anchovy, Salvager of Sunken Sumps, Probability: 0,11904761904761904 
+GUID: 112370, Type: VehicleItem, Rarity: Legendary, Name: DomiN8r, Probability: 0,11904761904761905 
+GUID: 112379, Type: VehicleItem, Rarity: Legendary, Name: Jet Propeller — "Hurricane", Probability: 0,11904761904761905 
+GUID: 113364, Type: VehicleItem, Rarity: Legendary, Name: Mai Kalan, Descryer Of Brilliant Jewels, Probability: 0,11904761904761904 
+GUID: 113358, Type: VehicleItem, Rarity: Legendary, Name: Orvette Charles, of The Royal Society of Oceanographers., Probability: 0,11904761904761904 
+GUID: 113355, Type: VehicleItem, Rarity: Legendary, Name: Peter Flinders, Conservator of Artefacts, Probability: 0,11904761904761904 
+GUID: 113190, Type: ItemWithUI, Rarity: Rare, Name: Map of a Coral Garden, Probability: 0,17857142857142858 
+GUID: 113197, Type: ItemWithUI, Rarity: Rare, Name: Map of a Domestic Skirmish, Probability: 0,17857142857142858 
+GUID: 112937, Type: ItemWithUI, Rarity: Rare, Name: Map of a Forgotten Wreck, Probability: 0,17857142857142858 
+GUID: 113188, Type: ItemWithUI, Rarity: Rare, Name: Map of a Kelp Forest, Probability: 0,17857142857142858 
+GUID: 113198, Type: ItemWithUI, Rarity: Rare, Name: Map of a Rebel Incursion, Probability: 0,17857142857142858 
+GUID: 112936, Type: ItemWithUI, Rarity: Rare, Name: Map of a Remote Trading Post, Probability: 0,17857142857142858 
+GUID: 113189, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seagrass Meadow, Probability: 0,17857142857142858 
+GUID: 115478, Type: ItemWithUI, Rarity: Rare, Name: Map of a Seal Feeding Ground, Probability: 0,17857142857142858 
+GUID: 113199, Type: ItemWithUI, Rarity: Rare, Name: Map of a Trelawney Skirmish, Probability: 0,17857142857142858 
+GUID: 115475, Type: ItemWithUI, Rarity: Rare, Name: Map of an Abandoned Inuit Village, Probability: 0,17857142857142858 
+GUID: 115481, Type: ItemWithUI, Rarity: Rare, Name: Map of an Inuit Dispute, Probability: 0,17857142857142858 
+GUID: 112933, Type: ItemWithUI, Rarity: Rare, Name: Map of Ancient Ruins, Probability: 0,17857142857142858 
+GUID: 113192, Type: ItemWithUI, Rarity: Epic, Name: Map of a Barrier Reef, Probability: 0,0872093023255814 
+GUID: 115482, Type: ItemWithUI, Rarity: Epic, Name: Map of a Ghost Ship Sighting, Probability: 0,0872093023255814 
+GUID: 115476, Type: ItemWithUI, Rarity: Epic, Name: Map of a Huddlesome Bay Trading Post, Probability: 0,0872093023255814 
+GUID: 112934, Type: ItemWithUI, Rarity: Epic, Name: Map of a Lost Temple, Probability: 0,0872093023255814 
+GUID: 112939, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken City, Probability: 0,0872093023255814 
+GUID: 113202, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken La Corona Clipper, Probability: 0,0872093023255814 
+GUID: 113201, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Rebel Supply Ship, Probability: 0,0872093023255814 
+GUID: 113200, Type: ItemWithUI, Rarity: Epic, Name: Map of a Sunken Royal Clipper, Probability: 0,0872093023255814 
+GUID: 113193, Type: ItemWithUI, Rarity: Epic, Name: Map of an Abyssal Zone, Probability: 0,0872093023255814 
+GUID: 115479, Type: ItemWithUI, Rarity: Epic, Name: Map of an Arctic Basin, Probability: 0,0872093023255814 
+GUID: 113191, Type: ItemWithUI, Rarity: Epic, Name: Map of an Oceanic Trench, Probability: 0,0872093023255814 
+GUID: 112938, Type: ItemWithUI, Rarity: Epic, Name: Map of an Underwater Pyramid, Probability: 0,0872093023255814 
+GUID: 113194, Type: ItemWithUI, Rarity: Legendary, Name: Jörmungandr's Lair, Probability: 0,08928571428571429 
+GUID: 113204, Type: ItemWithUI, Rarity: Legendary, Name: Map of Isabel Sarmento's Emergency Vault, Probability: 0,08928571428571429 
+GUID: 115483, Type: ItemWithUI, Rarity: Legendary, Name: Map of Old Nate's Prototype Airship Crash Site, Probability: 0,08928571428571429 
+GUID: 113205, Type: ItemWithUI, Rarity: Legendary, Name: Map of Vicente Silva's Sunken Ship-of-the-Line, Probability: 0,08928571428571429 
+GUID: 113203, Type: ItemWithUI, Rarity: Legendary, Name: Map of Willie Wibblesock's Wondrous Stash, Probability: 0,08928571428571429 
+GUID: 115480, Type: ItemWithUI, Rarity: Legendary, Name: Megalodon's Abyss, Probability: 0,08928571428571429 
+GUID: 112940, Type: ItemWithUI, Rarity: Legendary, Name: The Gates to Paititi, Probability: 0,08928571428571429 
+GUID: 112941, Type: ItemWithUI, Rarity: Legendary, Name: The Herdsman's Journal, Probability: 0,08928571428571429 
+GUID: 113196, Type: ItemWithUI, Rarity: Legendary, Name: The Kraken's Pit, Probability: 0,08928571428571429 
+GUID: 113195, Type: ItemWithUI, Rarity: Legendary, Name: The Nest of Gukulmatz, Probability: 0,08928571428571429 
+GUID: 112935, Type: ItemWithUI, Rarity: Legendary, Name: The Palaces of Baiea, Probability: 0,08928571428571429 
+GUID: 115477, Type: ItemWithUI, Rarity: Legendary, Name: The Portal to Hyperborea, Probability: 0,08928571428571429 
+GUID: 112551, Type: ActiveItem, Rarity: Rare, Name: Echo Sounder, Probability: 0,23809523809523808 
+GUID: 112386, Type: HarborOfficeItem, Rarity: Rare, Name: TrepanN8r, Probability: 0,23809523809523808 
+GUID: 112387, Type: HarborOfficeItem, Rarity: Epic, Name: AssassiN8r, Probability: 0,11627906976744186 
+GUID: 112388, Type: HarborOfficeItem, Rarity: Legendary, Name: Evil ExsanguiN8r, Probability: 0,11904761904761905 
+GUID: 112389, Type: TownhallItem, Rarity: Rare, Name: Mystery Vending Box, Probability: 0,23809523809523808 
+GUID: 112392, Type: TownhallItem, Rarity: Rare, Name: Nate's Experimental Illuminations, Probability: 0,23809523809523808 
+GUID: 112390, Type: TownhallItem, Rarity: Epic, Name: Kiosk of Flighty Fortunes, Probability: 0,11627906976744186 
+GUID: 112393, Type: TownhallItem, Rarity: Epic, Name: Nate's Magically Morphomatic Rockets, Probability: 0,11627906976744186 
+GUID: 116181, Type: TownhallItem, Rarity: Epic, Name: Viridescent Billiard Table, Probability: 0,1308139534883721 
+GUID: 116186, Type: TownhallItem, Rarity: Legendary, Name: Hilarious Helium Party Balloon Pump, Probability: 0,13605442176870747 
+GUID: 112391, Type: TownhallItem, Rarity: Legendary, Name: Serendipitous Tombola of Inexplicable Curiosity, Probability: 0,11904761904761905 
+GUID: 112394, Type: TownhallItem, Rarity: Legendary, Name: The "Bish Bang Bibbly" Experimental Display, Probability: 0,11904761904761905 
+GUID: 116184, Type: TownhallItem, Rarity: Legendary, Name: The "Don't Leave It 'Til L8r!" EspressoN8r, Probability: 0,13605442176870747 
+GUID: 116188, Type: TownhallItem, Rarity: Legendary, Name: The "Magnificone" Ice Cream Maker, Probability: 0,13605442176870747 
+GUID: 112374, Type: GuildhouseItem, Rarity: Rare, Name: AlterN8 Current Generator, Probability: 0,23809523809523808 
+GUID: 116159, Type: GuildhouseItem, Rarity: Rare, Name: Aspirin Machine, Probability: 0,23809523809523808 
+GUID: 112365, Type: GuildhouseItem, Rarity: Rare, Name: ForkTuN8 Mk.1, Probability: 0,23809523809523808 
+GUID: 112380, Type: GuildhouseItem, Rarity: Rare, Name: Grubby Hands, Probability: 0,23809523809523808 
+GUID: 112383, Type: GuildhouseItem, Rarity: Rare, Name: Hydroelectric Wheel, Probability: 0,23809523809523808 
+GUID: 116180, Type: GuildhouseItem, Rarity: Rare, Name: Ice Maker, Probability: 0,23809523809523808 
+GUID: 112371, Type: GuildhouseItem, Rarity: Rare, Name: ImpersoN8r Nr. 531, Probability: 0,23809523809523808 
+GUID: 116179, Type: GuildhouseItem, Rarity: Rare, Name: Jukebox, Probability: 0,23809523809523808 
+GUID: 116160, Type: GuildhouseItem, Rarity: Rare, Name: Music Box, Probability: 0,23809523809523808 
+GUID: 116158, Type: GuildhouseItem, Rarity: Rare, Name: Radiator, Probability: 0,23809523809523808 
+GUID: 116178, Type: GuildhouseItem, Rarity: Rare, Name: RefridgerN8r, Probability: 0,23809523809523808 
+GUID: 116177, Type: GuildhouseItem, Rarity: Rare, Name: Smoke Detector, Probability: 0,23809523809523808 
+GUID: 116176, Type: GuildhouseItem, Rarity: Rare, Name: Water Cooler, Probability: 0,23809523809523808 
+GUID: 116183, Type: GuildhouseItem, Rarity: Epic, Name: Automatic Souvenir Kiosk, Probability: 0,1308139534883721 
+GUID: 116182, Type: GuildhouseItem, Rarity: Epic, Name: Craft Beer To Takeaway, Probability: 0,1308139534883721 
+GUID: 116162, Type: GuildhouseItem, Rarity: Epic, Name: Fat Chunk Candle Maker, Probability: 0,1308139534883721 
+GUID: 112366, Type: GuildhouseItem, Rarity: Epic, Name: ForkTuN8 Mk.2, Probability: 0,11627906976744186 
+GUID: 112381, Type: GuildhouseItem, Rarity: Epic, Name: Greedy Mitts, Probability: 0,11627906976744186 
+GUID: 116161, Type: GuildhouseItem, Rarity: Epic, Name: Outdoorsy Grill, Probability: 0,1308139534883721 
+GUID: 112384, Type: GuildhouseItem, Rarity: Epic, Name: Stainless Hydroelectric Wheel, Probability: 0,11627906976744186 
+GUID: 112372, Type: GuildhouseItem, Rarity: Epic, Name: SubordiN8 Nr. 360, Probability: 0,11627906976744186 
+GUID: 112375, Type: GuildhouseItem, Rarity: Epic, Name: The TurbiN8r, Probability: 0,11627906976744186 
+GUID: 116163, Type: GuildhouseItem, Rarity: Epic, Name: Zappy Battery #2205, Probability: 0,1308139534883721 
+GUID: 116185, Type: GuildhouseItem, Rarity: Legendary, Name: Cola Mola Wola Machine, Probability: 0,13605442176870747 
+GUID: 112367, Type: GuildhouseItem, Rarity: Legendary, Name: ForkTuN8 Mk.3 - Very ForktuN8 Indeed, Probability: 0,11904761904761905 
+GUID: 116164, Type: GuildhouseItem, Rarity: Legendary, Name: Gløgg Splurger, Probability: 0,13605442176870747 
+GUID: 116190, Type: GuildhouseItem, Rarity: Legendary, Name: Golden Potato Harvester From The Future, Probability: 0,13605442176870747 
+GUID: 116167, Type: GuildhouseItem, Rarity: Legendary, Name: Gritty Gas Extractor, Probability: 0,13605442176870747 
+GUID: 116166, Type: GuildhouseItem, Rarity: Legendary, Name: Heated Jacket Of Pouchiness, Probability: 0,13605442176870747 
+GUID: 112373, Type: GuildhouseItem, Rarity: Legendary, Name: Human IncarN8 Nr. 9, Probability: 0,11904761904761905 
+GUID: 116169, Type: GuildhouseItem, Rarity: Legendary, Name: Nate's Darling Kettle, Probability: 0,13605442176870747 
+GUID: 112385, Type: GuildhouseItem, Rarity: Legendary, Name: RacioN8d Super Spinner, Probability: 0,11904761904761905 
+GUID: 112382, Type: GuildhouseItem, Rarity: Legendary, Name: Sticky Shiny Claws, Probability: 0,11904761904761905 
+GUID: 116187, Type: GuildhouseItem, Rarity: Legendary, Name: The "Country Bumpkin" Cigar Roller, Probability: 0,13605442176870747 
+GUID: 116189, Type: GuildhouseItem, Rarity: Legendary, Name: The Bizarro-Balloono-Magn8, Probability: 0,13605442176870747 
+GUID: 116165, Type: GuildhouseItem, Rarity: Legendary, Name: The Uncanny Pocket Cannery, Probability: 0,13605442176870747 
+GUID: 112376, Type: GuildhouseItem, Rarity: Legendary, Name: UltiN8 Power Matrix, Probability: 0,11904761904761905 
